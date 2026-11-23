@@ -102,6 +102,13 @@ if [ -z "$CMAKE_IGNORE_PREFIX_PATH" ]; then
   export CMAKE_IGNORE_PREFIX_PATH="/opt/local:/usr/local:/opt/homebrew"
 fi
 
+# Xcode may be installed under a versioned name (Xcode_16.4.app on the CI
+# runners). Its compiler then needs an explicit SDK: without this, CPython's
+# configure test fails with "ld: library 'System' not found".
+if [ -z "$SDKROOT" ] && command -v xcrun >/dev/null 2>&1; then
+  export SDKROOT="$(xcrun --sdk macosx --show-sdk-path 2>/dev/null)"
+fi
+
 # CMake 实际产物的 bundle 名（如修改 src/CMakeLists.txt 中的 OUTPUT_NAME 需同步更新）
 SRC_APP_BUNDLE="Flash Studio.app"
 SRC_VALIDATOR_BUNDLE="OrcaSlicer_profile_validator.app"

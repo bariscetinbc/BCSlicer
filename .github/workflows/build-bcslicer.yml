@@ -85,6 +85,11 @@ jobs:
           OUTPUT_FILE: ${{ matrix.file }}
         run: |
           brew install gettext libtool automake autoconf texinfo
+          # Xcode can be installed under a versioned name, so a direct path to
+          # its compiler cannot find the SDK on its own. CPython's configure
+          # and make then fail with "ld: library 'System' not found".
+          export SDKROOT="${SDKROOT:-$(xcrun --sdk macosx --show-sdk-path)}"
+          echo "SDKROOT=$SDKROOT"
           arch="$(uname -m)"
           ./build_release_macos.sh -a "$arch" -x -1 -n
           mkdir mac-package

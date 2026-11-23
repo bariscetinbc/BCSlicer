@@ -1,0 +1,48 @@
+name: Diagnose macOS Python configure
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    name: ${{ matrix.name }}
+    runs-on: ${{ matrix.runner }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Apple-Silicon
+            runner: macos-15
+          - name: Intel
+            runner: macos-15-intel
+    steps:
+      - name: Download CPython source
+        run: |
+          curl -fsSL -o Python-3.12.13.tar.xz https://www.python.org/ftp/python/3.12.13/Python-3.12.13.tar.xz
+          tar -xJf Python-3.12.13.tar.xz
+      - name: Reproduce the failing configure
+        shell: bash
+        run: |
+          set +e
+          arch="$(uname -m)"
+          if [ "$arch" = "arm64" ]; then build=aarch64-apple-darwin; else build=x86_64-apple-darwin; fi
+          cc="/Applications/Xcode_16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc"
+          cxx="/Applications/Xcode_16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++"
+          [ -x "$cc" ] || cc="$(xcrun --find clang)"
+          [ -x "$cxx" ] || cxx="$(xcrun --find clang++)"
+          cd Python-3.12.13
+          env CC="$cc" CXX="$cxx" \
+            CFLAGS="-arch $arch -mmacosx-version-min=11.3" \
+            CXXFLAGS="-arch $arch -mmacosx-version-min=11.3" \
+            LDFLAGS="-arch $arch -mmacosx-version-min=11.3 -Wl,-headerpad_max_install_names" \
+            MACOSX_DEPLOYMENT_TARGET=11.3 \
+            ./configure --prefix=/tmp/libpython --enable-shared --enable-optimizations \
+              --without-static-libpython --with-openssl=/tmp/empty --disable-test-modules \
+              --build="$build" ac_cv_func_pipe2=no ac_cv_func_dup3=no py_cv_module__tkinter=n/a
+          echo "CONFIGURE_EXIT=$?"
+          echo "===== CONFIG.LOG COMPILER TEST ====="
+          grep -n -A 30 -B 5 "whether the C compiler works" config.log | tail -80
+          echo "===== CONFIG.LOG ERRORS ====="
+          grep -n -E "error:|ld:|clang:|not found|cannot" config.log | tail -40
+          echo "===== ENVIRONMENT ====="
+          env | grep -E "^(CC|CXX|CFLAGS|CXXFLAGS|LDFLAGS|SDKROOT|MACOSX_DEPLOYMENT_TARGET|LIBRARY_PATH|CPATH)=" | sort

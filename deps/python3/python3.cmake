@@ -211,6 +211,20 @@ elseif(APPLE)
     endif()
 
     set(_python_arch_flags "-arch ${_python_arch_flag} -mmacosx-version-min=${CMAKE_OSX_DEPLOYMENT_TARGET}")
+    # Xcode can be installed under a versioned name (Xcode_16.4.app on the CI
+    # runners). Calling its cc by full path then bypasses xcrun, so configure's
+    # first compiler test fails with "ld: library 'System' not found". Point it
+    # at the SDK explicitly; other dependencies go through the xcrun wrapper and
+    # do not need this.
+    execute_process(
+        COMMAND xcrun --sdk macosx --show-sdk-path
+        OUTPUT_VARIABLE _python_sdkroot
+        OUTPUT_STRIP_TRAILING_WHITESPACE
+        RESULT_VARIABLE _python_sdkroot_result
+    )
+    if(NOT _python_sdkroot_result EQUAL 0 OR NOT IS_DIRECTORY "${_python_sdkroot}/usr/lib")
+        message(FATAL_ERROR "Could not locate the macOS SDK for Python: '${_python_sdkroot}'")
+    endif()
     # No -rpath: all other deps are static, so libpython has no shared
     # dependencies to find there. headerpad reserves load-command space for
     # the post-install -add_rpath below.
@@ -240,6 +254,8 @@ elseif(APPLE)
                CXXFLAGS='${_python_build_arch_flags}' \
                LDFLAGS='${_python_build_ldflags}' \
                MACOSX_DEPLOYMENT_TARGET='${CMAKE_OSX_DEPLOYMENT_TARGET}' \
+               SDKROOT='${_python_sdkroot}' \
+               SDKROOT='${_python_sdkroot}' \
                ../configure \
                  --prefix='${_python_build_python_dir}/install' \
                  --enable-shared \
@@ -256,6 +272,7 @@ elseif(APPLE)
                CXXFLAGS='${_python_arch_flags}' \
                LDFLAGS='${_python_ldflags}' \
                MACOSX_DEPLOYMENT_TARGET='${CMAKE_OSX_DEPLOYMENT_TARGET}' \
+               SDKROOT='${_python_sdkroot}' \
                ./configure \
                  --prefix='${DESTDIR}/libpython' \
                  --enable-shared \
@@ -278,6 +295,7 @@ elseif(APPLE)
             "CXXFLAGS=${_python_arch_flags}"
             "LDFLAGS=${_python_ldflags}"
             "MACOSX_DEPLOYMENT_TARGET=${CMAKE_OSX_DEPLOYMENT_TARGET}"
+            "SDKROOT=${_python_sdkroot}"
             ./configure
             --prefix=${DESTDIR}/libpython
             --enable-shared

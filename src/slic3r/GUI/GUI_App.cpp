@@ -1,5 +1,6 @@
 #include "libslic3r/Technologies.hpp"
 #include "GUI_App.hpp"
+#include "libslic3r/AppConfig.hpp"
 // Orca 2.5.2 plugin system
 #include "slic3r/plugin/PluginManager.hpp"
 #include "slic3r/plugin/PythonInterpreter.hpp"
@@ -4221,7 +4222,9 @@ bool GUI_App::dark_mode()
 {
 #ifdef SUPPORT_DARK_MODE
 #ifdef __WINDOWS__
-    return app_config->get("dark_color_mode") == "1";
+    // dark_mode() is static: the non-static app_config member has no implicit `this` here.
+    // Go through the global application instance, as the original implementation did.
+    return wxGetApp().app_config && wxGetApp().app_config->get("dark_color_mode") == "1";
 #else
     return check_dark_mode();
 #endif

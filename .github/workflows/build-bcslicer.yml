@@ -72,12 +72,19 @@ jobs:
           7z a -tzip $env:OUTPUT_FILE ./portable
           exit $LASTEXITCODE
 
+      # Boost 1.84 in deps/ does not configure with CMake 4.x on macOS.
+      - name: Use CMake 3.31 on macOS
+        if: runner.os == 'macOS'
+        uses: lukka/get-cmake@latest
+        with:
+          cmakeVersion: '~3.31.0'
+
       - name: Build macOS disk image
         if: runner.os == 'macOS'
         env:
           OUTPUT_FILE: ${{ matrix.file }}
         run: |
-          brew install gettext libtool
+          brew install gettext libtool automake autoconf
           arch="$(uname -m)"
           ./build_release_macos.sh -a "$arch" -x -1 -n
           mkdir mac-package

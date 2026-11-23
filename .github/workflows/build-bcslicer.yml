@@ -84,7 +84,7 @@ jobs:
         env:
           OUTPUT_FILE: ${{ matrix.file }}
         run: |
-          brew install gettext libtool automake autoconf
+          brew install gettext libtool automake autoconf texinfo
           arch="$(uname -m)"
           ./build_release_macos.sh -a "$arch" -x -1 -n
           mkdir mac-package

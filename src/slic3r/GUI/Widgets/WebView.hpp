@@ -1,0 +1,28 @@
+#ifndef slic3r_GUI_WebView_hpp_
+#define slic3r_GUI_WebView_hpp_
+
+#include <wx/webview.h>
+
+// Sent when a web view had to be recreated (defined in WebView.cpp).
+wxDECLARE_EVENT(EVT_WEBVIEW_RECREATED, wxCommandEvent);
+
+class WebView
+{
+public:
+    static wxWebView *CreateWebView(wxWindow *parent, wxString const &url);
+#if wxUSE_WEBVIEW_EDGE
+    static void InitWebViewDataPath();
+    static bool CheckWebViewRuntime();
+    static bool DownloadAndInstallWebViewRuntime();
+#endif
+    static void LoadUrl(wxWebView * webView, wxString const &url);
+
+    static bool RunScript(wxWebView * webView, wxString const & msg);
+
+    static void AddOpenNewWindowScript(wxWebView *webView);
+    static bool TryGetOpenNewWindowUrl(wxWebViewEvent &event, wxString *url);
+
+    static void RecreateAll();
+};
+
+#endif // !slic3r_GUI_WebView_hpp_

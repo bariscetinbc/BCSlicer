@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Orca-Flashforge_gradient_circle</title>
+    <defs>
+        <path d="M0,0 L256,0 L256,256 L0,256 L0,0 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="69.4679054%" id="linearGradient-2">
+            <stop stop-color="#01F6FF" offset="0%"></stop>
+            <stop stop-color="#00ADE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Orca-Flashforge_gradient_circle" stroke="none" fill="none" xlink:href="#path-1" fill-rule="evenodd" stroke-width="1">
+        <g id="编组备份-6" transform="translate(28, 28)">
+            <polygon id="Fill-1" fill="#000000" points="100.125 0 0 100.125 100.125 200.25 200.25 100.125"></polygon>
+            <polygon id="Fill-2" fill="url(#linearGradient-2)" points="100.125 150.1875 100.125 192.740625 192.740625 100.125 100.125 7.509375 100.125 50.0625 75.09375 75.09375 75.09375 125.15625 125.15625 75.09375 125.15625 125.15625"></polygon>
+        </g>
+    </g>
+</svg>

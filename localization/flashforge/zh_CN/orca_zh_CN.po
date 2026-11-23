@@ -1,0 +1,653 @@
+msgid ""
+"In order to reduce the visibility of the seam in a closed loop extrusion, the loop is interrupted and shortened by a specified amount.\n"
+"This amount can be specified in millimeters or as a percentage of the current extruder diameter. The default value for this parameter is 10%."
+msgstr ""
+"为了减少闭环挤出中接缝的可见性，可通过中断并缩短环来实现。缩短的长度可以以毫米为单位，或按当前喷嘴直径的百分比来设定。该参数的默认值为 10%。"
+
+msgid ""
+"The number of layers on which the elephant foot compensation will be active."
+" The first layer will be shrunk by the elephant foot compensation value, "
+"then the next layers will be linearly shrunk less, up to the layer indicated"
+" by this value."
+msgstr "象脚补偿生效的层数。首层将按象脚补偿值进行收缩，随后各层收缩量逐层线性递减，直至达到此处设定的层数为止。"
+
+msgid ""
+"The direction which the wall loops are extruded when looking down from the top.\n"
+"\n"
+"By default all walls are extruded in counter-clockwise, unless Reverse on even is enabled. Set this to any option other than Auto will force the wall direction regardless of the Reverse on even.\n"
+"\n"
+"This option will be disabled if spiral vase mode is enabled."
+msgstr ""
+"从顶部往下看时，墙壁被打印的方向。\n"
+"默认情况下，所有墙壁都按逆时针方向被打印，除非启用了反转偶数层悬垂方向选项。将此选项设置为除自动之外的任何选项，都会强制指定墙壁方向，而不受反转偶数层悬垂方向选项的影响。\n"
+"如果启用了旋转花瓶模式，此选项将被禁用。"
+
+msgid ""
+"This factor affects the amount of material for top solid infill. You can decrease it slightly to have smooth surface finish. \n"
+"\n"
+"The actual top surface flow used is calculated by multiplying this value with the filament flow ratio, and if set, the object's flow ratio."
+msgstr ""
+"该系数会影响顶部实心填充的材料量。稍微减小这个数值可以改善顶面的光滑程度。\n"
+"实际使用的顶部表面流量是通过将该数值与耗材流量比例相乘，再乘以（如有设定）模型自身的流量比例计算得出的。"
+
+msgid ""
+"This factor affects the amount of material for bottom solid infill. \n"
+"\n"
+"The actual bottom solid infill flow used is calculated by multiplying this value with the filament flow ratio, and if set, the object's flow ratio."
+msgstr ""
+"该系数会影响底部实心填充的材料量。\n"
+"实际使用的底部实心填充流量是通过将该数值与耗材流量比例相乘，再乘以（如有设定）模型自身的流量比例计算得出的。"
+
+msgid ""
+"Decrease this value slightly(for example 0.9) to reduce the amount of material for bridge, to improve sag. \n"
+"\n"
+"The actual bridge flow used is calculated by multiplying this value with the filament flow ratio, and if set, the object's flow ratio."
+msgstr ""
+"稍微减小这个数值（比如0.9）可以减小桥接的材料量，来改善下垂。\n"
+"实际使用的桥接流量是通过将该数值与耗材流量比例相乘，再乘以（如有设定）模型自身的流量比例计算得出的。"
+
+msgid ""
+"This value governs the thickness of the internal bridge layer. This is the first layer over sparse infill. Decrease this value slightly (for example 0.9) to improve surface quality over sparse infill.\n"
+"\n"
+"The actual internal bridge flow used is calculated by multiplying this value with the bridge flow ratio, the filament flow ratio, and if set, the object's flow ratio."
+msgstr ""
+"该数值用于控制内部桥接层的厚度。这是稀疏填充上的第一层。稍微减小这个数值（比如0.9）可以改善稀疏填充的表面质量。实际使用的内部搭桥流量是通过将该数值与桥接流量比例、耗材流量比例相乘，再乘以（如有设定）模型自身的流量比例计算得出的。"
+
+msgid ""
+"This option enables the generation of an extra bridge layer over internal and/or external bridges.\n"
+"\n"
+"Extra bridge layers help improve bridge appearance and reliability, as the solid infill is better supported. This is especially useful in fast printers, where the bridge and solid infill speeds vary greatly. The extra bridge layer results in reduced pillowing on top surfaces, as well as reduced separation of the external bridge layer from its surrounding perimeters.\n"
+"\n"
+"It is generally recommended to set this to at least 'External bridge only', unless specific issues with the sliced model are found.\n"
+"\n"
+"Options:\n"
+"1. Disabled - does not generate second bridge layers. This is the default and is set for compatibility purposes.\n"
+"2. External bridge only - generates second bridge layers for external-facing bridges only. Please note that small bridges that are shorter or narrower than the set number of perimeters will be skipped as they would not benefit from a second bridge layer. If generated, the second bridge layer will be extruded parallel to the first bridge layer to reinforce the bridge strength.\n"
+"3. Internal bridge only - generates second bridge layers for internal bridges over sparse infill only. Please note that the internal bridges count towards the top shell layer count of your model. The second internal bridge layer will be extruded as close to perpendicular to the first as possible. If multiple regions in the same island, with varying bridge angles are present, the last region of that island will be selected as the angle reference.\n"
+"4. Apply to all - generates second bridge layers for both internal and external-facing bridges\n"
+msgstr ""
+"此选项用于在内部和/或外部桥接区域生成额外桥接层。\n"
+"额外的桥接层有助于改善桥接的外观和可靠性，因为实心填充能得到更好的支撑。对于高速打印机尤为实用，因为桥接和实心填充的速度差异很大。额外的桥接层可以减少顶部表面的破顶现象，并降低外部桥接层与其周围轮廓分离的风险。\n"
+"一般建议至少将该选项设为“仅外部桥接”，除非发现切片模型存在特定问题。\n"
+"选项说明：\n"
+"1. 禁用 - 不生成第二桥接层。这是默认设置，主要出于兼容性考虑。\n"
+"2. 仅外部桥接 - 仅为朝外的搭桥生成第二桥接层。\n"
+"请注意，小的搭桥（长度或宽度小于设定的周长数量）将被跳过，因为它们无法从第二层桥接中获益。若生成，第二桥接层将与第一桥接层平行挤出，以增强桥接强度。\n"
+"3. 仅内部桥接 - 仅对稀疏填充上的内部搭桥生成第二桥接层。\n"
+"请注意，内部搭桥会计入模型顶部壳体层数。第二内部桥接层将尽可能垂直于第一层挤出。如果在同一岛中存在多个桥接角度不同的区域，则以该岛中最后一个区域作为角度参考。\n"
+"4. 全部应用：对内部和外部搭桥都生成第二桥接层。\n"
+
+msgid ""
+"This option can help reduce pillowing on top surfaces in heavily slanted or curved models.\n"
+"\n"
+"By default, small internal bridges are filtered out and the internal solid infill is printed directly over the sparse infill. This works well in most cases, speeding up printing without too much compromise on top surface quality. \n"
+"\n"
+"However, in heavily slanted or curved models, especially where too low a sparse infill density is used, this may result in curling of the unsupported solid infill, causing pillowing.\n"
+"\n"
+"Enabling limited filtering or no filtering will print internal bridge layer over slightly unsupported internal solid infill. The options below control the sensitivity of the filtering, i.e. they control where internal bridges are created.\n"
+"\n"
+"1. Filter - enables this option. This is the default behavior and works well in most cases.\n"
+"\n"
+"2. Limited filtering - creates internal bridges on heavily slanted surfaces while avoiding unnecessary bridges. This works well for most difficult models.\n"
+"\n"
+"3. No filtering - creates internal bridges on every potential internal overhang. This option is useful for heavily slanted top surface models; however, in most cases, it creates too many unnecessary bridges."
+msgstr ""
+"此选项可以帮助减少在严重倾斜或弯曲模型的顶部表面上的破顶现象。\n"
+"默认情况下，小的内部搭桥会被过滤掉，内部实心填充会直接打印在稀疏填充上。这在大多数情况下效果很好，可以加快打印速度，而对顶部表面质量的影响不大。\n"
+"然而，在严重倾斜或弯曲的模型中，特别是在使用了过低的稀疏填充密度的清况下，这可能会导致不支撑的实心填充卷曲，从而导致破顶现象。\n"
+"启用“有限保留”或“保留全部”将在轻微不支撑的内部实心填充上打印内部搭桥层。下面的选项控制过滤的程度，即控制在哪些位置生成内部搭桥。\n"
+"1. 过滤 - 启用此选项。这是默认行为，在大多数情况下效果很好。\n"
+"2. 有限保留 - 在严重倾斜的表面上创建内部搭桥，同时避免创建不必要的内部搭桥。这对大多数复杂模型效果很好。\n"
+"3. 保留全部 - 在每个潜在的内部悬垂上创建内部搭桥。这个选项对于严重倾斜的顶部表面模型很有用。然而，在大多数情况下，它会创建太多不必要的桥接。"
+
+msgid ""
+"Density of internal sparse infill, 100% turns all sparse infill into solid "
+"infill and internal solid infill pattern will be used"
+msgstr "内部稀疏填充的密度。设置为 100% 时，所有稀疏填充将转为实心填充，并使用内部实心填充图案。"
+
+msgid ""
+"Enables gap fill for the selected solid surfaces. The minimum gap length that will be filled can be controlled from the filter out tiny gaps option below.\n"
+"\n"
+"Options:\n"
+"1. Everywhere: Applies gap fill to top, bottom and internal solid surfaces for maximum strength\n"
+"2. Top and Bottom surfaces: Applies gap fill to top and bottom surfaces only, balancing print speed, reducing potential over extrusion in the solid infill and making sure the top and bottom surfaces have no pin hole gaps\n"
+"3. Nowhere: Disables gap fill for all solid infill areas. \n"
+"\n"
+"Note that if using the classic perimeter generator, gap fill may also be generated between perimeters, if a full width line cannot fit between them. That perimeter gap fill is not controlled by this setting. \n"
+"\n"
+"If you would like all gap fill, including the classic perimeter generated one, removed, set the filter out tiny gaps value to a large number, like 999999. \n"
+"\n"
+"However this is not advised, as gap fill between perimeters is contributing to the model's strength. For models where excessive gap fill is generated between perimeters, a better option would be to switch to the arachne wall generator and use this option to control whether the cosmetic top and bottom surface gap fill is generated"
+msgstr ""
+"为选定的实心表面启用间隙填充。可通过下方的“忽略微小间隙”选项来控制可被填充的最小间隙长度。\n"
+"选项说明：\n"
+"1. 所有地方：在顶部、底部及内部实心表面进行间隙填充，以获得最大强度。\n"
+"2. 仅顶层和底层：仅对顶部和底部表面进行间隙填充，在保证顶底面无针孔状间隙的同时，平衡打印速度，并减少实心填充区域的过度挤出。\n"
+"3. 不填充：禁用所有实心填充区域的间隙填充。\n"
+"请注意，如果使用的是经典周长生成器，当两条周长之间无法容纳完整宽度的线条时，也可能在周长之间生成间隙填充。此类周长间隙填充不受本设置控制。\n"
+"如果您希望移除所有间隙填充，包括经典周长生成器生成的间隙填充，请将“忽略微小间隙”的值设置为一个很大的数字，例如9999999。\n"
+"但不建议这样做，因为周长之间的间隙填充有助于模型的强度。对于周长之间生成过多间隙填充的模型，更好的解决方案是切换到Arachne墙生成器，并使用此选项来控制是否生成美观的顶部和底部表面间隙填充。"
+
+msgid ""
+"Don't print gap fill with a length is smaller than the threshold specified "
+"(in mm). This setting applies to top, bottom and solid infill and, if using "
+"the classic perimeter generator, to wall gap fill."
+msgstr "不打印长度小于指定阈值（单位：毫米）的间隙填充。此设置适用于顶部、底部和实心填充区域，若使用经典周长生成器，也适用于墙间隙填充。"
+
+msgid ""
+"Infill area is enlarged slightly to overlap with wall for better bonding. "
+"The percentage value is relative to line width of sparse infill. Set this "
+"value to ~10-15% to minimize potential over extrusion and accumulation of "
+"material resulting in rough top surfaces."
+msgstr ""
+"填充区域被轻微扩大，并和外墙产生重叠，进而产生更好的粘接。表示为相对稀疏填充的线宽的百分比。建议将此值设置为10-15%左右，以最大程度地减少潜在的过度挤出和材料堆积，从而避免顶部表面粗糙。"
+
+msgid ""
+"Enable this option to slow down printing in areas where perimeters may have curled upwards.For example, additional slowdown will be applied when printing overhangs on sharp corners like the front of the Benchy hull, reducing curling which compounds over multiple layers.\n"
+"\n"
+" It is generally recommended to have this option switched on unless your printer cooling is powerful enough or the print speed slow enough that perimeter curling does not happen. If printing with a high external perimeter speed, this parameter may introduce slight artifacts when slowing down due to the large variance in print speeds. If you notice artifacts, ensure your pressure advance is tuned correctly.\n"
+"\n"
+"Note: When this option is enabled, overhang perimeters are treated like overhangs, meaning the overhang speed is applied even if the overhanging perimeter is part of a bridge. For example, when the perimeters are 100% overhanging, with no wall supporting them from underneath, the 100% overhang speed will be applied."
+msgstr ""
+"启用此选项可降低在周长可能向上翘曲的区域的打印速度。例如，在打印类似Benchy船头等锐角处的悬垂部分时，会额外减速，从而减少多层累积造成的翘曲。\n"
+"通常建议开启此选项，除非您的打印机散热能力足够强劲，或者打印速度足够慢，能确保周长不发生翘曲。如果以较高的外部周长速度打印，此参数在减速时可能会因为打印速度的巨大差异而产生轻微打印瑕疵。如遇此类情况，请确保压力提前参数已正确校准。\n"
+"请注意，启用此选项后，悬垂周长将被视为悬垂部分，这意味着即使悬垂周长是桥接的一部分，也会应用悬垂打印速度。例如，当周长100%悬垂，下方没有任何墙支撑时，将应用100%的悬垂速度。"
+
+msgid ""
+"Normal (auto) and Tree (auto) is used to generate support automatically. If "
+"Normal (manual) or Tree (manual) is selected, only support enforcers are "
+"generated"
+msgstr "普通（自动）和树状（自动）用于自动生成支撑。如果选择普通（手动）或树状（手动），仅会在支撑强制面上生成支撑。"
+
+msgid ""
+"If threshold angle is zero, support will be generated for overhangs whose "
+"overlap is below the threshold. The smaller this value is, the steeper the "
+"overhang that can be printed without support."
+msgstr "当阈值角度为零时，将为重叠低于阈值的悬垂部分生成支撑。该数值越小，表示可以在不使用支撑的情况下打印越陡的悬垂结构。"
+
+msgid ""
+"Extra flow used for the purging lines on the wipe tower. This makes the "
+"purging lines thicker or narrower than they normally would be. The spacing "
+"is adjusted automatically."
+msgstr "用于擦拭塔上冲刷线的额外流量。这会使冲刷线比正常情况下更粗或更细。间距会自动进行调整。"
+
+msgid ""
+"Generate interlocking beam structure at the locations where different "
+"filaments touch. This improves the adhesion between filaments, especially "
+"models printed in different materials."
+msgstr "在不同材料接触的位置生成互锁梁结构，以增强不同材料间的粘合力，特别适用于使用多材料打印的模型。"
+
+msgid ""
+"Interlocking depth of a segmented region. It will be ignored if "
+"\"mmu_segmented_region_max_width\" is zero or if "
+"\"mmu_segmented_region_interlocking_depth\"is bigger then "
+"\"mmu_segmented_region_max_width\". Zero disables this feature."
+msgstr ""
+"分割区域的交错深度。当“mmu_segmented_region_max_width”为零，或“mmu_segmented_region_interlocking_depth”大于“mmu_segmented_region_max_width”时，该设置将被忽略。0则禁用此功能。"
+
+msgid ""
+"Minimum filament extrusion length in mm when printing the skirt. Zero means this feature is disabled.\n"
+"\n"
+"Using a non zero value is useful if the printer is set up to print without a prime line.\n"
+"Final number of loops is not taling into account whli arranging or validating objects distance. Increase loop number in such case."
+msgstr ""
+"打印skirt时的最小耗材挤出长度（单位：毫米）。设置为零表示禁用此功能。\n"
+"当打印机设置为不打印预挤线时，使用非零数值会很有帮助。\n"
+"在排列或验证模型间距时，最终的圈数不会被考虑在内。\n"
+"在这种情况下，建议增加圈数。"
+
+msgid "Expert settings"
+msgstr "专家设置"
+
+msgid "Simple settings"
+msgstr "简单设置"
+
+msgid "Local-Z pair split: requested F<a>/F<b> <percent>/<percent>."
+msgstr "Local-Z 成对拆分：请求 F<a>/F<b> <percent>/<percent>。"
+
+msgid "Cycle settings visibility"
+msgstr "切换设置可见性"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d."
+msgstr "Local-Z 成对拆分：请求 F%u/F%u %d/%d。"
+
+msgid "Local-Z breakdown: manual pattern rows do not use pair decomposition."
+msgstr "Local-Z 分解：手动图案行不使用成对分解。"
+
+msgid "Local-Z breakdown: same-layer mode does not use local-Z pair decomposition."
+msgstr "Local-Z 分解：同层模式不使用 Local-Z 成对分解。"
+
+msgid "Local-Z breakdown: unavailable."
+msgstr "Local-Z 分解：不可用。"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d, effective %d/%d over %d sublayers."
+msgstr "Local-Z 成对拆分：请求 F%u/F%u %d/%d，实际 %d/%d，共 %d 个子层。"
+
+msgid "Local-Z direct multicolor solver: %s"
+msgstr "Local-Z 直接多色求解器：%s"
+
+msgid "Carry-over error is distributed directly across all %d components instead of collapsing them into pair cadence."
+msgstr "传递误差会直接分配到全部 %d 个组件，而不是折叠为成对节奏。"
+
+msgid "Effective Local-Z cap: up to %d sublayers per nominal layer."
+msgstr "有效 Local-Z 上限：每个标称层最多 %d 个子层。"
+
+msgid "Local-Z layer cadence: %s."
+msgstr "Local-Z 层节奏：%s。"
+
+msgid "Pair splits: %s."
+msgstr "成对拆分：%s。"
+
+msgid "Saved row limit will apply when Local-Z dithering mode is enabled in print settings."
+msgstr "保存的行限制会在打印设置中启用 Local-Z 抖动模式时生效。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers."
+msgstr "有效 Local-Z 堆叠：%d 个子层覆盖 %d 个成对层。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers (uncapped %d)."
+msgstr "有效 Local-Z 堆叠：%d 个子层覆盖 %d 个成对层（未限制为 %d）。"
+
+msgid "Associate files to OrcaSlicer"
+msgstr "Flash Studio文件关联"
+
+msgid "Associate 3MF files to OrcaSlicer"
+msgstr "将 3MF 文件关联到 Flash Studio"
+
+msgid "If enabled, sets OrcaSlicer as default application to open 3MF files."
+msgstr "启用后，将 Flash Studio 设置为打开 3MF 文件的默认应用程序。"
+
+msgid "Associate DRC files to OrcaSlicer"
+msgstr "将 DRC 文件关联到 Flash Studio"
+
+msgid "If enabled, sets OrcaSlicer as default application to open DRC files."
+msgstr "如果启用，则将 Flash Studio 设置为打开 DRC 文件的默认应用程序。"
+
+msgid "Associate STL files to OrcaSlicer"
+msgstr "将 STL 文件关联到 Flash Studio"
+
+msgid "If enabled, sets OrcaSlicer as default application to open STL files."
+msgstr "启用后，将 Flash Studio 设置为打开 STL 文件的默认应用程序。"
+
+msgid "Associate STEP files to OrcaSlicer"
+msgstr "将 STEP 文件关联到 Flash Studio"
+
+msgid "If enabled, sets OrcaSlicer as default application to open STEP files."
+msgstr "启用后，将 Flash Studio 设置为打开 STEP 文件的默认应用程序。"
+
+msgid "Associate web links to OrcaSlicer"
+msgstr "将网页链接关联到Flash Studio"
+
+msgid "with OrcaSlicer so that Orca can open models from"
+msgstr "与Flash Studio一起使用，以便Flash Studio可以从...打开模型"
+
+msgid "Allow only one OrcaSlicer instance"
+msgstr "仅允许同时运行一个 Flash Studio 实例"
+
+msgid ""
+"If this is enabled, when starting OrcaSlicer and another instance of the "
+"same OrcaSlicer is already running, that instance will be reactivated "
+"instead."
+msgstr "如果启用，当启动 Flash Studio 时若已有另一个 Flash Studio 实例正在运行，则会激活该已运行实例。"
+
+#, c-format, boost-format
+msgid "OrcaSlicer can't connect to %s. Please check if the printer is powered on and connected to the network."
+msgstr "Flash Studio 无法连接到 %s。请检查打印机是否已开机并连接到网络。"
+
+msgid ""
+"The configuration may be generated by a newer version of Flash Studio."
+msgstr "此配置可能由新版本的Flashforge Studio生成"
+
+msgid ""
+"Flash Studio will terminate because of running out of memory.It may be a "
+"bug. It will be appreciated if you report the issue to our team."
+msgstr ""
+"系统内存耗尽，Flashforge Studio即将终止运行。这可能是个缺陷，希望您可以报告此问"
+"题，我们将非常感激。"
+
+msgid ""
+"Flash Studio will terminate because of a localization error. It will be "
+"appreciated if you report the specific scenario this issue happened."
+msgstr ""
+"遇到本地化错误，Flash Studio 即将终止运行。希望您可以报告发生此问题的具体"
+"场景，我们将非常感激。"
+
+msgid "Flash Studio got an unhandled exception: %1%"
+msgstr "Flash Studio 捕捉到一个未处理的异常：%1%"
+
+msgid "Downloading FlashForge Network Plug-in"
+msgstr "正在下载FlashForge网络插件"
+
+msgid ""
+"Flash Studio requires the Microsoft WebView2 Runtime to operate certain "
+"features.\n"
+"Click Yes to install it now."
+msgstr "Flash Studio 需要安装Microsoft WebView2运行时以运行某些功能。\n单击是立即安装。"
+
+msgid "Account Auto Connect Failed!"
+msgstr "账号自动连接失败！"
+
+msgid ""
+"The Flash Studio configuration file may be corrupted and cannot be parsed."
+"Flash Studio has attempted to recreate the configuration file.\n"
+"Please note, application settings will be lost, but printer profiles will "
+"not be affected."
+msgstr ""
+"Flashforge Studio配置文件可能已损坏，无法解析。Flashforge Studio试图重新创建配置"
+"文件。\n"
+"请注意，应用程序设置将丢失，但打印机配置文件不会受到影响。"
+
+msgid "Account Auto Connecting..."
+msgstr "账号自动连接中..."
+
+msgid ""
+"The version of Flash Studio is too low and needs to be updated to the "
+"latest version before it can be used normally"
+msgstr "Flashforge Studio版本过低，需要更新到最新版本方可正常使用"
+
+msgid "The current account has been logged out!"
+msgstr "当前账户已登出！"
+
+msgid "Already the newest version!"
+msgstr "已经是最新版本！"
+
+msgid "Flash Studio GUI initialization failed"
+msgstr "Flashforge Studio图形界面初始化失败"
+
+msgid "Account Offline,Connecting..."
+msgstr "账号离线，正在连接中..."
+
+msgid "Unable to connect to printer"
+msgstr "无法连接打印机"
+
+msgid "Flash Studio is licensed under "
+msgstr "Flashforge Studio是在"
+
+msgid ""
+"You can find it in \"Settings > Network > Network Mode\"\n"
+"on the printer; To facilitate device identification, \n"
+"you can change the device name on the device page."
+msgstr ""
+"您可以在打印机“设置->网络->网络模式\"查看；\n"
+"为方便识别设备，可在设备界面端修改设备名称；"
+
+msgid "The access code is wrong, please input again."
+msgstr "识别码输入错误，请重新输入。"
+
+msgid "Device List"
+msgstr "设备列表"
+
+msgid ""
+"There are some unknown filaments mapped to generic preset. Please update "
+"Flash Studio or restart Flash Studio to check if there is an update to "
+"system presets."
+msgstr ""
+"有一些未知型号的材料，映射到通用预设。请更新或者重启 Flash Studio，以检查"
+"系统预设有没有更新。"
+
+msgid "The 3mf is not supported by Flash Studio, load geometry data only."
+msgstr "该3mf文件不是来自Flashforge Studio，将只加载几何数据。"
+
+msgid ""
+"Importing to Flash Studio failed. Please download the file and manually "
+"import it."
+msgstr "导入文件到Flashforge Studio失败。请下载文件然后再手动导入。"
+
+msgid ""
+"\"Fix Model\" feature is currently only on Windows. Please repair the model "
+"on Flash Studio(windows) or CAD softwares."
+msgstr ""
+"\"修复模型\"功能目前仅适用于Windows。请在Flashforge Studio(windows)或CAD软件上"
+"修复模型。"
+
+msgid "MultiSend:send_to_printer, is busy"
+msgstr "MultiSend:send_to_printer 正在忙碌"
+
+msgid "no valid printer"
+msgstr "不存在有效打印机"
+
+msgid "send prepare fail"
+msgstr "发送准备失败"
+
+msgid "File sent successfully"
+msgstr "文件发送成功"
+
+msgid ""
+"File sending failure: inconsistent model and slicing configuration or "
+"network abnormality"
+msgstr "文件发送失败：机型与切片配置不一致或网络异常"
+
+msgid "Send printing tasks to"
+msgstr "发送打印任务至"
+
+msgid "Levelling"
+msgstr "调平"
+
+msgid "Lan"
+msgstr "局域网"
+
+msgid "Sending task, do you want to cancel it?"
+msgstr "正在发送任务，是否取消？"
+
+msgid "Preparing printing task"
+msgstr "正在准备打印任务"
+
+msgid "Canceling the print job, please wait"
+msgstr "正在取消发送打印任务，请稍后"
+
+msgid "Send completed, automatically redirected to device status"
+msgstr "打印任务发送完成，自动跳转到设备状态页"
+
+msgid "The printer is busy and cannot receive printing commands."
+msgstr "打印机非空闲状态，无法接收打印命令。"
+
+msgid "Canceling the print job successfully."
+msgstr "打印任务取消发送成功。"
+
+msgid "Send failed, please check network or device status"
+msgstr "打印任务传输失败，请检查网络或设备状态"
+
+msgid "Send completed"
+msgstr "发送完成"
+
+msgid "Register printer"
+msgstr "登记打印机"
+
+msgid "Would you like to register the printer to this account?"
+msgstr "你想将这台设备登记到此账户吗?"
+
+msgid "Term of Service"
+msgstr "《服务条款》"
+
+msgid "The device registration failed!"
+msgstr "设备登记失败！"
+
+msgid "The device registration successful!"
+msgstr "设备登记成功！"
+
+msgid "Would you like to log the printer out of this account?"
+msgstr "你想将这台设备从此账户中登出吗?"
+
+msgid ""
+"Click OK to update the Network plug-in when Flash Studio launches next "
+"time."
+msgstr "点击\"确定\"，将在Flashforge Studio下次启动之后自动升级网络插件"
+
+msgid "New version of Flash Studio"
+msgstr "新版本的Flashforge Studio"
+
+msgid "Server connection exception"
+msgstr "服务器连接异常"
+
+msgid "Guide"
+msgstr "引导"
+
+msgid "Enable IFS"
+msgstr "启用IFS"
+
+msgid "Please click the filament and select its corresponding slot\n"
+"before sending the print job."
+msgstr "请在发送打印前点击耗材，指定其对应的槽位"
+
+msgid "IFS not enabled, unable to select the slot"
+msgstr "未启用IFS，无法指定槽位"
+
+msgid "No \"%s\" idle printer model. Please select the currently connected device model, then reslice and send the print."
+msgstr "无\"%s\"空闲机型请选择当前连接的设备机型后重新切片并发送打印"
+
+msgid "Tailor-Make Everyone's World"
+msgstr "量身定做每个人的世界"
+
+msgid "Based On OrcaSlicer"
+msgstr "基于OrcaSlicer"
+
+msgid "When using Flash Studio V%s, please update Flash Studio Mobile to V%s, and also update your device firmware to the latest version."
+msgstr "使用Flashforge Studio V%s时，请同步更新Flash Studio Mobile 至V%s版本，同时设备固件请更新至最新版本"
+
+msgid "Do not show again"
+msgstr "不再显示"
+
+msgid "Time-Lapse Video"
+msgstr "延时摄影"
+
+msgid "One-click export log"
+msgstr "一键导出日志"
+
+msgid "New Product"
+msgstr "新产品"
+
+msgid "The all-new Flashforge App is here! Search and print from a vast library of 3D models online."
+msgstr "闪铸全新APP上线！海量网络模型，一键搜索，即见即打。"
+
+msgid "Learn More"
+msgstr "前往查看"
+
+msgid "When using Flash Studio Desktop V%s, please use Flash Studio Mobile APP instead of Flash Maker, and also update your device firmware to the latest version.Please note that devices that are not updated will be displayed as offline and will be unable to connect."
+msgstr "使用 Flash Studio Desktop V%s 时，请使用 Flash Studio Mobile APP 而非 Flash Maker，同时请将您的设备固件更新至最新版本。请注意，未更新的设备将被显示为离线，同时无法连接。"
+
+msgid "Upload log"
+msgstr "上传日志"
+
+msgid "Upload zip file"
+msgstr "上传文件"
+
+msgid "Software log"
+msgstr "软件日志"
+
+msgid "Please update %s to %s or later."
+msgstr "请将%s更新至%s及以上版本，"
+
+msgid "Please update %s and the remaining %d devices to %s or later."
+msgstr "请将%s及其他%d台设备更新至%s及以上版本，"
+
+msgid "To ensure the normal operation of the above devices. Flash Studio Desktop cannot correctly retrieve the status of devices that have not been updated."
+msgstr "以保证上述设备正常使用。Flash Studio Desktop无法正确获取未更新设备的状态。"
+
+msgid "Retain filament information when switching devices"
+msgstr "切换设备时保留耗材信息"
+
+msgid "Click to jump"
+msgstr "点此跳转"
+
+msgid "No Available Device"
+msgstr "暂无可用设备"
+
+msgid "Sync List from Device"
+msgstr "从设备同步列表"
+
+msgid "Sync Device Filament Info"
+msgstr "同步设备耗材丝信息"
+
+msgid "Sync Filament Type and Color Only"
+msgstr "仅同步耗材类型及颜色"
+
+msgid "Filament type unknown. Please set it on the printer screen or in the slicer's device page."
+msgstr "耗材类型未知，请在打印机屏幕或切片软件设备页设置。"
+
+msgid "Original Model"
+msgstr "原模型"
+
+msgid "Model file and device do not match"
+msgstr "模型文件与设备不匹配"
+
+msgid ""
+"The object from file %s seems to be defined in meters or inches. Flash "
+"Studio's internal unit is millimeters. Do you want to convert to millimeters?"
+msgstr ""
+"文件 %s 中对象的尺寸似乎是以米或者英寸为单位定义的。Flash Studio "
+"的内部单位为毫米，是否要转换为毫米？"
+
+msgid ""
+"The currently selected printer does not support multicolor printing. Switch "
+"to a multicolor-capable printer?"
+msgstr "当前选择机型不支持多色，是否切换为支持多色的机型？"
+
+msgid "Confirm and add"
+msgstr "确认并添加"
+
+msgid "Do not add now"
+msgstr "暂不添加"
+
+msgid "The selected file is a "
+msgstr "您所选文件为"
+
+msgid "multicolor model"
+msgstr "多色模型"
+
+msgid ""
+", and the currently selected printer does not support multicolor printing,"
+msgstr "，当前所选机型不支持多色打印，"
+
+msgid "please select one of the following "
+msgstr "请选择以下"
+
+msgid "multicolor printers"
+msgstr "多色机型"
+
+msgid " and add it"
+msgstr "并添加"
+
+msgid "Import Model"
+msgstr "导入模型"
+
+msgid "Color Quantization"
+msgstr "颜色量化"
+
+msgid "Number of Colors"
+msgstr "颜色数目"
+
+msgid "Parameters have changed, please click Apply to take effect"
+msgstr "参数已更改，请点击应用生效"
+
+msgid "Filament Mapping"
+msgstr "耗材映射"
+
+msgid "Auto match added filaments"
+msgstr "自动匹配已添加耗材"
+
+msgid "Skip matching"
+msgstr "跳过匹配"
+
+msgid "Current filament list"
+msgstr "当前耗材丝列表"
+
+msgid "New filament"
+msgstr "新增耗材丝"
+
+# 摄像头(FFRTMPVideoCtrl)底部状态条文字
+msgid "Initializing camera..."
+msgstr "正在初始化"
+
+msgid "Loading video..."
+msgstr "视频加载中"
+
+msgid "Video is playing"
+msgstr "视频播放中"
+
+msgid "Video is paused"
+msgstr "视频已暂停"
+
+msgid "Printer disconnected"
+msgstr "打印机断开连接"
+
+msgid "No camera detected"
+msgstr "未检测到摄像头"

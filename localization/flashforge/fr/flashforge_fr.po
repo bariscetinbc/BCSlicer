@@ -1,0 +1,1695 @@
+msgid "Based on BambuStudio and PrusaSlicer"
+msgstr "Sur la base de BambuStudio et PrusaSlicer"
+
+msgid "The Flash Studio needs an upgrade"
+msgstr "Flash Studio a besoin d’une mise à niveau"
+
+msgid "Unable to connect to the Internet!"
+msgstr "Impossible de se connecter à l’Internet"
+
+msgid ""
+"Flash Studio is based on OrcaSlicer by Softfever, and OrcaSlicer is based "
+"on BambuStudio by Bambulab, which is from PrusaSlicer by Prusa Research.  "
+"PrusaSlicer is from Slic3r by Alessandro Ranellucci and the RepRap community"
+msgstr ""
+"Flash Studio est basé sur OrcaSlicer de Softfever, et OrcaSlicer est basé "
+"sur BambuStudio de Bambulab, qui provient de PrusaSlicer de Prusa Research. "
+"PrusaSlicer provient de Slic3r d’Alessandro Ranellucci et de la communauté "
+"RepRap"
+
+msgid "Flash Studio is based on OrcaSlicer by SoftFever."
+msgstr "Flash Studio est basé sur OrcaSlicer de SoftFever."
+
+msgid ""
+"Another virtual camera is running.\n"
+"Flash Studio supports only a single virtual camera.\n"
+"Do you want to stop this virtual camera?"
+msgstr ""
+"Une autre caméra virtuelle est en fonctionnement.\n"
+"Flash Studio ne prend en charge qu’une seule caméra virtuelle.\n"
+"Voulez-vous arrêter cette caméra virtuelle ?"
+
+msgid ""
+"The .gcode.3mf file contains no G-code data.Please slice it with "
+"Flash Studio and export a new .gcode.3mf file."
+msgstr ""
+"Le fichier .gcode.3mf ne contient pas de données G-code. Veuillez trancher avec "
+"Flash Studio et exporter un nouveau fichier .gcode.3mf."
+
+msgctxt "Flashforge"
+msgid "Device Status"
+msgstr "Statut du périphérique"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .3mf files"
+msgstr ""
+"Si activé, il définit Flash Studio comme l’application par défaut pour "
+"ouvrir les fichiers .3mf"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .stl files"
+msgstr ""
+"Si activé, il définit Flash Studio comme l’application par défaut pour "
+"ouvrir les fichiers .stl"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .step files"
+msgstr ""
+"Si activé, il définit Flash Studio comme l’application par défaut pour "
+"ouvrir les fichiers .step"
+
+msgid "Please login first."
+msgstr "Connectez-vous d’abord."
+
+msgid "Are you sure to unbind this device?"
+msgstr "Voulez-vous vraiment dissocier ce périphérique ?"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "No printer connected, please connect printer first!"
+msgstr "Aucune imprimante connectée ; connectez une imprimante d’abord"
+
+msgid ""
+"Step 1, please confirm Flash Studio and your printer are in the same LAN."
+msgstr ""
+"Étape 1, confirmez qu’Flash Studio et votre imprimante sont sur le même "
+"réseau LAN."
+
+msgid "Get Code"
+msgstr "Obtenir"
+
+msgid "Phone Login/ Register"
+msgstr "Connex. / inscript. par tél."
+
+msgid "Password Login"
+msgstr "Connex. par m. de passe"
+
+msgid "Please enter your account"
+msgstr "Saisissez votre compte"
+
+msgid "Mobile phone number error"
+msgstr "Erreur du numéro de téléphone portable"
+
+msgid "Phone Number / email"
+msgstr "Numéro de téléphone / e-mail"
+
+msgid "Verify code is incorrect"
+msgstr "Le code de vérification est incorrect"
+
+msgid "Read and Agree to Accept"
+msgstr "Lisez et acceptez"
+
+msgid "《Term "
+msgstr "《 Conditions "
+
+msgid "of "
+msgstr "de "
+
+msgid "Service》"
+msgstr "service 》"
+
+msgid "《Term of Service》"
+msgstr "《 Conditions de service》"
+
+msgid "《Privacy Policy》"
+msgstr "《 Politique de confidentialité 》"
+
+msgid "Register"
+msgstr "Registre"
+
+msgid "Forget Password"
+msgstr "Mot de passe oublié"
+
+msgid "Account/verification code empty. Please enter."
+msgstr "Compte / code de vérification vide. Entrez."
+
+msgid "Please check the agreement first."
+msgstr "Cochez l’accord d’abord."
+
+msgid "User not registered"
+msgstr "Utilisateur non enregistré"
+
+msgid "Account/password empty. Please enter."
+msgstr "Compte / mot de passe vide. Entrez."
+
+msgid "Email Address Error"
+msgstr "Erreur d’adresse e-mail"
+
+msgid "Password is incorrect"
+msgstr "Le mot de passe est incorrect"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Email"
+msgstr "Adresse e-mail"
+
+msgid "Machine Type"
+msgstr "Type de machine"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Login out"
+msgstr "Connexion interrompue"
+
+msgid "cancel"
+msgstr "annuler"
+
+msgid "confirm"
+msgstr "confirmer"
+
+msgid ""
+"The current device has \n"
+"no printing projects"
+msgstr "L’appareil actuel n’a pas \n"
+"de projets d’impression"
+
+msgid "Material Station"
+msgstr "Station de matériau"
+
+msgid "Start Filtering"
+msgstr "Commencer le filtrage"
+
+msgid "Internal Circulate"
+msgstr "Circulation interne"
+
+msgid "External Circulate"
+msgstr "Circulation externe"
+
+msgid "file name:"
+msgstr "Nom du fichier:"
+
+msgid "Device offline"
+msgstr "L’appareil est hors ligne"
+
+msgid "clear"
+msgstr "Effacer"
+
+msgid "Info and Control"
+msgstr "Infos et contrôle"
+
+msgid "file: "
+msgstr "fichier : "
+
+msgid "h "
+msgstr "h "
+
+msgid "min "
+msgstr "min "
+
+msgid "Remaining Time"
+msgstr "Temps restant"
+
+msgid "pause print"
+msgstr "mettre en pause l’impression"
+
+msgid "cancel print"
+msgstr "annuler l’impression"
+
+msgid "Whether Cancel Printing"
+msgstr "Annuler l’impression ?"
+
+msgid "yes"
+msgstr "oui"
+
+msgid "no"
+msgstr "non"
+
+msgid "Local File List"
+msgstr "Liste des fichiers locaux"
+
+msgid "print"
+msgstr "imprimer"
+
+msgid "idle"
+msgstr "inactif"
+
+msgid "completed"
+msgstr "terminé"
+
+msgid "Print completed,clean platform!"
+msgstr "Impression terminée, nettoyez la plateforme"
+
+msgid "Total Time"
+msgstr "Temps total"
+
+msgid "busy"
+msgstr "occupé"
+
+msgid "Print cancelled,in cache command"
+msgstr "Impression annulée, dans la commande de cache"
+
+msgid "pause"
+msgstr "pause"
+
+msgid "continue print"
+msgstr "continuer l’impression"
+
+msgid "pausing"
+msgstr "mise en pause en cours"
+
+msgid "heating"
+msgstr "chauffage en cours"
+
+msgid "printing"
+msgstr "appariement en cours"
+
+msgid "The maximum temperature cannot exceed"
+msgstr "La température maximale ne peut pas dépasser"
+
+msgid "Spray Nozzle"
+msgstr "Buse d’aspersion"
+
+msgid "Print Size"
+msgstr "Teille d’impression"
+
+msgid "Firmware Version"
+msgstr "Version firmware"
+
+msgid "Serial Number"
+msgstr "Numéro de série"
+
+msgid "Private Material Statistics"
+msgstr "Stats matériaux privés"
+
+msgid "Paused"
+msgstr "En pause"
+
+msgid "The printer move out of range.Please go home again!"
+msgstr "L’imprimante s’est déplacée hors plage ; revenez à la position de repos."
+
+msgid "Lost communication with MCU eboard"
+msgstr "Communication avec la MCU perdue"
+
+msgid "TMC reports error:GSTAT"
+msgstr "Le TMC signale une erreur : GSTAT"
+
+msgid "Unable to read tmc"
+msgstr "Impossible de lire le tmc"
+
+msgid "MCU eboard: Unable to connect"
+msgstr "Carte électronique du MCU : Connexion impossible"
+
+msgid "Nozzle temperature error."
+msgstr "Erreur de température de la buse."
+
+msgid "Extruder not heating at expected.Please check extruder."
+msgstr "L’extrudeuse ne chauffe pas comme attendu. Vérifiez-la"
+
+msgid "Platform not heating at expected.Please check platform."
+msgstr "La plateforme ne chauffe pas comme attendu. Vérifiez-la"
+
+msgid "Chamber not heating at expected.Please check chamber."
+msgstr "La chambre ne chauffe pas comme attendu. Vérifiez-la"
+
+msgid "Host error, please restart !"
+msgstr "Erreur d’hôte, redémarrez."
+
+msgid "Z-Axis go home error."
+msgstr "Erreur de retour au repos de l’axe Z."
+
+msgid "Y-Axis go home error."
+msgstr "Erreur de retour au repos de l’axe Y."
+
+msgid "X-Axis go home error."
+msgstr "Erreur de retour au repos de l’axe X."
+
+msgid "Extruder temperature error !"
+msgstr "Erreur de température de l’extrudeuse."
+
+msgid "Platform temperature error !"
+msgstr "Erreur de température de la plateforme."
+
+msgid "Move queue overflow"
+msgstr "Débordement de la file d’attente"
+
+msgid "No filament"
+msgstr "Pas de filament"
+
+msgid "Select a slot, and click the \"Load\" or \n\"Unload\" button to load or unload \nfilament."
+msgstr ""
+"Sélectionnez une fente, et cliquez\nsur un des boutons « Charger » ou\n« "
+"Décharger » pour charger ou \ndécharger le filament."
+
+msgctxt "filament"
+msgid "Load"
+msgstr "Charger"
+
+msgctxt "filament"
+msgid "Unload"
+msgstr "Décharger"
+
+msgid "Heat up"
+msgstr "Mettre à température"
+
+msgid "Cut off filament"
+msgstr "Couper le filament"
+
+msgid "Retract filament"
+msgstr "Rétracter le filament"
+
+msgid "Complete"
+msgstr "Compléter"
+
+msgid "Push filament"
+msgstr "Pousser le filament"
+
+msgctxt "Flashforge"
+msgid "Purge old filament"
+msgstr "Purger d’ancien filament"
+
+msgctxt "filament"
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Color Library"
+msgstr "Bibliothèque de couleurs"
+
+msgid "Print File"
+msgstr "Imprimer le fichier"
+
+msgid "Material in the material station"
+msgstr "Matériau dansa la station de matériau"
+
+msgid "Only support selecting materials of the same type"
+msgstr "Seule la sélection de matériaux du même type est prise en charge"
+
+msgid "Filament type and color set in the slicer"
+msgstr ""
+"Type et couleur du filament définis\n"
+"dans la trancheuse"
+
+msgid "Slot number and the color of the\n"
+"filament in the current slot"
+msgstr ""
+"Numéro de la fente et la couleur du\n"
+"filament dans la fente actuelle"
+
+msgid "Printing Time"
+msgstr "Temps d'impression"
+
+msgid "IP-Address"
+msgstr "Adresse IP"
+
+msgid "Non-Flashforge build plate detected. Print quality may not be guaranteed."
+msgstr "Plaque de construction non-Flashforge détectée. Qualité d’impression non garantie."
+
+msgid "Continue printing"
+msgstr "Continuer l'impression"
+
+msgid "Stop printing (replace the build plate)"
+msgstr "Arrêtez l’impression (remplacez la plaque de construction)"
+
+msgid "Lidar detected first-layer defects. Please check and decide whether to continue printing."
+msgstr "Le LiDAR a détecté des défauts dans la première couche. Vérifiez et décidez si vous voulez continuer à imprimer."
+
+msgid "Continue printing (defects acceptable)"
+msgstr "Continuer à imprimer (les défauts sont tolérables)"
+
+msgid "Stop printing"
+msgstr "Arrêter l’impression"
+
+msgctxt "Flashforge"
+msgid "Flow Calibration"
+msgstr "Étalonnage du débit"
+
+msgctxt "Flashforge"
+msgid "First Layer Inspection"
+msgstr "Inspection de la première couche"
+
+msgctxt "Flashforge"
+msgid "Downloading"
+msgstr "Téléchargement en cours"
+
+msgid "Unable to download some videos. Please try again later!"
+msgstr "Le téléchargement de quelques vidéos a échoué. Veuillez réessayer plus tard. "
+
+msgid "Failed videos:"
+msgstr "Vidéos échouées :"
+
+msgid "Delete selected file(s)?"
+msgstr "Effacer le(s) fichier(s) sélectionné(s) ?"
+
+msgid "Download complete."
+msgstr "Téléchargement terminé."
+
+msgid "Download failed. Please try again later!"
+msgstr "Échec du téléchargement. Veuillez réessayer plus tard !"
+
+msgid "The network is unstable. Please try again."
+msgstr "Le réseau est instable. Veuillez réessayer."
+
+msgid "Lidar focus failure detected. Please check the Lidar."
+msgstr "Défaut de mise au point du Lidar détecté. Veuillez vérifier le Lidar."
+
+msgid "For an improved experience, please restart Flash Studio to load resources."
+msgstr "Pour une meilleure expérience, veuillez redémarrer Flash Studio pour charger les ressources."
+
+msgid "Printer out of range. Please home again!"
+msgstr "Imprimante hors de portée. Veuillez refaire l’homing !"
+
+msgid "Communication with MCU interrupted!"
+msgstr "Communication avec le MCU interrompue !"
+
+msgid "X/Y/Z/E TMC error: GSTAT!"
+msgstr "Erreur TMC X/Y/Z/E : GSTAT !"
+
+msgid "X/Y/Z/E motor TMC chip communication error!"
+msgstr "Impossible de lire le TMC X/Y/Z/E !"
+
+msgid "MCU: Unable to connect!"
+msgstr "MCU : impossible de se connecter !"
+
+msgid "Nozzle temperature below minimum temperature!"
+msgstr "Température de la buse inférieure à la température minimale !"
+
+msgid "Extruder T0 not heating as expected!"
+msgstr "Extrudeur T0 ne chauffe pas comme prévu !"
+
+msgid "Extruder T1 not heating as expected!"
+msgstr "Extrudeur T1 ne chauffe pas comme prévu !"
+
+msgid "Heated bed not heating as expected!"
+msgstr "Plateau chauffant ne chauffe pas comme prévu !"
+
+msgid "Chamber not heating as expected!"
+msgstr "Chambre ne chauffe pas comme prévu !"
+
+msgid "Host error. Please restart!"
+msgstr "Erreur de l’hôte. Veuillez redémarrer !"
+
+msgid "X-axis homing error. X-axis sensor not triggered!"
+msgstr "Erreur d’homing de l’axe X. Capteur de l’axe X non déclenché !"
+
+msgid "Y-axis homing error. Y-axis sensor not triggered!"
+msgstr "Erreur d’homing de l’axe Y. Capteur de l’axe Y non déclenché !"
+
+msgid "Z-axis homing error. Z-axis sensor not triggered!"
+msgstr "Erreur d’homing de l’axe Z. Capteur de l’axe Z non déclenché !"
+
+msgid "Extruder temperature < -10!"
+msgstr "Température de l’extrudeur < -10 !"
+
+msgid "Heated bed temperature < -10!"
+msgstr "Température du plateau chauffant < -10 !"
+
+msgid "Command exceeds queue limit!"
+msgstr "La commande dépasse la limite de la file d’attente !"
+
+msgid "Language initialization failed. Please retry!"
+msgstr "Initialisation de la langue échouée. Veuillez réessayer !"
+
+msgid "USB flash drive read error!"
+msgstr "Erreur de lecture du périphérique USB !"
+
+msgid "Real-time video service failure!"
+msgstr "Échec du service vidéo en temps réel !"
+
+msgid "Failed to enable the camera. Please check!"
+msgstr "Échec de l’activation de la caméra. Veuillez vérifier !"
+
+msgid "Insufficient storage space!"
+msgstr "Espace de stockage insuffisant !"
+
+msgid "File copy error!"
+msgstr "Erreur de copie de fichier !"
+
+msgid "Model download failed!"
+msgstr "Échec du téléchargement du modèle !"
+
+msgid "Leveling sensor data cannot be cleared. Please check!"
+msgstr ""
+"Les données du capteur de nivellement ne peuvent pas être effacées. Veuillez"
+" vérifier !"
+
+msgid "Leveling sensor not triggered. Please check!"
+msgstr "Capteur de nivellement non déclenché. Veuillez vérifier !"
+
+msgid "Leveling sensor triggered early. Please check!"
+msgstr "Capteur de nivellement déclenché trop tôt. Veuillez vérifier !"
+
+msgid "Heated bed temperature control error!"
+msgstr "Erreur de contrôle de la température du plateau chauffant !"
+
+msgid "Heated bed heating timeout!"
+msgstr "Délai de chauffage du plateau chauffant dépassé !"
+
+msgid "Extruder temperature control error!"
+msgstr "Erreur de contrôle de la température de l’extrudeur !"
+
+msgid "Nozzle too low!"
+msgstr "Buse trop basse !"
+
+msgid "Nozzle too high!"
+msgstr "Buse trop haute !"
+
+msgid "Chamber heating timeout!"
+msgstr "Délai de chauffage de la chambre dépassé !"
+
+msgid "Chamber heating failed. Left heating fan speed too low!"
+msgstr ""
+"Échec du chauffage de la chambre. Vitesse du ventilateur gauche trop faible "
+"!"
+
+msgid "Chamber heating failed. Right heating fan speed too low!"
+msgstr ""
+"Échec du chauffage de la chambre. Vitesse du ventilateur droit trop faible !"
+
+msgid ""
+"Abnormal chamber temperature. Air outlet temperature sensor may be damaged!"
+msgstr ""
+"Température anormale de la chambre. Le capteur de température de sortie "
+"d’air peut être endommagé !"
+
+msgid "Air filter fan speed too low or stopped!"
+msgstr "Vitesse du ventilateur du filtre à air trop faible ou arrêtée !"
+
+msgid "Channel 1 feeding timeout!"
+msgstr "Délai d’alimentation du canal 1 dépassé !"
+
+msgid "Channel 2 feeding timeout!"
+msgstr "Délai d’alimentation du canal 2 dépassé !"
+
+msgid "Channel 3 feeding timeout!"
+msgstr "Délai d’alimentation du canal 3 dépassé !"
+
+msgid "Channel 4 feeding timeout!"
+msgstr "Délai d’alimentation du canal 4 dépassé !"
+
+msgid "Channel 1 retracting timeout!"
+msgstr "Délai de rétractation du canal 1 dépassé !"
+
+msgid "Channel 2 retracting timeout!"
+msgstr "Délai de rétractation du canal 2 dépassé !"
+
+msgid "Channel 3 retracting timeout!"
+msgstr "Délai de rétractation du canal 3 dépassé !"
+
+msgid "Channel 4 retracting timeout!"
+msgstr "Délai de rétractation du canal 4 dépassé !"
+
+msgid "Failed to feed filament to the extruder!"
+msgstr "Échec de l’alimentation du filament vers l’extrudeur !"
+
+msgid "IFS odometer roller 1/2/3/4 not moving!"
+msgstr "Rouleau odomètre IFS 1/2/3/4 ne bouge pas !"
+
+msgid "Filament type mismatch!"
+msgstr "Type de filament incompatible !"
+
+msgid "Abnormal leveling data!"
+msgstr "Données de nivellement anormales !"
+
+msgid "Z-axis print height exceeded"
+msgstr "Hauteur d’impression de l’axe Z dépassée"
+
+msgid "Extruder filament sensor error"
+msgstr "Erreur du capteur de filament de l’extrudeur"
+
+msgid "IFS homing error"
+msgstr "Erreur de homing de l’IFS"
+
+msgid "Exception in priming_handler, please copy the logs!"
+msgstr "Exception dans priming_handler, veuillez copier les journaux !"
+
+msgid "Exception in flush_handler, please copy the logs!"
+msgstr "Exception dans flush_handler, veuillez copier les journaux !"
+
+msgid "Internal error on command, please copy the logs!"
+msgstr "Erreur interne sur la commande, veuillez copier les journaux !"
+
+msgid "Timing error, please copy the logs!"
+msgstr "Erreur de synchronisation, veuillez copier les journaux !"
+
+msgid "System restarted, please copy the logs!"
+msgstr "Système redémarré, veuillez copier les journaux !"
+
+msgid "The \"spi_transfer_response\" cannot be obtained.!"
+msgstr "Impossible d’obtenir la réponse \"spi_transfer_response\""
+
+msgid "Extruder temperature error!"
+msgstr "Erreur de température de l’extrudeuse !"
+
+msgid "platform temperature error!"
+msgstr "Erreur de température du plateau chauffant !"
+
+msgctxt "Flashforge"
+msgid "View Guide"
+msgstr "Voir le guide"
+
+msgctxt "Flashforge"
+msgid "Close"
+msgstr "Fermer"
+
+msgctxt "Flashforge"
+msgid "Error"
+msgstr "Erreur"
+
+msgctxt "GuideWeb"
+msgid "Loading..."
+msgstr "Chargement…"
+
+msgid "Loading failed. Please try again."
+msgstr "Échec du chargement. Veuillez réessayer."
+
+msgctxt "Flashforge"
+msgid "Refer & Earn"
+msgstr "Recommandez et gagnez"
+
+msgid "Copy Referral Link"
+msgstr "Copier le lien de la recommandation"
+
+msgid "Insufficient points"
+msgstr "Points insuffisants"
+
+msgid "Generating, please wait..."
+msgstr "Génération en cours, veuillez patienter..."
+
+msgid "Generation successful!"
+msgstr "Génération réussie !"
+
+msgid "You can specify the number of colors for the model."
+msgstr "Vous pouvez spécifier le nombre de couleurs pour le modèle."
+
+msgid "AI 3D Model Generator"
+msgstr "Générateur de Modèles 3D IA"
+
+msgid "Points consumed"
+msgstr "Points consommés"
+
+msgid "Start generating"
+msgstr "Commencer la génération"
+
+msgid "This generation is free"
+msgstr "Cette génération est gratuite"
+
+msgid "Remaining points"
+msgstr "Points restants"
+
+msgid "Image Upload Tips"
+msgstr "Conseils pour le téléversement d’images"
+
+msgid "It supports PNG, JPG, JPEG. Images should be no larger than 6MB with a minimum resolution of 128*128."
+msgstr "Formats pris en charge : PNG, JPG, JPEG. Les images doivent peser moins de 6 Mo avec une résolution minimale de 128*128."
+
+msgid "Simple background (preferably solid color)"
+msgstr "Arrière-plan simple (de préférence uni)"
+
+msgid "No text included"
+msgstr "Aucun texte inclus"
+
+msgid "Single model"
+msgstr "Modèle unique"
+
+msgid "The model should not be too small."
+msgstr "Le modèle ne doit pas être trop petit."
+
+msgid "We're currently experiencing high demand. Please wait..."
+msgstr "Nous rencontrons actuellement une forte demande. Veuillez patienter..."
+
+msgid "Current queue"
+msgstr "File d’attente actuelle"
+
+msgid "Maximum image resolution: 5000*5000"
+msgstr "Résolution maximale de l’image : 5000*5000"
+
+msgid "Minimum image resolution: 128*128"
+msgstr "Résolution minimale de l’image : 128*128"
+
+msgid "Maximum image size: "
+msgstr "Taille maximale de l’image : "
+
+msgid "Failed to load image"
+msgstr "Échec du chargement de l’image"
+
+msgid "A model is currently being generated. Please wait."
+msgstr "Un modèle est en cours de génération. Veuillez patienter."
+
+msgid "Network Error"
+msgstr "Erreur réseau"
+
+msgid "AI Model Generation Failed"
+msgstr "Échec de la génération du modèle IA"
+
+msgid "Importing..."
+msgstr " Importation..."
+
+msgid "Not enough points. Please earn more points."
+msgstr "Points insuffisants. Veuillez en obtenir davantage."
+
+msgid "Get Now"
+msgstr "Obtenez maintenant"
+
+msgid "Please upload the image."
+msgstr "Veuillez télécharger l'image."
+
+msgid "Failed to cancel the task"
+msgstr "Échec de l'annulation de la tâche"
+
+msgid "Export log"
+msgstr "Exporter le journal"
+
+msgid "Exporting, please wait"
+msgstr "Exportation en cours, veuillez patienter"
+
+msgctxt "Flashforge"
+msgid "Export successful"
+msgstr "Exportation réussie"
+
+msgid "Export failed, please try again"
+msgstr "Échec de l’exportation, veuillez réessayer"
+
+msgid "Text to 3D Model"
+msgstr "Texte vers modèle 3D"
+
+msgid "Image to 3D Model"
+msgstr "Image vers modèle 3D"
+
+msgid "Please enter the content you want to generate. We recommend focusing on a single subject. For example: A brown cat sculpture with a curled tail, in a cartoon style"
+msgstr "Veuillez saisir le contenu que vous souhaitez générer. Nous recommandons de vous concentrer sur un seul sujet. Par exemple : une sculpture de chat brun à la queue recourbée, dans un style cartoon"
+
+msgid "Image preprocessing"
+msgstr "Prétraitement de l’image"
+
+msgid "Processing image, please wait"
+msgstr "Traitement de l’image en cours, veuillez patienter"
+
+msgid "We will preprocess the image to ensure the best AI model generation results"
+msgstr "Nous allons prétraiter l’image afin de garantir les meilleurs résultats de génération de modèle IA"
+
+msgid "Please confirm if the image meets your expectations"
+msgstr "Veuillez confirmer si l’image correspond à vos attentes"
+
+msgid "Regenerate"
+msgstr "Régénérer"
+
+msgid "This will cost you %d points. Are you sure you want to regenerate?"
+msgstr "Cela vous coûtera %d points. Voulez-vous vraiment régénérer ?"
+
+msgid "What we will do?"
+msgstr "Ce que nous ferons?"
+
+msgid "We will preprocess the image, including but not limited to removing the background, reducing complexity, and enhancing colors, to ensure higher-quality model generation results"
+msgstr "Nous prétraiterons l’image, y compris, sans nous y limiter, en supprimant l’arrière-plan, en réduisant la complexité et en renforçant les couleurs, afin de garantir des résultats de génération de modèle de meilleure qualité"
+
+msgid "Generate without preprocessing"
+msgstr "Générer sans prétraitement"
+
+msgid "Generate model"
+msgstr "Générer le modèle"
+
+msgid "Based on our tests, the generation results are excellent. We highly recommend enabling this feature!"
+msgstr "D’après nos tests, les résultats de génération sont excellents. Nous vous recommandons vivement d’activer cette fonctionnalité !"
+
+msgid "Not Now"
+msgstr "Pas maintenant"
+
+msgid "Point Consumption Rules"
+msgstr "Règles de consommation des points"
+
+msgid "Generating a model image based on your text, please wait"
+msgstr "Génération d’une image de modèle à partir de votre texte en cours, veuillez patienter"
+
+msgid "Please select an image to generate a 3D model"
+msgstr "Veuillez sélectionner une image pour générer un modèle 3D"
+
+msgid "Text optimization"
+msgstr "Optimisation du texte"
+
+msgid "Generate image"
+msgstr "Générer l’image"
+
+msgid "Points have been consumed. Are you sure you want to stop this generation?"
+msgstr "Des points ont été consommés. Êtes-vous sûr de vouloir arrêter cette génération ?"
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Uploaded images must be square (same width and height)."
+msgstr "Les images téléchargées doivent être carrées (largeur et hauteur identiques)."
+
+msgid "Cannot regenerate. Insufficient points for image or model generation."
+msgstr "Impossible de régénérer. Points insuffisants pour générer une image ou un modèle."
+
+msgid "Please upload your text"
+msgstr "Veuillez télécharger votre texte"
+
+msgid "You have %d regenerations left for this model generation. Regenerate?"
+msgstr "Vous avez %d régénérations restantes pour cette génération de modèle. Régénérer ?"
+
+msgid "Not enough regenerations. Cannot regenerate."
+msgstr "Pas assez de régénérations. Impossible de régénérer."
+
+msgid "You've used your free generation. Stop this generation?"
+msgstr "Vous avez utilisé votre génération gratuite. Arrêter cette génération ?"
+
+msgid "No copyright"
+msgstr "Pas de droits d'auteur"
+
+msgid "Generation failed"
+msgstr "Échec de la génération"
+
+msgid "It's expected to take 1-2 minutes."
+msgstr "Cela devrait prendre 1 à 2 minutes."
+
+msgid "It's expected to take less than 1 minute."
+msgstr "Cela devrait prendre moins d’1 minute."
+
+msgid "Print Inspection"
+msgstr "Inspection d’impression"
+
+msgid "Extruder & Filament"
+msgstr "Extrudeuse et filament"
+
+msgid "Edit or load filament after selecting an extruder"
+msgstr "Modifiez ou chargez le filament après avoir sélectionné une extrudeuse"
+
+msgid "Temperature & Control"
+msgstr "Température et contrôle"
+
+msgid "Free Regenerations Left: %d"
+msgstr "Regénérations gratuites restantes : %d"
+
+msgid "This will use 1 free regeneration. Continue?"
+msgstr "Cette action utilisera 1 régénération gratuite. Continuer ?"
+
+msgid "Device Info"
+msgstr "Infos sur l’appareil"
+
+msgctxt "Flashforge"
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "View Now"
+msgstr "Voir maintenant"
+
+msgid "Removed from print list"
+msgstr "Supprimé de la liste d’impression"
+
+msgid "Report submitted"
+msgstr "Rapport présenté"
+
+msgid "The equipment needs to be updated. Please update the printer versions. The following printer versions require updating to ensure proper operation:"
+msgstr "L'équipement nécessite une mise à jour. Veuillez mettre à jour les versions de l'imprimante. Les versions d'imprimante suivantes doivent être mises à jour pour garantir un fonctionnement correct :"
+
+msgid "Please also upgrade the mobile app to the latest version to ensure its normal use."
+msgstr "Veuillez également mettre à niveau l'application mobile vers la dernière version pour garantir son utilisation normale."
+
+msgid "Full Power! Create Now!"
+msgstr "À pleine puissance, créez dès maintenant !"
+
+msgid "Select an extruder to edit"
+msgstr "Sélectionnez un extrudeur à modifier"
+
+msgid "Silent Mode (50%)"
+msgstr "Mode Silencieux (50 %)"
+
+msgid "Standard Mode (100%)"
+msgstr "Mode Standard (100 %)"
+
+msgid "Motion Mode (140%)"
+msgstr "Mode Mouvement (140 %)"
+
+msgid "Save tmp zip file"
+msgstr "Enregistrer le fichier ZIP temporaire"
+
+msgid "Generating local device id"
+msgstr "Génération de l’ID de l’appareil local"
+
+msgid "Upload Complete"
+msgstr "Téléchargement terminé"
+
+msgid "Upload Successful"
+msgstr "Téléchargement réussi"
+
+msgid "Upload failed"
+msgstr "Échec du téléchargement"
+
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+msgid "Email cannot be empty."
+msgstr "L’adresse e-mail ne peut pas être vide."
+
+msgid "%s devices require an update. Please upgrade %s to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "Les appareils %s nécessitent une mise à jour. Veuillez mettre à jour %s vers %s ou une version ultérieure, puis effectuez une nouvelle mise à jour vers %s ou une version ultérieure. Les appareils dont la version est inférieure à %s ne pourront pas se connecter correctement."
+
+msgid "%s devices require an update. Please upgrade %s, and the remaining %d devices to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "Les appareils %s nécessitent une mise à jour. Veuillez mettre à jour %s et les %d autres appareils vers %s ou une version ultérieure, puis effectuez une nouvelle mise à jour vers %s ou une version ultérieure. Les appareils dont la version est inférieure à %s ne pourront pas se connecter correctement."
+
+msgid "If you cannot detect the new version, you can actively download it via the following link:"
+msgstr "Si vous ne parvenez pas à détecter la nouvelle version, vous pouvez la télécharger manuellement via le lien suivant :"
+
+msgid "The printer is not idle"
+msgstr "L'imprimante n'est pas inactive"
+
+msgid "Extracting files, please wait..."
+msgstr "Extraction des fichiers, veuillez patienter..."
+
+msgid "Downloading cloud task..."
+msgstr "Téléchargement de la tâche cloud..."
+
+msgid "Sending task..."
+msgstr "Envoi de la tâche..."
+
+msgid "Cancel slicing?"
+msgstr "Annuler le découpage ?"
+
+msgid "Cancel Slicing"
+msgstr "Annuler le découpage"
+
+msgid "Cloud task is slicing..."
+msgstr "La tâche cloud est en cours de découpage..."
+
+msgid "Reprint"
+msgstr "Réimprimer"
+
+msgid "Failed. Please try printing again."
+msgstr "Échec. Essayez d'imprimer à nouveau."
+
+msgid "Cancel queue?"
+msgstr "Annuler la file ?"
+
+msgid "Cancel Queue"
+msgstr "Annuler file"
+
+msgid "Starts slicing and printing once the queue clears."
+msgstr "Le tranchage et l’impression démarrent automatiquement après la file d’attente."
+
+msgid "Receiving task..."
+msgstr "Réception de la tâche..."
+
+msgid "Cloud slicing queued..."
+msgstr "Découpage cloud en attente..."
+
+msgid "Jobs ahead"
+msgstr "Tâches avant vous"
+
+msgctxt "Flashforge"
+msgid "Mapping"
+msgstr "Mappage"
+
+msgctxt "Flashforge"
+msgid "After Mapping"
+msgstr "Après mappage"
+
+msgctxt "Flashforge"
+msgid "Plate"
+msgstr "Plaque"
+
+msgctxt "Flashforge"
+msgid "Original"
+msgstr "Original"
+
+#: resources/data/hints.ini: [hint:Chamber temperature]
+msgid ""
+"Chamber temperature\n"
+"Did you know that Flash Studio supports chamber temperature?"
+msgstr ""
+"Température de la chambre\n"
+"Saviez-vous qu’Flash Studio prend en charge la température de la chambre ?"
+
+#: resources/data/hints.ini: [hint:Calibration]
+msgid ""
+"Calibration\n"
+"Did you know that calibrating your printer can do wonders? Check out our "
+"beloved calibration solution in Flash Studio."
+msgstr ""
+"Étalonnage\n"
+"Saviez-vous qu’étalonner votre imprimante peut faire des merveilles ? Voyez "
+"votre solution d’étalonnage préférée dans Flash Studio."
+
+#: resources/data/hints.ini: [hint:Auxiliary fan]
+msgid ""
+"Auxiliary fan\n"
+"Did you know that Flash Studio supports Auxiliary part cooling fan?"
+msgstr ""
+"Ventilateur auxiliaire\n"
+"Saviez-vous qu’Flash Studio prend en charge le ventilateur refroidisseur "
+"d’objet auxiliaire ?"
+
+#: resources/data/hints.ini: [hint:Air filtration]
+msgid ""
+"Air filtration/Exhaust Fan\n"
+"Did you know that Flash Studio can support Air filtration/Exhaust Fan?"
+msgstr ""
+"Filtrage de l’air / Ventilateur d’évacuation\n"
+"Saviez-vous qu’Flash Studio peut prendre en charge le filtrage de l’air et "
+"le ventilateur d’évacuation ?"
+
+#: resources/data/hints.ini: [hint:How to use keyboard shortcuts]
+msgid ""
+"How to use keyboard shortcuts\n"
+"Did you know that Flash Studio offers a wide range of keyboard shortcuts "
+"and 3D scene operations."
+msgstr ""
+"Comment utiliser les raccourcis clavier\n"
+"Saviez-vous qu’Flash Studio vous offre une large gamme de raccourcis clavier "
+"et d’opérations de scènes 3D ?"
+
+msgid "Dithering cadence height A"
+msgstr "Hauteur de cadence de tramage A"
+
+msgid ""
+"Layer height contribution of component A for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Contribution de hauteur de couche du composant A pour les filaments virtuels de tramage. Réglez sur 0 pour utiliser l'alternance normale 1 couche A / 1 couche B.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Dithering cadence height B"
+msgstr "Hauteur de cadence de tramage B"
+
+msgid ""
+"Layer height contribution of component B for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Contribution de hauteur de couche du composant B pour les filaments virtuels de tramage. Réglez sur 0 pour utiliser l'alternance normale 1 couche A / 1 couche B.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Height-weighted cadence"
+msgstr "Cadence pondérée par la hauteur"
+
+msgid ""
+"Enable height-weighted cadence for mixed filaments. Limitation: only one height-weighted mixed color should be present at a given Z plane, because independent per-color layer heights are not supported and the resulting layer height applies to the whole plane. When disabled, layer-cycle cadence is used.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Active la cadence pondérée par la hauteur pour les filaments mélangés. Limitation : une seule couleur mélangée pondérée par la hauteur doit être présente sur un même plan Z, car les hauteurs de couche indépendantes par couleur ne sont pas prises en charge et la hauteur calculée s'applique à tout le plan. Si désactivé, la cadence par cycle de couches est utilisée.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Local-Z lower height bound"
+msgstr "Limite inférieure de hauteur Local-Z"
+
+msgid ""
+"Lower bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Smaller values let Local-Z use thinner sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Limite inférieure utilisée lorsque le tramage Local-Z du filament mélangé choisit les hauteurs de sous-couche par couleur.\n"
+"\n"
+"Des valeurs plus petites permettent à Local-Z d'utiliser des sous-couches plus fines pour une couleur si nécessaire.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Local-Z upper height bound"
+msgstr "Limite supérieure de hauteur Local-Z"
+
+msgid ""
+"Upper bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Larger values let Local-Z use thicker sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Limite supérieure utilisée lorsque le tramage Local-Z du filament mélangé choisit les hauteurs de sous-couche par couleur.\n"
+"\n"
+"Des valeurs plus grandes permettent à Local-Z d'utiliser des sous-couches plus épaisses pour une couleur si nécessaire.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Advanced dithering"
+msgstr "Tramage avancé"
+
+msgid ""
+"Distribute mixed filament layer-cycle cadence using an advanced ordered dithering pattern instead of a simple contiguous A-then-B run. This can reduce visible striping for some hues.\n"
+"\n"
+"This is an even more experimental mode and the perceived color may differ from normal dithering for the same filament pair and ratio.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Répartit la cadence par cycle de couches du filament mélangé avec un motif de tramage ordonné avancé au lieu d'une simple séquence continue A puis B. Cela peut réduire les bandes visibles pour certaines teintes.\n"
+"\n"
+"Ce mode est encore plus expérimental et la couleur perçue peut différer du tramage normal pour la même paire de filaments et le même ratio.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Enable mixed filament bias"
+msgstr "Activer le biais du filament mélangé"
+
+msgid ""
+"Show and apply the per-row mixed filament Bias control.\n"
+"\n"
+"When enabled, the selected filament in a mixed pair is recessed slightly so the other component becomes more visible.\n"
+"\n"
+"Bias is ignored for grouped wall patterns, same-layer pointillisme, and Local Z dithering."
+msgstr ""
+"Affiche et applique le contrôle de biais par ligne du filament mélangé.\n"
+"\n"
+"Lorsque cette option est activée, le filament sélectionné dans une paire mélangée est légèrement en retrait afin que l'autre composant soit plus visible.\n"
+"\n"
+"Le biais est ignoré pour les motifs de paroi groupés, le pointillisme sur la même couche et le tramage Local Z."
+
+msgid "Selective Expansion contraction"
+msgstr "Expansion/contraction sélective"
+
+msgid ""
+"XY offset applied to mixed-filament painted regions before region assignment.\n"
+"\n"
+"Positive values contract the mixed zone inward. Negative values expand it outward.\n"
+"\n"
+"This applies to mixed filament usage in layer cadence, height cadence, same-layer pointillisme, and local Z dithering."
+msgstr ""
+"Décalage XY appliqué aux régions peintes avec du filament mélangé avant l'affectation des régions.\n"
+"\n"
+"Les valeurs positives contractent la zone mélangée vers l'intérieur. Les valeurs négatives l'étendent vers l'extérieur.\n"
+"\n"
+"S'applique à l'utilisation du filament mélangé en cadence de couches, cadence de hauteur, pointillisme sur la même couche et tramage Local Z."
+
+msgid "Collapse same-color mixed regions"
+msgstr "Fusionner les régions mélangées de même couleur"
+
+msgid ""
+"Merge ordinary mixed-filament painted regions into a single area when they resolve to the same physical filament on a layer.\n"
+"\n"
+"This improves continuity for adjacent same-color areas. Local Z dithering turns this off automatically when enabled, but you may turn it back on manually.\n"
+"\n"
+"Experimental with Local Z dithering."
+msgstr ""
+"Fusionne les régions ordinaires peintes avec du filament mélangé en une seule zone lorsqu'elles correspondent au même filament physique sur une couche.\n"
+"\n"
+"Cela améliore la continuité des zones adjacentes de même couleur. Le tramage Local Z désactive automatiquement cette option lorsqu'il est activé, mais vous pouvez la réactiver manuellement.\n"
+"\n"
+"Expérimental avec le tramage Local Z."
+
+msgid "Mixed filament custom definitions"
+msgstr "Définitions personnalisées de filament mélangé"
+
+msgid ""
+"Serialized custom mixed filament rows.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Lignes personnalisées de filament mélangé sérialisées.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Pointillisme pixel size"
+msgstr "Taille de pixel du pointillisme"
+
+msgid ""
+"Length of one pointillisme segment along an extrusion path for same-layer pointillisme mode. Set to 0 to use automatic nozzle-based sizing.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"Longueur d'un segment de pointillisme le long d'une trajectoire d'extrusion pour le mode de pointillisme sur la même couche. Réglez sur 0 pour utiliser la taille automatique basée sur la buse.\n"
+"\n"
+"Avertissement : le pointillisme sur la même couche est extrêmement expérimental et peut produire des résultats inutilisables."
+
+msgid "Pointillisme line gap"
+msgstr "Écart de ligne du pointillisme"
+
+msgid ""
+"Optional non-extruded spacing between adjacent pointillisme segments. Increase carefully to improve separation and print quality.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"Espacement non extrudé optionnel entre des segments de pointillisme adjacents. Augmentez-le avec prudence pour améliorer la séparation et la qualité d'impression.\n"
+"\n"
+"Avertissement : le pointillisme sur la même couche est extrêmement expérimental et peut produire des résultats inutilisables."
+
+msgid "Dithering Z step size"
+msgstr "Taille du pas Z de tramage"
+
+msgid ""
+"Layer height used in Z zones painted with dithering (mixed virtual filaments). Set to 0 to keep normal layer height in those zones.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Hauteur de couche utilisée dans les zones Z peintes avec du tramage (filaments virtuels mélangés). Réglez sur 0 pour conserver la hauteur de couche normale dans ces zones.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Local Z dithering mode"
+msgstr "Mode de tramage Local Z"
+
+msgid ""
+"Use Variable Layers for Color Blending\n"
+"\n"
+"Blend colors by varying layer heights instead of using a fixed ratio of equal-height layers. This only affects blended color zones; non-blended areas keep their nominal layer height and cadence when possible.\n"
+"\n"
+"This setting increases color blending smoothness by splitting each blended layer according to the blend ratio. For example, a 66/33 blend at 0.12 mm layer height will print as one 0.08 mm layer and one 0.04 mm layer. At 0.20 mm layer height, a 75/25 blend will print as one 0.15 mm layer and one 0.05 mm layer."
+msgstr ""
+"Utiliser des couches variables pour le mélange des couleurs\n"
+"\n"
+"Mélange les couleurs en variant les hauteurs de couche au lieu d'utiliser un ratio fixe de couches de même hauteur. Cela n'affecte que les zones de couleur mélangée ; les zones non mélangées conservent si possible leur hauteur de couche nominale et leur cadence.\n"
+"\n"
+"Ce réglage augmente la fluidité du mélange des couleurs en divisant chaque couche mélangée selon le ratio de mélange. Par exemple, un mélange 66/33 avec une hauteur de couche de 0,12 mm sera imprimé comme une couche de 0,08 mm et une couche de 0,04 mm. Avec une hauteur de couche de 0,20 mm, un mélange 75/25 sera imprimé comme une couche de 0,15 mm et une couche de 0,05 mm."
+
+msgid "Apply Local-Z to whole mixed objects"
+msgstr "Appliquer Local-Z aux objets mélangés entiers"
+
+msgid ""
+"Experimental. Extend Local-Z dithering beyond painted mixed zones so mixed wall regions can use Local-Z across the whole object.\n"
+"\n"
+"This also lets Local-Z continue through default mixed walls around painted areas instead of limiting the effect strictly to painted masks."
+msgstr ""
+"Expérimental. Étend le tramage Local-Z au-delà des zones mélangées peintes afin que les régions de paroi mélangées puissent utiliser Local-Z sur tout l'objet.\n"
+"\n"
+"Cela permet aussi à Local-Z de continuer à travers les parois mélangées par défaut autour des zones peintes, au lieu de limiter strictement l'effet aux masques peints."
+
+msgid "Use direct multicolor Local-Z solver"
+msgstr "Utiliser le solveur Local-Z multicolore direct"
+
+msgid ""
+"Experimental. For mixed rows with 3 or more physical filaments, allocate Local-Z sublayers directly across all components with carry-over error between layers instead of collapsing them into pair cadence.\n"
+"\n"
+"This can reduce visible banding in multicolor Local-Z blends at the cost of more toolchanges. It is ignored when explicit Local-Z A/B heights are set."
+msgstr ""
+"Expérimental. Pour les lignes mélangées avec 3 filaments physiques ou plus, alloue les sous-couches Local-Z directement entre tous les composants avec report d'erreur entre les couches, au lieu de les réduire à une cadence par paires.\n"
+"\n"
+"Cela peut réduire les bandes visibles dans les mélanges Local-Z multicolores au prix de davantage de changements d'outil. Ignoré lorsque des hauteurs Local-Z A/B explicites sont définies."
+
+msgid "Use step size in painted zones only"
+msgstr "Utiliser le pas uniquement dans les zones peintes"
+
+msgid ""
+"When enabled, dithering Z step size is applied only where mixed filament is painted. Unpainted zones keep their original layer height.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Lorsque cette option est activée, le pas Z de tramage ne s'applique que là où le filament mélangé est peint. Les zones non peintes conservent leur hauteur de couche d'origine.\n"
+"\n"
+"Des explications détaillées des réglages de filament mélangé seront publiées lorsque le wiki du projet sera disponible."
+
+msgid "Local-Z mini wipe lines"
+msgstr "Mini-lignes de purge Local-Z"
+
+msgid "Mixed filaments are unreliable on a single-extruder printer."
+msgstr "Les filaments mélangés ne sont pas fiables sur une imprimante à extrudeur unique."
+
+msgid "Mixed Filament %d"
+msgstr "Filament mélangé %d"
+
+msgid "Add Color"
+msgstr "Ajouter une couleur"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Requested"
+msgstr "Demandé"
+
+msgid "Creates"
+msgstr "Crée"
+
+msgid "Exact preset mixes"
+msgstr "Mélanges de préréglages exacts"
+
+msgid "Matching closest supported mix..."
+msgstr "Recherche du mélange compatible le plus proche..."
+
+msgid "Calculating closest supported mix..."
+msgstr "Calcul du mélange compatible le plus proche..."
+
+msgid "%d%% min"
+msgstr "%d%% min."
+
+msgid "Use a valid hex color like #00FF88."
+msgstr "Utilisez une couleur hexadécimale valide comme #00FF88."
+
+msgid "No supported 2-color, 3-color, or 4-color recipe found."
+msgstr "Aucune recette compatible à 2, 3 ou 4 couleurs trouvée."
+
+msgid "Matching %s..."
+msgstr "Recherche de %s..."
+
+msgid "Requested %s, closest recipe delta: %.2f"
+msgstr "Demandé %s, delta de la recette la plus proche : %.2f"
+
+msgid "Unable to create a color mix from the current physical filament colors within the selected range."
+msgstr ""
+"Impossible de créer un mélange de couleur à partir des couleurs de filament physique actuelles dans la plage sélectionnée."
+
+msgid "Local-Z breakdown: manual pattern rows do not use pair decomposition."
+msgstr "Décomposition Local-Z : les lignes de motif manuel n'utilisent pas de décomposition par paires."
+
+msgid "Local-Z breakdown: same-layer mode does not use local-Z pair decomposition."
+msgstr "Décomposition Local-Z : le mode même couche n'utilise pas de décomposition Local-Z par paires."
+
+msgid "Local-Z direct multicolor solver: %s"
+msgstr "Solveur Local-Z multicolore direct : %s"
+
+msgid "Local-Z direct multicolor solver: F<n> <percent>%, ..."
+msgstr "Solveur Local-Z multicolore direct : F<n> <percent> %, ..."
+
+msgid ""
+"Carry-over error is distributed directly across all %d components instead of collapsing them into pair cadence."
+msgstr ""
+"L'erreur reportée est distribuée directement sur les %d composants au lieu d'être réduite à une cadence par paires."
+
+msgid ""
+"Carry-over error is distributed directly across all <count> components instead of collapsing them into pair cadence."
+msgstr ""
+"L'erreur reportée est distribuée directement sur les <count> composants au lieu d'être réduite à une cadence par paires."
+
+msgid "Effective Local-Z cap: up to %d sublayers per nominal layer."
+msgstr "Limite Local-Z effective : jusqu'à %d sous-couches par couche nominale."
+
+msgid "Effective Local-Z cap: up to <count> sublayers per nominal layer."
+msgstr "Limite Local-Z effective : jusqu'à <count> sous-couches par couche nominale."
+
+msgid "Local-Z layer cadence: %s."
+msgstr "Cadence de couches Local-Z : %s."
+
+msgid "Local-Z layer cadence: <pair cadence summary>."
+msgstr "Cadence de couches Local-Z : <pair cadence summary>."
+
+msgid "Pair splits: %s."
+msgstr "Répartitions par paires : %s."
+
+msgid "Pair splits: <pair split summary>."
+msgstr "Répartitions par paires : <pair split summary>."
+
+msgid "Saved row limit will apply when Local-Z dithering mode is enabled in print settings."
+msgstr ""
+"La limite de ligne enregistrée s'appliquera lorsque le mode de tramage Local-Z est activé dans les réglages d'impression."
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers."
+msgstr "Pile Local-Z effective : %d sous-couches sur %d couches de paires."
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers."
+msgstr "Pile Local-Z effective : <count> sous-couches sur <count> couches de paires."
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers (uncapped %d)."
+msgstr "Pile Local-Z effective : %d sous-couches sur %d couches de paires (sans limite %d)."
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers (uncapped <count>)."
+msgstr "Pile Local-Z effective : <count> sous-couches sur <count> couches de paires (sans limite <count>)."
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d."
+msgstr "Répartition par paire Local-Z : demandé F%u/F%u %d/%d."
+
+msgid "Local-Z pair split: requested F<a>/F<b> <percent>/<percent>."
+msgstr "Répartition par paire Local-Z : demandé F<a>/F<b> <percent>/<percent>."
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d, effective %d/%d over %d sublayers."
+msgstr "Répartition par paire Local-Z : demandé F%u/F%u %d/%d, effectif %d/%d sur %d sous-couches."
+
+msgid ""
+"Local-Z pair split: requested F<a>/F<b> <percent>/<percent>, effective <percent>/<percent> over <count> sublayers."
+msgstr ""
+"Répartition par paire Local-Z : demandé F<a>/F<b> <percent>/<percent>, effectif <percent>/<percent> sur <count> sous-couches."
+
+msgid "Local-Z breakdown: unavailable."
+msgstr "Décomposition Local-Z : indisponible."
+
+msgid "Click to choose a physical filament color"
+msgstr "Cliquez pour choisir une couleur de filament physique"
+
+msgid "Append filament %d to pattern"
+msgstr "Ajouter le filament %d au motif"
+
+msgid "Bias"
+msgstr "Biais"
+
+msgid "Limit Local-Z"
+msgstr "Limiter Local-Z"
+
+msgid "Max sublayers"
+msgstr "Sous-couches max."
+
+msgid ""
+"No other consumables of the same type are available for mixing. Please add consumables of the same type."
+msgstr ""
+"Aucun autre consommable du même type n'est disponible pour le mélange. Veuillez ajouter des consommables du même type."
+
+msgid "Consumable types are inconsistent. Please add consumables of the same type."
+msgstr "Les types de consommables ne correspondent pas. Veuillez ajouter des consommables du même type."
+
+msgid "%d-color layer cycle"
+msgstr "Cycle de couches à %d couleurs"
+
+msgid "%d%%/%d%%"
+msgstr "%d%%/%d%%"
+
+msgid "Simple %d%%/%d%%"
+msgstr "Simple %d%%/%d%%"
+
+msgid "None (Selected)"
+msgstr "Aucun (sélectionné)"
+
+msgid "F%d (Selected)"
+msgstr "F%d (sélectionné)"
+
+msgid "F<n> (Selected)"
+msgstr "F<n> (sélectionné)"
+
+msgid "Click to edit"
+msgstr "Cliquez pour modifier"
+
+msgid "Gradient Mix Weights"
+msgstr "Poids du mélange en dégradé"
+
+msgid "Mixed Filaments"
+msgstr "Filaments mélangés"
+
+msgid "Add Pattern"
+msgstr "Ajouter un motif"
+
+msgid "Remove last mixed filament"
+msgstr "Supprimer le dernier filament mélangé"
+
+msgid "Add mixed filament"
+msgstr "Ajouter un filament mélangé"
+
+msgid "Confirm merge"
+msgstr "Confirmer la fusion"
+
+msgid "No mixed filaments yet. Use Add to create one."
+msgstr "Aucun filament mélangé pour l'instant. Utilisez Ajouter pour en créer un."
+
+msgid "(Pattern)"
+msgstr "(Motif)"
+
+msgid "Drag to reorder mixed filaments in this panel."
+msgstr "Faites glisser pour réordonner les filaments mélangés dans ce panneau."
+
+msgid "Edit mixed filament"
+msgstr "Modifier le filament mélangé"
+
+msgid ""
+"Number of purge lines reserved for each runtime Local-Z wipe tower toolchange. Higher values improve cleanup but increase tower depth. Only used when Local-Z dithering and the prime tower are enabled."
+msgstr ""
+"Nombre de lignes de purge réservées à chaque changement d'outil de tour de purge Local-Z pendant l'exécution. Des valeurs plus élevées améliorent le nettoyage mais augmentent la profondeur de la tour. Utilisé uniquement lorsque le tramage Local-Z et la tour de purge sont activés."
+
+msgid "Using variable layer height together with Local-Z dithering may result in poor color mixing quality."
+msgstr ""
+"L'utilisation de la hauteur de couche variable avec le tramage Local-Z peut entraîner une mauvaise qualité de mélange des couleurs."
+
+msgid ""
+"Pick from the current filament gamut. The dialog previews the closest 2-color, 3-color, or 4-color FilamentMixer recipe before it is added."
+msgstr ""
+"Choisissez dans la gamme actuelle de filaments. La boîte de dialogue prévisualise la recette FilamentMixer à 2, 3 ou 4 couleurs la plus proche avant son ajout."
+
+msgid "Enter a hex color like #00FF88. The picker will snap to the closest supported FilamentMixer color."
+msgstr ""
+"Saisissez une couleur hexadécimale comme #00FF88. Le sélecteur s'alignera sur la couleur FilamentMixer compatible la plus proche."
+
+msgid "Classic color picker. The result will snap to the closest supported FilamentMixer color."
+msgstr ""
+"Sélecteur de couleur classique. Le résultat s'alignera sur la couleur FilamentMixer compatible la plus proche."
+
+msgid "Minimum percent for each participating color. Higher values block highly skewed mixes."
+msgstr ""
+"Pourcentage minimum pour chaque couleur participante. Des valeurs plus élevées bloquent les mélanges très déséquilibrés."
+
+msgid "Consumable types in the current mixing scheme are inconsistent. Please select another mixing scheme."
+msgstr ""
+"Les types de consommables dans le schéma de mélange actuel ne correspondent pas. Veuillez sélectionner un autre schéma de mélange."
+
+msgid ""
+"Manual repeating pattern. Use physical filament IDs 1..9. Use commas to define deeper perimeter patterns, for example 12,21. Example: 1/1/1/1/2/2/2/2, 12,21, or 1/2/3/4."
+msgstr ""
+"Motif répétitif manuel. Utilisez les ID de filament physique 1..9. Utilisez des virgules pour définir des motifs de périmètre plus profonds, par exemple 12,21. Exemple : 1/1/1/1/2/2/2/2, 12,21 ou 1/2/3/4."
+
+msgid ""
+"Positive bias recesses the second filament in the pair; negative bias recesses the first filament.\n"
+"\n"
+"The color chip shows which filament the current value affects.\n"
+"\n"
+"Grouped wall patterns and Local-Z dithering ignore it."
+msgstr ""
+"Un biais positif met en retrait le second filament de la paire ; un biais négatif met en retrait le premier filament.\n"
+"\n"
+"La pastille de couleur indique quel filament est affecté par la valeur actuelle.\n"
+"\n"
+"Les motifs de paroi groupés et le tramage Local-Z l'ignorent."
+
+msgid ""
+"Store a per-color Local-Z cadence cap. It applies when Local-Z dithering mode is enabled in print settings."
+msgstr ""
+"Enregistre une limite de cadence Local-Z par couleur. Elle s'applique lorsque le mode de tramage Local-Z est activé dans les réglages d'impression."
+
+msgid "Maximum number of Local-Z sublayers this color may use before its cadence repeats."
+msgstr ""
+"Nombre maximal de sous-couches Local-Z que cette couleur peut utiliser avant que sa cadence ne se répète."
+
+msgid "Pick a point in the gradient map to control multi-filament mix."
+msgstr "Choisissez un point sur la carte de dégradé pour contrôler le mélange multi-filament."
+
+msgid "Unable to create a color match from the current physical filament colors."
+msgstr ""
+"Impossible de créer une correspondance de couleur à partir des couleurs actuelles de filament physique."
+
+msgid "Merging will remove this physical filament and may invalidate the mixed filament. Continue?"
+msgstr "La fusion supprimera ce filament physique et peut rendre le filament mélangé invalide. Continuer ?"
+
+msgid "(Filament %u + Filament %u)"
+msgstr "(Filament %u + filament %u)"
+
+msgid "(Filament <a> + Filament <b>)"
+msgstr "(Filament <a> + filament <b>)"
+
+msgid "(F%u + F%u)"
+msgstr "(F%u + F%u)"
+
+msgid "(F<a> + F<b>)"
+msgstr "(F<a> + F<b>)"
+
+msgid "Expert settings"
+msgstr "Paramètres expert"
+
+msgid "Simple settings"
+msgstr "Paramètres simples"
+
+msgid "Cycle settings visibility"
+msgstr "Basculer la visibilité des paramètres"
+
+msgid "C5 or C5P Not Connected"
+msgstr "Aucun C5 ou C5P connecté"
+
+msgid "Smart Remapping"
+msgstr "Remappage intelligent"
+
+msgid "Hardware Mapping"
+msgstr "Mappage matériel"
+
+msgid "Filament Info Synced Successfully"
+msgstr "Infos filament synchronisées avec succès"
+
+msgid "Filament Info Sync Failed"
+msgstr "Échec de la synchronisation des infos filament"
+
+msgid "Issue Feedback"
+msgstr "Retour de problème"
+
+msgid "Feature Request"
+msgstr "Demande de fonctionnalité"
+
+msgid "The feedback has been received and will be processed as soon as possible."
+msgstr "Le feedback a été reçu et sera traité dans les plus brefs délais."
+
+msgid "The feedback has been received."
+msgstr "Le feedback a été reçu."
+
+msgid "This will prevent data from being transmitted to cloud services. Users who only utilize local network functionality can safely enable this option."
+msgstr "Cela empêchera la transmission des données vers les services cloud. Les utilisateurs qui n'utilisent que les fonctionnalités du réseau local peuvent activer cette option en toute sécurité."
+
+msgid "Repairing polygon soup"
+msgstr "Réparation des données polygonales"
+
+msgid "Orienting polygon soup"
+msgstr "Orientation des données polygonales"
+
+msgid "Converting to mesh"
+msgstr "Conversion en maillage"
+
+msgid "Repairing mesh boundaries"
+msgstr "Réparation des limites du maillage"
+
+msgid "Finalizing repaired mesh"
+msgstr "Finalisation du maillage réparé"
+
+msgid "Remapping repaired mesh colors"
+msgstr "Réassociation des couleurs du maillage réparé"
+
+#, c-format
+msgid "%lld minutes"
+msgstr "%lld minutes"
+
+#, c-format
+msgid "%lld hours %lld minutes"
+msgstr "%lld heures %lld minutes"
+
+msgid "The multicolor filament limit has been reached. Reopen the project and try again."
+msgstr "La limite de filaments multicolores est atteinte. Rouvrez le projet et réessayez."
+
+msgid ""
+"Do you want to synchronize your personal presets with FlashForge Cloud?\n"
+"It contains the following information:\n"
+"1. The Process presets\n"
+"2. The Filament presets\n"
+"3. The Printer presets"
+msgstr ""
+"Voulez-vous synchroniser vos préréglages personnels avec FlashForge Cloud ?\n"
+"Ils contiennent les informations suivantes :\n"
+"1. Préréglages de processus\n"
+"2. Préréglages de filament\n"
+"3. Préréglages d'imprimante"
+
+msgid "To help us identify and resolve your issue more quickly, we recommend uploading your device and app logs. The logs are used solely for troubleshooting and will not collect any of your personal information."
+msgstr "Afin de nous aider à identifier et à résoudre plus rapidement votre problème, nous vous recommandons de télécharger les journaux de l'appareil et de l'application. Ces journaux sont utilisés uniquement à des fins d'analyse du problème et ne permettent pas de collecter vos données personnelles."
+
+msgid "orca software Logs"
+msgstr "Journal des tranches"
+
+msgid "orca software Operation Logs"
+msgstr "journal des opérations du logiciel de tranches"
+
+msgid "App Logs"
+msgstr "journal de l'application"
+
+msgid "App Operation Logs"
+msgstr "journal des opérations de l'application"
+
+msgid "Device Logs"
+msgstr "journal de l'appareil"
+
+msgid "Device Operation Logs"
+msgstr "journal des opérations de l'appareil"
+
+msgid "Select a Device"
+msgstr "Sélectionner un équipement"
+
+msgid "{device} device is currently offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "{device} L'appareil est actuellement hors ligne ; il n'est donc pas possible pour le moment d'accéder à son journal. Vous pouvez néanmoins envoyer vos commentaires. Une fois l'appareil de nouveau en ligne, vous pourrez envoyer à nouveau vos commentaires ou vous rendre dans « Paramètres > Télécharger les journaux du firmware » pour télécharger le journal de l'appareil."
+
+msgid "Slice Log"
+msgstr "Journal des tranches"
+
+msgid "App Log"
+msgstr "journal de l'application"
+
+msgid "Device Log"
+msgstr "journal de l'appareil"
+
+msgid "The current device is offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "L'appareil est actuellement hors ligne ; il n'est donc pas possible pour le moment d'accéder à son journal. Vous pouvez néanmoins envoyer vos commentaires. Une fois l'appareil de nouveau en ligne, vous pourrez envoyer à nouveau vos commentaires ou vous rendre dans « Paramètres > Télécharger les journaux du firmware » pour télécharger le journal de l'appareil."
+
+msgid "Slicing software operation log"
+msgstr "journal des opérations du logiciel de tranches"
+
+msgid "App operation log"
+msgstr "journal des opérations de l'application"
+
+msgid "Device operation log"
+msgstr "journal des opérations de l'appareil"
+
+msgid "Add Device"
+msgstr "Ajouter un appareil"
+
+msgid "Select Device"
+msgstr "Sélectionner un appareil"

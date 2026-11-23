@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>topbar_undo</title>
+    <g id="topbar_undo" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#333333">
+            <polyline id="路径" points="3.5 3.5 3.5 7.5 7.5 7.5"></polyline>
+            <path d="M4.029,7.034 C5.10801632,4.64026604 7.61813341,3.22618172 10.2245511,3.54371198 C12.8309687,3.86124223 14.9281604,5.83661799 15.4009064,8.41939744 C15.8736525,11.0021769 14.6121239,13.5923251 12.2871613,14.8124839 C9.96219871,16.0326427 7.11394069,15.5993431 5.257,13.743" id="路径"></path>
+        </g>
+    </g>
+</svg>

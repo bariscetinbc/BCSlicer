@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="480px" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>splash_logo_dark</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="69.4679054%" id="linearGradient-1">
+            <stop stop-color="#01F6FF" offset="0%"></stop>
+            <stop stop-color="#00ADE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="splash_logo_dark" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="编组备份-6" transform="translate(169, 115)">
+            <polygon id="Fill-1" fill="#000000" points="71 0 0 71 71 142 142 71"></polygon>
+            <polygon id="Fill-2" fill="url(#linearGradient-1)" points="71 106.5 71 136.675 136.675 71 71 5.325 71 35.5 53.25 53.25 53.25 88.75 88.75 53.25 88.75 88.75"></polygon>
+        </g>
+    </g>
+</svg>

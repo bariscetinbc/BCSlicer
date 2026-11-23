@@ -1,0 +1,2010 @@
+msgid "Based on BambuStudio and PrusaSlicer"
+msgstr "基于BambuStudio与PrusaSlicer。"
+
+msgid "The Flash Studio needs an upgrade"
+msgstr "Flashforge Studio需要进行升级"
+
+msgid "Unable to connect to the Internet!"
+msgstr "无法连接到互联网！"
+
+msgid ""
+"Flash Studio is based on OrcaSlicer by Softfever, and OrcaSlicer is based "
+"on BambuStudio by Bambulab, which is from PrusaSlicer by Prusa Research.  "
+"PrusaSlicer is from Slic3r by Alessandro Ranellucci and the RepRap community"
+msgstr ""
+"Flashforge Studio基于Softfever的OrcaSlicer，OrcaSlicer基于Bambulab的"
+"BambuStudio，BambuStudio源于Prusa Research的PrusaSlicer。 PrusaSlicer源于由 "
+"Alessandro Ranellucci与 RepRap社区创建的Slic3r。"
+
+msgid "Flash Studio is based on OrcaSlicer by SoftFever."
+msgstr "Flashforge Studio基于SoftFever的OrcaSlicer。"
+
+msgid ""
+"Another virtual camera is running.\n"
+"Flash Studio supports only a single virtual camera.\n"
+"Do you want to stop this virtual camera?"
+msgstr ""
+"另一个虚拟摄像头正在工作。\n"
+"Flash Studio 同时只能支持一个虚拟摄像头。\n"
+"是否停止前一个虚拟摄像头？"
+
+msgid ""
+"The .gcode.3mf file contains no G-code data.Please slice it with "
+"Flash Studio and export a new .gcode.3mf file."
+msgstr ""
+".gcode.3mf文件中不包含G-code数据。请使用Flashforge Studio进行切片并导出新的."
+"gcode.3mf文件。"
+
+msgctxt "Flashforge"
+msgid "Device Status"
+msgstr "设备状态"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .3mf files"
+msgstr "开启后，将缺省使用Flashforge Studio打开.3mf文件"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .stl files"
+msgstr "开启后，将缺省使用Flashforge Studio打开.stl文件"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .step files"
+msgstr "开启后，将缺省使用Flashforge Studio打开.step文件"
+
+msgid "Please login first."
+msgstr "请先登录。"
+
+msgid "Are you sure to unbind this device?"
+msgstr "确认移除设备吗？"
+
+msgid "Question"
+msgstr "询问"
+
+msgid "No printer connected, please connect printer first!"
+msgstr "未连接打印机，请先连接设备"
+
+msgid ""
+"Step 1, please confirm Flash Studio and your printer are in the same LAN."
+msgstr "第1步，请确认Flashforge Studio和您的打印机在同一个LAN上。"
+
+msgid "Get Code"
+msgstr "获取验证码"
+
+msgid "Phone Login/ Register"
+msgstr "手机验证码登录/注册"
+
+msgid "Password Login"
+msgstr "密码登录"
+
+msgid "Please enter your account"
+msgstr "请输入账号"
+
+msgid "Mobile phone number error"
+msgstr "手机号码错误"
+
+msgid "Phone Number / email"
+msgstr "手机号/邮箱"
+
+msgid "Verify code is incorrect"
+msgstr "验证码错误"
+
+msgid "Read and Agree to Accept"
+msgstr "已认真阅读并同意接受"
+
+msgid "《Term "
+msgstr "《服"
+
+msgid "of "
+msgstr "务"
+
+msgid "Service》"
+msgstr "条款》"
+
+msgid "《Term of Service》"
+msgstr "《服务条款》"
+
+msgid "《Privacy Policy》"
+msgstr "《隐私政策》"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Forget Password"
+msgstr "忘记密码"
+
+msgid "Account/verification code empty. Please enter."
+msgstr "账号或验证码为空，请输入。"
+
+msgid "Please check the agreement first."
+msgstr "请先勾选协议。"
+
+msgid "User not registered"
+msgstr "该账号未注册"
+
+msgid "Account/password empty. Please enter."
+msgstr "账号或密码为空，请输入。"
+
+msgid "Email Address Error"
+msgstr "邮箱地址错误"
+
+msgid "Password is incorrect"
+msgstr "密码错误"
+
+msgid "Code"
+msgstr "验证码"
+
+msgid "Phone Number"
+msgstr "手机号"
+
+msgid "Email"
+msgstr "邮箱"
+
+msgid "Machine Type"
+msgstr "设备型号"
+
+msgid "LAN"
+msgstr "局域网"
+
+msgid "Login out"
+msgstr "登出"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "confirm"
+msgstr "确定"
+
+msgid ""
+"The current device has \n"
+"no printing projects"
+msgstr "当前设备无打印项目"
+
+msgid "Material Station"
+msgstr "材料站"
+
+msgid "Start Filtering"
+msgstr "启动过滤"
+
+msgid "Internal Circulate"
+msgstr "内循环过滤"
+
+msgid "External Circulate"
+msgstr "外循环过滤"
+
+msgid "file name:"
+msgstr "文件名"
+
+msgid "Device offline"
+msgstr "设备离线"
+
+msgid "clear"
+msgstr "清除"
+
+msgid "Info and Control"
+msgstr "信息与控制"
+
+msgid "file: "
+msgstr "文件:"
+
+msgid "h "
+msgstr "h "
+
+msgid "min "
+msgstr "min "
+
+msgid "Remaining Time"
+msgstr "剩余时间"
+
+msgid "pause print"
+msgstr "暂停打印"
+
+msgid "cancel print"
+msgstr "取消打印"
+
+msgid "Whether Cancel Printing"
+msgstr "是否取消打印"
+
+msgid "yes"
+msgstr "是"
+
+msgid "no"
+msgstr "否"
+
+msgid "Local File List"
+msgstr "本地文件列表"
+
+msgid "print"
+msgstr "打印"
+
+msgid "idle"
+msgstr "空闲"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "Print completed,clean platform!"
+msgstr "打印已完成，请清理平台!"
+
+msgid "Total Time"
+msgstr "总共用时"
+
+msgid "busy"
+msgstr "忙碌"
+
+msgid "Print cancelled,in cache command"
+msgstr "打印已取消，当前缓存命令中"
+
+msgid "pause"
+msgstr "暂停"
+
+msgid "continue print"
+msgstr "继续打印"
+
+msgid "pausing"
+msgstr "暂停打印中"
+
+msgid "heating"
+msgstr "加热中"
+
+msgid "printing"
+msgstr "打印中"
+
+msgid "The maximum temperature cannot exceed"
+msgstr "不能超过最高温度上限"
+
+msgid "Spray Nozzle"
+msgstr "喷嘴型号"
+
+msgid "Print Size"
+msgstr "打印尺寸"
+
+msgid "Firmware Version"
+msgstr "固件版本"
+
+msgid "Serial Number"
+msgstr "序列号"
+
+msgid "Private Material Statistics"
+msgstr "丝料统计"
+
+msgid "Paused"
+msgstr "暂停"
+
+msgid "The printer move out of range.Please go home again!"
+msgstr "移动不在范围内，请先回零"
+
+msgid "Lost communication with MCU eboard"
+msgstr "MCU通讯丢失"
+
+msgid "TMC reports error:GSTAT"
+msgstr "GSTAT错误"
+
+msgid "Unable to read tmc"
+msgstr "不能读取TMC"
+
+msgid "MCU eboard: Unable to connect"
+msgstr "MCU不能连接"
+
+msgid "Nozzle temperature error."
+msgstr "喷头温度错误"
+
+msgid "Extruder not heating at expected.Please check extruder."
+msgstr "喷头加热异常.请检查喷头"
+
+msgid "Platform not heating at expected.Please check platform."
+msgstr "底板加热异常.请检查底板"
+
+msgid "Chamber not heating at expected.Please check chamber."
+msgstr "腔温加热异常.请检查腔体"
+
+msgid "Host error, please restart !"
+msgstr "通讯错误,请重启打印机!"
+
+msgid "Z-Axis go home error."
+msgstr "Z轴回零错误"
+
+msgid "Y-Axis go home error."
+msgstr "Y轴回零错误"
+
+msgid "X-Axis go home error."
+msgstr "X轴回零错误"
+
+msgid "Extruder temperature error !"
+msgstr "喷头加热异常."
+
+msgid "Platform temperature error !"
+msgstr "底板加热异常"
+
+msgid "Move queue overflow"
+msgstr "指令超出队列"
+
+msgid "No filament"
+msgstr "无丝料"
+
+msgid "Select a slot, and click the \"Load\" or \n\"Unload\" button to load or unload \nfilament."
+msgstr "可选中槽位，单击进丝退丝，用于加载\n卸载丝料。"
+
+msgctxt "filament"
+msgid "Load"
+msgstr "进丝"
+
+msgctxt "filament"
+msgid "Unload"
+msgstr "退丝"
+
+msgid "Heat up"
+msgstr "加热"
+
+msgid "Cut off filament"
+msgstr "切断耗材"
+
+msgid "Retract filament"
+msgstr "抽回耗材"
+
+msgid "Complete"
+msgstr "完成"
+
+msgid "Push filament"
+msgstr "推送耗材"
+
+msgctxt "Flashforge"
+msgid "Purge old filament"
+msgstr "冲刷旧料"
+
+msgctxt "filament"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Color Library"
+msgstr "颜色库"
+
+msgid "Print File"
+msgstr "打印文件"
+
+msgid "Material in the material station"
+msgstr "材料站内材料"
+
+msgid "Only support selecting materials of the same type"
+msgstr "仅支持选择同类型材料"
+
+msgid "Filament type and color set in the slicer"
+msgstr "切片设置的耗材类型与颜色"
+
+msgid "Slot number and the color of the\n"
+"filament in the current slot"
+msgstr "槽位号与当前槽位内耗材的颜色"
+
+msgid "Printing Time"
+msgstr "累计打印时长"
+
+msgid "IP-Address"
+msgstr "IP地址"
+
+msgid "Non-Flashforge build plate detected. Print quality may not be guaranteed."
+msgstr "检测到未使用官方钢板，可能无法保证打印质量。"
+
+msgid "Continue printing"
+msgstr "继续打印"
+
+msgid "Stop printing (replace the build plate)"
+msgstr "停止打印（更换钢板）"
+
+msgid "Lidar detected first-layer defects. Please check and decide whether to continue printing."
+msgstr "激光雷达检测到首层缺陷，请检查并决定是否继续打印。"
+
+msgid "Continue printing (defects acceptable)"
+msgstr "继续打印（可以接受缺陷）"
+
+msgid "Stop printing"
+msgstr "停止打印"
+
+msgctxt "Flashforge"
+msgid "Flow Calibration"
+msgstr "流量校准"
+
+msgctxt "Flashforge"
+msgid "First Layer Inspection"
+msgstr "首层检测"
+
+msgctxt "Flashforge"
+msgid "Downloading"
+msgstr "下载中"
+
+msgid "Unable to download some videos. Please try again later!"
+msgstr "部分视频下载失败，请稍后重试!"
+
+msgid "Failed videos:"
+msgstr "失败视频:"
+
+msgid "Delete selected file(s)?"
+msgstr "是否删除已选文件"
+
+msgid "Download complete."
+msgstr "下载完成。"
+
+msgid "Download failed. Please try again later!"
+msgstr "下载失败，请稍后重试！"
+
+msgid "The network is unstable. Please try again."
+msgstr "网络不稳定，请重试。"
+
+msgid "Lidar focus failure detected. Please check the Lidar."
+msgstr "检测到激光雷达对焦失败，请检查激光雷达"
+
+msgid "For an improved experience, please restart Flash Studio to load resources."
+msgstr "为优化您的使用体验，请重启Flashforge Studio以加载资源"
+
+msgid "Printer out of range. Please home again!"
+msgstr "打印机超出范围。请再次回零！"
+
+msgid "Communication with MCU interrupted!"
+msgstr "与MCU的通信中断"
+
+msgid "X/Y/Z/E TMC error: GSTAT!"
+msgstr "X/Y/Z/E TMC报告错误：GSTAT"
+
+msgid "X/Y/Z/E motor TMC chip communication error!"
+msgstr "无法读取X/Y/Z/E TMC"
+
+msgid "MCU: Unable to connect!"
+msgstr "MCU：无法连接"
+
+msgid "Nozzle temperature below minimum temperature!"
+msgstr "喷嘴温度低于最小温度"
+
+msgid "Extruder T0 not heating as expected!"
+msgstr "挤出机T0未按预期加热。"
+
+msgid "Extruder T1 not heating as expected!"
+msgstr "挤出机T1未按预期加热。"
+
+msgid "Heated bed not heating as expected!"
+msgstr "热床未按预期加热。"
+
+msgid "Chamber not heating as expected!"
+msgstr "腔室未按预期加热。"
+
+msgid "Host error. Please restart!"
+msgstr "主机错误，请重新启动！"
+
+msgid "X-axis homing error. X-axis sensor not triggered!"
+msgstr "X轴回零异常，X轴传感器未触发。"
+
+msgid "Y-axis homing error. Y-axis sensor not triggered!"
+msgstr "Y轴回零异常，Y轴传感器未触发。"
+
+msgid "Z-axis homing error. Z-axis sensor not triggered!"
+msgstr "Z轴回零异常，Z轴传感器未触发。"
+
+msgid "Extruder temperature < -10!"
+msgstr "喷头温度<-10"
+
+msgid "Heated bed temperature < -10!"
+msgstr "热床温度<-10"
+
+msgid "Command exceeds queue limit!"
+msgstr "指令超出队列"
+
+msgid "Language initialization failed. Please retry!"
+msgstr "语言初始化失败，请重试"
+
+msgid "USB flash drive read error!"
+msgstr "U盘读取异常"
+
+msgid "Real-time video service failure!"
+msgstr "实时视频服务出现故障"
+
+msgid "Failed to enable the camera. Please check!"
+msgstr "打开相机失败，请检查"
+
+msgid "Insufficient storage space!"
+msgstr "存储空间不足"
+
+msgid "File copy error!"
+msgstr "复制文件错误。"
+
+msgid "Model download failed!"
+msgstr "下载模型失败"
+
+msgid "Leveling sensor data cannot be cleared. Please check!"
+msgstr "调平传感器无法清零，请检查。"
+
+msgid "Leveling sensor not triggered. Please check!"
+msgstr "调平传感器未触发，请检查"
+
+msgid "Leveling sensor triggered early. Please check!"
+msgstr "调平传感器提前触发，请检查"
+
+msgid "Heated bed temperature control error!"
+msgstr "热床温控异常，"
+
+msgid "Heated bed heating timeout!"
+msgstr "热床加热超时，"
+
+msgid "Extruder temperature control error!"
+msgstr "喷头温控异常，"
+
+msgid "Nozzle too low!"
+msgstr "喷嘴太低"
+
+msgid "Nozzle too high!"
+msgstr "喷嘴太高"
+
+msgid "Chamber heating timeout!"
+msgstr "腔温加热超时"
+
+msgid "Chamber heating failed. Left heating fan speed too low!"
+msgstr "腔温加热失败，腔温加热器左加热风扇转速过低"
+
+msgid "Chamber heating failed. Right heating fan speed too low!"
+msgstr "腔温加热失败，腔温加热器右加热风扇转速过低"
+
+msgid ""
+"Abnormal chamber temperature. Air outlet temperature sensor may be damaged!"
+msgstr "腔温异常，出风口温度传感器可能损坏"
+
+msgid "Air filter fan speed too low or stopped!"
+msgstr "空气过滤风扇转速过低或停转"
+
+msgid "Channel 1 feeding timeout!"
+msgstr "通道1进料超时"
+
+msgid "Channel 2 feeding timeout!"
+msgstr "通道2进料超时"
+
+msgid "Channel 3 feeding timeout!"
+msgstr "通道3进料超时"
+
+msgid "Channel 4 feeding timeout!"
+msgstr "通道4进料超时"
+
+msgid "Channel 1 retracting timeout!"
+msgstr "通道1退料超时"
+
+msgid "Channel 2 retracting timeout!"
+msgstr "通道2退料超时"
+
+msgid "Channel 3 retracting timeout!"
+msgstr "通道3退料超时"
+
+msgid "Channel 4 retracting timeout!"
+msgstr "通道4退料超时"
+
+msgid "Failed to feed filament to the extruder!"
+msgstr "耗材送往挤出机失败"
+
+msgid "IFS odometer roller 1/2/3/4 not moving!"
+msgstr "IFS里程轮1/2/3/4不动了"
+
+msgid "Filament type mismatch!"
+msgstr "丝料类型不匹配"
+
+msgid "Abnormal leveling data!"
+msgstr "调平数据异常"
+
+msgid "Z-axis print height exceeded"
+msgstr "Z轴打印尺寸不足"
+
+msgid "Extruder filament sensor error"
+msgstr "喷头丝料传感器异常"
+
+msgid "IFS homing error"
+msgstr "IFS回零异常"
+
+msgid "Exception in priming_handler, please copy the logs!"
+msgstr ""
+"Exception in priming_handler，请拷贝日志！"
+
+msgid "Exception in flush_handler, please copy the logs!"
+msgstr "Exception in flush_handler，请拷贝日志！"
+
+msgid "Internal error on command, please copy the logs!"
+msgstr "命令内部错误，请拷贝日志！"
+
+msgid "Timing error, please copy the logs!"
+msgstr "时序错误，请拷贝日志！"
+
+msgid "System restarted, please copy the logs!"
+msgstr "系统重启，请拷贝日志!"
+
+msgid "The \"spi_transfer_response\" cannot be obtained.!"
+msgstr "无法获取“spi_transfer_response\"相应!"
+
+msgid "Extruder temperature error!"
+msgstr "喷头温度错误!"
+
+msgid "platform temperature error!"
+msgstr "热床温度错误!"
+
+msgctxt "Flashforge"
+msgid "View Guide"
+msgstr "查看指南"
+
+msgctxt "Flashforge"
+msgid "Close"
+msgstr "关闭"
+
+msgctxt "Flashforge"
+msgid "Error"
+msgstr "错误"
+
+msgctxt "GuideWeb"
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Loading failed. Please try again."
+msgstr "加载失败，请重试。"
+
+msgctxt "Flashforge"
+msgid "Refer & Earn"
+msgstr "推荐得积分"
+
+msgid "Copy Referral Link"
+msgstr "复制推荐链接"
+
+msgid "Insufficient points"
+msgstr "积分不足"
+
+msgid "Generating, please wait..."
+msgstr "生成中，请稍候..."
+
+msgid "Generation successful!"
+msgstr "生成成功"
+
+msgid "You can specify the number of colors for the model."
+msgstr "您可以指定模型的颜色数量"
+
+msgid "AI 3D Model Generator"
+msgstr "AI 模型生成"
+
+msgid "Points consumed"
+msgstr "消耗积分"
+
+msgid "Start generating"
+msgstr "开始生成"
+
+msgid "This generation is free"
+msgstr "本次生成免费"
+
+msgid "Remaining points"
+msgstr "剩余积分"
+
+msgid "Image Upload Tips"
+msgstr "图片上传建议"
+
+msgid "It supports PNG, JPG, JPEG. Images should be no larger than 6MB with a minimum resolution of 128*128."
+msgstr "支持png/jpg/jpeg，图片大小最大不超过6M，分辨率最低要求128*128。"
+
+msgid "Simple background (preferably solid color)"
+msgstr "背景简单（尽量纯色）"
+
+msgid "No text included"
+msgstr "不包含文字"
+
+msgid "Single model"
+msgstr "单主体"
+
+msgid "The model should not be too small."
+msgstr "主体不要过小"
+
+msgid "We're currently experiencing high demand. Please wait..."
+msgstr "生成高峰期，请稍等"
+
+msgid "Current queue"
+msgstr "当前队列"
+
+msgid "Maximum image resolution: 5000*5000"
+msgstr "图片最大分辨率 5000*5000"
+
+msgid "Minimum image resolution: 128*128"
+msgstr "图片最小分辨率 128*128"
+
+msgid "Maximum image size: "
+msgstr "图片大小最大 "
+
+msgid "Failed to load image"
+msgstr "图片加载失败"
+
+msgid "A model is currently being generated. Please wait."
+msgstr "当前有生成中的模型，请等待"
+
+msgid "Network Error"
+msgstr "网络错误"
+
+msgid "AI Model Generation Failed"
+msgstr "AI 模型生成失败"
+
+msgid "Importing..."
+msgstr "导入中..."
+
+msgid "Not enough points. Please earn more points."
+msgstr "积分不足，请获取积分"
+
+msgid "Get Now"
+msgstr "去获取"
+
+msgid "Please upload the image."
+msgstr "请上传图片"
+
+msgid "Failed to cancel the task"
+msgstr "取消任务失败"
+
+msgid "Export log"
+msgstr "日志导出"
+
+msgid "Exporting, please wait"
+msgstr "导出中，请稍后"
+
+msgctxt "Flashforge"
+msgid "Export successful"
+msgstr "导出成功"
+
+msgid "Export failed, please try again"
+msgstr "导出失败，请重试"
+
+msgid "Text to 3D Model"
+msgstr "文生 3D"
+
+msgid "Image to 3D Model"
+msgstr "图生 3D"
+
+msgid "Please enter the content you want to generate. We recommend focusing on a single subject. For example: A brown cat sculpture with a curled tail, in a cartoon style"
+msgstr "请输入想要生成的内容。建议以单主体为主。例如:一只棕色的猫雕塑，尾巴卷曲，卡通风格"
+
+msgid "Image preprocessing"
+msgstr "图片预处理"
+
+msgid "Processing image, please wait"
+msgstr "图片处理中，请稍候"
+
+msgid "We will preprocess the image to ensure the best AI model generation results"
+msgstr "我们会对图片进行预处理，以保证最佳的 AI 模型生成效果"
+
+msgid "Please confirm if the image meets your expectations"
+msgstr "请确认图片效果是否符合预期"
+
+msgid "Regenerate"
+msgstr "重新生成"
+
+msgid "This will cost you %d points. Are you sure you want to regenerate?"
+msgstr "需要消耗您%d 积分，确认重新生成吗？"
+
+msgid "What we will do?"
+msgstr "我们做了什么？"
+
+msgid "We will preprocess the image, including but not limited to removing the background, reducing complexity, and enhancing colors, to ensure higher-quality model generation results"
+msgstr "我们会将图片进行预处理，包括并不限于抠除背景、降低复杂度、强化色彩等等，以保证更优质的模型生成效果"
+
+msgid "Generate without preprocessing"
+msgstr "未处理生成"
+
+msgid "Generate model"
+msgstr "生成模型"
+
+msgid "Based on our tests, the generation results are excellent. We highly recommend enabling this feature!"
+msgstr "经测试，生成效果极佳，强烈建议您打开该功能！"
+
+msgid "Not Now"
+msgstr "暂不开启"
+
+msgid "Point Consumption Rules"
+msgstr "积分消耗规则"
+
+msgid "Generating a model image based on your text, please wait"
+msgstr "正在根据您的文案生成模型图片，请稍后"
+
+msgid "Please select an image to generate a 3D model"
+msgstr "请选择一张图片进一步生成 3D 模型"
+
+msgid "Text optimization"
+msgstr "文案优化"
+
+msgid "Generate image"
+msgstr "生成图片"
+
+msgid "Points have been consumed. Are you sure you want to stop this generation?"
+msgstr "积分已消耗，是否确认要终止本次生成？"
+
+msgid "Points"
+msgstr "积分"
+
+msgid "Uploaded images must be square (same width and height)."
+msgstr "上传的图片需要为正方形（长宽相同）。"
+
+msgid "Cannot regenerate. Insufficient points for image or model generation."
+msgstr "无法重新生成，总积分不足生成图片和模型。"
+
+msgid "Please upload your text"
+msgstr "请上传文案"
+
+msgid "You have %d regenerations left for this model generation. Regenerate?"
+msgstr "本次模型生成您还剩 %d 次重新生成次数，确认重新生成吗？"
+
+msgid "Not enough regenerations. Cannot regenerate."
+msgstr "重新生成次数不足，无法重新生成。"
+
+msgid "You've used your free generation. Stop this generation?"
+msgstr "本次免费生成次数已消耗，是否确认要终止本次生成？"
+
+msgid "No copyright"
+msgstr "无版权"
+
+msgid "Generation failed"
+msgstr "生成失败"
+
+msgid "It's expected to take 1-2 minutes."
+msgstr "预计需要1～2分钟"
+
+msgid "It's expected to take less than 1 minute."
+msgstr "预计需要<1分钟"
+
+msgid "Print Inspection"
+msgstr "打印检测"
+
+msgid "Extruder & Filament"
+msgstr "喷头与材料"
+
+msgid "Edit or load filament after selecting an extruder"
+msgstr "选择喷头后进行编辑或进丝操作"
+
+msgid "Temperature & Control"
+msgstr "温度与控制"
+
+msgid "Free Regenerations Left: %d"
+msgstr "剩余免费重新生成次数:%d次"
+
+msgid "This will use 1 free regeneration. Continue?"
+msgstr "需要消耗您1次免费次数,确认重新生成吗?"
+
+msgid "Device Info"
+msgstr "设备信息"
+
+msgctxt "Flashforge"
+msgid "Submit"
+msgstr "提交"
+
+msgid "View Now"
+msgstr "去看看"
+
+msgid "Removed from print list"
+msgstr "已移出打印清单"
+
+msgid "Report submitted"
+msgstr "举报已提交"
+
+msgid "The equipment needs to be updated. Please update the printer versions. The following printer versions require updating to ensure proper operation:"
+msgstr "设备需要更新，请更新打印机版本。请更新以下打印机版本以保证其正常使用："
+
+msgid "Please also upgrade the mobile app to the latest version to ensure its normal use."
+msgstr "请将手机APP也升级至最新版本以保证其正常使用。"
+
+msgid "Full Power! Create Now!"
+msgstr "状态拉满，造物启动！"
+
+msgid "Select an extruder to edit"
+msgstr "选择一个喷嘴进行编辑"
+
+msgid "Silent Mode (50%)"
+msgstr "静音模式 (50%)"
+
+msgid "Standard Mode (100%)"
+msgstr "标准模式 (100%)"
+
+msgid "Motion Mode (140%)"
+msgstr "运动模式 (140%)"
+
+msgid "Save tmp zip file"
+msgstr "保存临时文件"
+
+msgid "Generating local device id"
+msgstr "创建本地数据"
+
+msgid "Upload Complete"
+msgstr "上传完成"
+
+msgid "Upload Successful"
+msgstr "上传成功"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "Email Address"
+msgstr "联系邮箱"
+
+msgid "Email cannot be empty."
+msgstr "邮箱不能为空"
+
+msgid "%s devices require an update. Please upgrade %s to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "%s设备需要更新，请将%s升级至%s或更高版本后，再次升级至%s或更高版本。低于%s版本的设备将无法正常连接。"
+
+msgid "%s devices require an update. Please upgrade %s, and the remaining %d devices to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "%s设备需要更新，请将%s及其他%d台设备升级至%s或更高版本后，再次升级至%s或更高版本。低于%s版本的设备将无法正常连接。"
+
+msgid "If you cannot detect the new version, you can actively download it via the following link:"
+msgstr "如您无法检测到新版本，可通过以下链接进行主动下载："
+
+msgid "The printer is not idle"
+msgstr "当前机器非空闲状态"
+
+msgid "Extracting files, please wait..."
+msgstr "解压文件，请稍等..."
+
+msgid "Downloading cloud task..."
+msgstr "正在下载云任务..."
+
+msgid "Sending task..."
+msgstr "正在发送云任务..."
+
+msgid "Cancel slicing?"
+msgstr "确认取消切片？"
+
+msgid "Cancel Slicing"
+msgstr "取消切片"
+
+msgid "Cloud task is slicing..."
+msgstr "当前云任务正在切片"
+
+msgid "Reprint"
+msgstr "重新打印"
+
+msgid "Failed. Please try printing again."
+msgstr "失败，请重新打印"
+
+msgid "Cancel queue?"
+msgstr "确认取消排队？"
+
+msgid "Cancel Queue"
+msgstr "取消排队"
+
+msgid "Starts slicing and printing once the queue clears."
+msgstr "排队结束后自动切片打印"
+
+msgid "Receiving task..."
+msgstr "正在接收云任务..."
+
+msgid "Cloud slicing queued..."
+msgstr "当前云任务正在排队切片..."
+
+msgid "Jobs ahead"
+msgstr "前方排队数"
+
+msgctxt "Flashforge"
+msgid "Mapping"
+msgstr "匹配"
+
+msgctxt "Flashforge"
+msgid "After Mapping"
+msgstr "匹配后"
+
+msgctxt "Flashforge"
+msgid "Plate"
+msgstr "盘"
+
+msgctxt "Flashforge"
+msgid "Original"
+msgstr "原模型"
+
+#: resources/data/hints.ini: [hint:Chamber temperature]
+msgid ""
+"Chamber temperature\n"
+"Did you know that Flash Studio supports chamber temperature?"
+msgstr ""
+"仓温\n"
+"您知道吗？Flashforge Studio支持仓温。"
+
+#: resources/data/hints.ini: [hint:Calibration]
+msgid ""
+"Calibration\n"
+"Did you know that calibrating your printer can do wonders? Check out our "
+"beloved calibration solution in Flash Studio."
+msgstr ""
+"校准\n"
+"您知道吗？校准您的打印机可以带来奇迹？在Flashforge Studio中查看我们的备受欢迎的"
+"校准解决方案。"
+
+#: resources/data/hints.ini: [hint:Auxiliary fan]
+msgid ""
+"Auxiliary fan\n"
+"Did you know that Flash Studio supports Auxiliary part cooling fan?"
+msgstr ""
+"辅助风扇\n"
+"您知道吗？Flashforge Studio支持辅助部件冷却风扇。"
+
+#: resources/data/hints.ini: [hint:Air filtration]
+msgid ""
+"Air filtration/Exhaust Fan\n"
+"Did you know that Flash Studio can support Air filtration/Exhaust Fan?"
+msgstr ""
+"空气过滤/排气扇\n"
+"您知道吗？Flashforge Studio可以支持空气过滤/排气扇。"
+
+#: resources/data/hints.ini: [hint:How to use keyboard shortcuts]
+msgid ""
+"How to use keyboard shortcuts\n"
+"Did you know that Flash Studio offers a wide range of keyboard shortcuts "
+"and 3D scene operations."
+msgstr ""
+"如何使用键盘快捷键\n"
+"您知道吗？Flashforge Studio提供了广泛的键盘快捷键和3D场景操作。"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0001-printer-out-"
+"of-range-please-home-again"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0001-打印机超出范围-请再次回零"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0002-communication-"
+"with-mcu-interrupted"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0002-与mcu的通信中断"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0003-xyze-tmc-"
+"error-gstat"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0003-xyze-tmc错误-"
+"gstat"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0004-xyze-motor-"
+"tmc-chip-communication-error"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0004-xyze-马达-"
+"tmc芯片无法读取"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0005-mcu-unable-"
+"to-connect"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0005-mcu-无法连接"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0006-nozzle-"
+"temperature-below-minimum-temperature"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0006-喷嘴温度低于最小温度"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0007-extruder-t0-not-"
+"heating-as-expected"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0007-挤出机t0未按预期加热"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0008-extruder-t1-not-"
+"heating-as-expected"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0008-挤出机t1未按预期加热"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0009-heated-bed-"
+"not-heating-as-expected"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0009-热床未按预期加热"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0010-chamber-not-"
+"heating-as-expected"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0010-腔室未按预期加热"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0011-host-error-"
+"please-restart"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0011-主机错误请重新启动"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0012-x-axis-"
+"homing-error-x-axis-sensor-not-triggered"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0012-x轴回零异常x轴传感器未触发"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0013-y-axis-"
+"homing-error-y-axis-sensor-not-triggered"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0013-y轴回零异常y轴传感器未触发"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0014-z-axis-"
+"homing-error-z-axis-sensor-not-triggered"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0014-z轴回零异常z轴传感器未触发"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0015-extruder-"
+"temperature-10"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0015-喷头温度-10"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0016-heated-bed-"
+"temperature-10"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0016-热床温度-10"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0017-command-"
+"exceeds-queue-limit"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0017-指令超出队列"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0018-language-"
+"initialization-failed-please-retry"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0018-语言初始化失败请重试"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0019-usb-flash-"
+"drive-read-error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0019u盘读取异常"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0020-real-time-"
+"video-service-failure"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0020-实时视频服务出现故障"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0021-failed-to-"
+"enable-the-camera-please-check"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0021-打开相机失败请检查"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0022-insufficient-"
+"storage-space"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0022-存储空间不足"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0028-file-copy-"
+"error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0028-复制文件错误"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0029-model-"
+"download-failed"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0029-下载模型失败"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0041-leveling-"
+"sensor-data-cannot-be-cleared-please-check"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0041-调平传感器无法清零请检查"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0042-leveling-"
+"sensor-not-triggered-please-check"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0042-调平传感器未触发请检查"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0043-leveling-"
+"sensor-triggered-early-please-check"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0043-调平传感器提前触发请检查"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0046-heated-bed-"
+"temperature-control-error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0046-热床温控异常"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0047-heated-bed-"
+"heating-timeout"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0047-热床加热超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0048-extruder-"
+"temperature-control-error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0048-喷头温控异常"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0075-nozzle-too-"
+"low"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0075-喷嘴太低"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0076-nozzle-too-"
+"high"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0076-喷嘴太高"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0077-chamber-"
+"heating-timeout"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0077-腔温加热超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0078-chamber-"
+"heating-failed-left-heating-fan-speed-too-low"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0078-腔温加热失败腔温加热器左加热风扇转速过低"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0079-chamber-"
+"heating-failed-right-heating-fan-speed-too-low"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0079-腔温加热失败腔温加热器右加热风扇转速过低"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0080-abnormal-"
+"chamber-temperature-air-outlet-temperature-sensor-may-be-damaged"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0080-腔温异常出风口温度传感器可能损坏"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0083-air-filter-"
+"fan-speed-too-low-or-stopped"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0083-空气过滤风扇转速过低或停转"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0100-channel-1-feeding-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0100-通道1进料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0101-channel-2-feeding-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0101-通道2进料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0102-channel-3-feeding-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0102-通道3进料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0103-channel-4-feeding-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0103-通道4进料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0104-channel-1-retracting-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0104-通道1退料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0105-channel-2-retracting-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0105-通道2退料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0106-channel-3-retracting-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0106-通道3退料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0107-channel-4-retracting-"
+"timeout"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0107-通道4退料超时"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0108-failed-to-"
+"feed-filament-to-the-extruder"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0108-耗材送往挤出机失败"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0109-ifs-odometer-"
+"roller-1234-not-moving"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0109-ifs里程轮1234不动了"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0110-filament-"
+"type-mismatch"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0110-丝料类型不匹配"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0111-abnormal-"
+"leveling-data"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0111-调平数据异常"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0112-leveling-"
+"triggered-early"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0112-打印z轴尺寸小于220mm"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0113-filament-is-"
+"detected-in-the-extruder-please-check-the-feeding-position-and-clean-it-"
+"manually-or-check-the-condition-of-the-nozzle-sensor"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0113-检查到挤出机有料请检查进料位置并手动清理或着查看喷头传感器状况"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0114-ifs-homing-"
+"error"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0114-ifs回零异常"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0115-the-laser-"
+"radar-has-failed-to-focus-please-check-the-laser-radar"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0115-检查到激光雷达对焦失败请检查激光雷达"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0116-exception-in-"
+"priming_handler-please-copy-the-logs"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0116-exception-in-"
+"priming_handler请拷贝日志"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0117-exception-in-"
+"flush_handler-please-copy-the-logs"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0117-exception-in-"
+"flush_handler请拷贝日志"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0118-internal-"
+"error-on-command-please-copy-the-logs"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0118-命令内部错误请拷贝日志"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0119-timing-error-"
+"please-copy-the-logs"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0119-时序错误请拷贝日志"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0120-system-"
+"restarted-please-copy-the-logs"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0120-系统重启请拷贝日志"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0121-the-"
+"spi_transfer_response-cannot-be-obtained"
+msgstr ""
+"https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0121-无法获取spi_transfer_response相应"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0122-extruder-"
+"temperature-error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0122-喷头温度错误"
+
+msgid ""
+"https://wiki.flashforge.com/en/ad5x/error_code_list_ad5x#e0123-platform-"
+"temperature-error"
+msgstr "https://wiki.flashforge.com/zh/ad5x/error_code_list_ad5x#e0123-热床温度错误"
+
+msgid "Dithering cadence height A"
+msgstr "抖动节奏高度 A"
+
+msgid ""
+"Layer height contribution of component A for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"组件 A 对抖动虚拟耗材丝的层高贡献。设为 0 时使用普通的 1 层 A / 1 层 B 交替。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Dithering cadence height B"
+msgstr "抖动节奏高度 B"
+
+msgid ""
+"Layer height contribution of component B for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"组件 B 对抖动虚拟耗材丝的层高贡献。设为 0 时使用普通的 1 层 A / 1 层 B 交替。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Height-weighted cadence"
+msgstr "高度加权节奏"
+
+msgid ""
+"Enable height-weighted cadence for mixed filaments. Limitation: only one height-weighted mixed color should be present at a given Z plane, because independent per-color layer heights are not supported and the resulting layer height applies to the whole plane. When disabled, layer-cycle cadence is used.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"为混色耗材丝启用高度加权节奏。限制：同一 Z 平面上应只存在一种高度加权混色，因为不支持每种颜色独立层高，生成的层高会应用到整个平面。禁用后使用层循环节奏。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Local-Z lower height bound"
+msgstr "Local-Z 下限高度"
+
+msgid ""
+"Lower bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Smaller values let Local-Z use thinner sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Local-Z 混色耗材丝抖动选择每种颜色的子层高度时使用的下限。\n"
+"\n"
+"较小的值允许 Local-Z 在需要时为某种颜色使用更薄的子层。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Local-Z upper height bound"
+msgstr "Local-Z 上限高度"
+
+msgid ""
+"Upper bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Larger values let Local-Z use thicker sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Local-Z 混色耗材丝抖动选择每种颜色的子层高度时使用的上限。\n"
+"\n"
+"较大的值允许 Local-Z 在需要时为某种颜色使用更厚的子层。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Advanced dithering"
+msgstr "高级抖动"
+
+msgid ""
+"Distribute mixed filament layer-cycle cadence using an advanced ordered dithering pattern instead of a simple contiguous A-then-B run. This can reduce visible striping for some hues.\n"
+"\n"
+"This is an even more experimental mode and the perceived color may differ from normal dithering for the same filament pair and ratio.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"使用高级有序抖动图案分布混色耗材丝层循环节奏，而不是简单连续的 A 后 B 序列。对于某些色相，这可以减少可见条纹。\n"
+"\n"
+"这是更加实验性的模式，同一组耗材和比例下，感知颜色可能不同于普通抖动。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Enable mixed filament bias"
+msgstr "启用混色耗材丝偏置"
+
+msgid ""
+"Show and apply the per-row mixed filament Bias control.\n"
+"\n"
+"When enabled, the selected filament in a mixed pair is recessed slightly so the other component becomes more visible.\n"
+"\n"
+"Bias is ignored for grouped wall patterns, same-layer pointillisme, and Local Z dithering."
+msgstr ""
+"显示并应用每行混色耗材丝的“偏置”控制。\n"
+"\n"
+"启用后，混合对中选定的耗材丝会略微内缩，使另一种成分更明显。\n"
+"\n"
+"分组墙图案、同层点彩和 Local Z 抖动会忽略偏置。"
+
+msgid "Selective Expansion contraction"
+msgstr "选择性扩张/收缩"
+
+msgid ""
+"XY offset applied to mixed-filament painted regions before region assignment.\n"
+"\n"
+"Positive values contract the mixed zone inward. Negative values expand it outward.\n"
+"\n"
+"This applies to mixed filament usage in layer cadence, height cadence, same-layer pointillisme, and local Z dithering."
+msgstr ""
+"在区域分配前应用到混色耗材丝涂色区域的 XY 偏移。\n"
+"\n"
+"正值会向内收缩混色区域，负值会向外扩展。\n"
+"\n"
+"这适用于层节奏、高度节奏、同层点彩和 Local Z 抖动中的混色耗材丝用法。"
+
+msgid "Collapse same-color mixed regions"
+msgstr "折叠同色混色区域"
+
+msgid ""
+"Merge ordinary mixed-filament painted regions into a single area when they resolve to the same physical filament on a layer.\n"
+"\n"
+"This improves continuity for adjacent same-color areas. Local Z dithering turns this off automatically when enabled, but you may turn it back on manually.\n"
+"\n"
+"Experimental with Local Z dithering."
+msgstr ""
+"当普通混色耗材丝涂色区域在某一层解析为同一种物理耗材丝时，将它们合并为一个区域。\n"
+"\n"
+"这会改善相邻同色区域的连续性。启用 Local Z 抖动时会自动关闭此项，但你可以手动重新打开。\n"
+"\n"
+"与 Local Z 抖动一起使用仍属实验性功能。"
+
+msgid "Mixed filament custom definitions"
+msgstr "混色耗材丝自定义定义"
+
+msgid ""
+"Serialized custom mixed filament rows.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"序列化的自定义混色耗材丝行。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Pointillisme pixel size"
+msgstr "点彩像素大小"
+
+msgid ""
+"Length of one pointillisme segment along an extrusion path for same-layer pointillisme mode. Set to 0 to use automatic nozzle-based sizing.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"同层点彩模式下，沿挤出路径的单个点彩段长度。设为 0 时使用基于喷嘴的自动尺寸。\n"
+"\n"
+"警告：同层点彩仍处于极其实验阶段，可能产生不可用的结果。"
+
+msgid "Pointillisme line gap"
+msgstr "点彩线间隙"
+
+msgid ""
+"Optional non-extruded spacing between adjacent pointillisme segments. Increase carefully to improve separation and print quality.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"相邻点彩段之间可选的非挤出间距。谨慎增大可改善分离效果和打印质量。\n"
+"\n"
+"警告：同层点彩仍处于极其实验阶段，可能产生不可用的结果。"
+
+msgid "Dithering Z step size"
+msgstr "抖动 Z 步长"
+
+msgid ""
+"Layer height used in Z zones painted with dithering (mixed virtual filaments). Set to 0 to keep normal layer height in those zones.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"在使用抖动（混合虚拟耗材丝）涂色的 Z 区域中使用的层高。设为 0 时这些区域保持普通层高。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Local Z dithering mode"
+msgstr "Local Z 抖动模式"
+
+msgid ""
+"Use Variable Layers for Color Blending\n"
+"\n"
+"Blend colors by varying layer heights instead of using a fixed ratio of equal-height layers. This only affects blended color zones; non-blended areas keep their nominal layer height and cadence when possible.\n"
+"\n"
+"This setting increases color blending smoothness by splitting each blended layer according to the blend ratio. For example, a 66/33 blend at 0.12 mm layer height will print as one 0.08 mm layer and one 0.04 mm layer. At 0.20 mm layer height, a 75/25 blend will print as one 0.15 mm layer and one 0.05 mm layer."
+msgstr ""
+"使用可变层高进行颜色混合\n"
+"\n"
+"通过改变层高来混合颜色，而不是使用固定比例的等高层。这只影响混色区域；非混色区域会尽可能保持其标称层高和节奏。\n"
+"\n"
+"该设置会按混合比例拆分每个混色层，从而提高颜色混合的平滑度。例如，在 0.12 mm 层高下，66/33 混合会打印为一个 0.08 mm 层和一个 0.04 mm 层；在 0.20 mm 层高下，75/25 混合会打印为一个 0.15 mm 层和一个 0.05 mm 层。"
+
+msgid "Apply Local-Z to whole mixed objects"
+msgstr "将 Local-Z 应用于整个混色对象"
+
+msgid ""
+"Experimental. Extend Local-Z dithering beyond painted mixed zones so mixed wall regions can use Local-Z across the whole object.\n"
+"\n"
+"This also lets Local-Z continue through default mixed walls around painted areas instead of limiting the effect strictly to painted masks."
+msgstr ""
+"实验性功能。将 Local-Z 抖动扩展到涂色混色区域之外，使混色墙区域可以在整个对象上使用 Local-Z。\n"
+"\n"
+"这也允许 Local-Z 穿过涂色区域周围的默认混色墙继续生效，而不是严格限制在涂色遮罩内。"
+
+msgid "Use direct multicolor Local-Z solver"
+msgstr "使用直接多色 Local-Z 求解器"
+
+msgid ""
+"Experimental. For mixed rows with 3 or more physical filaments, allocate Local-Z sublayers directly across all components with carry-over error between layers instead of collapsing them into pair cadence.\n"
+"\n"
+"This can reduce visible banding in multicolor Local-Z blends at the cost of more toolchanges. It is ignored when explicit Local-Z A/B heights are set."
+msgstr ""
+"实验性功能。对于包含 3 种或更多物理耗材丝的混色行，直接在所有组件之间分配 Local-Z 子层，并在层间传递误差，而不是折叠为成对节奏。\n"
+"\n"
+"这可以减少多色 Local-Z 混合中的可见色带，但会增加换料次数。设置了显式 Local-Z A/B 高度时会忽略此项。"
+
+msgid "Use step size in painted zones only"
+msgstr "仅在涂色区域使用步长"
+
+msgid ""
+"When enabled, dithering Z step size is applied only where mixed filament is painted. Unpainted zones keep their original layer height.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"启用后，抖动 Z 步长只应用在已涂色为混色耗材丝的区域。未涂色区域保持原始层高。\n"
+"\n"
+"项目 Wiki 发布后会提供详细的混色耗材丝设置说明。"
+
+msgid "Local-Z mini wipe lines"
+msgstr "Local-Z 迷你擦拭线"
+
+msgid "Mixed filaments are unreliable on a single-extruder printer."
+msgstr "单挤出机打印机上的混色耗材丝可靠性较低。"
+
+msgid "Mixed Filament %d"
+msgstr "混色耗材丝 %d"
+
+msgid "Add Color"
+msgstr "添加颜色"
+
+msgid "Hex"
+msgstr "十六进制"
+
+msgid "Requested"
+msgstr "请求颜色"
+
+msgid "Creates"
+msgstr "生成"
+
+msgid "Exact preset mixes"
+msgstr "精确预设混合"
+
+msgid "Matching closest supported mix..."
+msgstr "正在匹配最接近的受支持混合..."
+
+msgid "Calculating closest supported mix..."
+msgstr "正在计算最接近的受支持混合..."
+
+msgid "%d%% min"
+msgstr "最小 %d%%"
+
+msgid "Use a valid hex color like #00FF88."
+msgstr "请使用类似 #00FF88 的有效十六进制颜色。"
+
+msgid "No supported 2-color, 3-color, or 4-color recipe found."
+msgstr "未找到受支持的 2 色、3 色或 4 色配方。"
+
+msgid "Matching %s..."
+msgstr "正在匹配 %s..."
+
+msgid "Requested %s, closest recipe delta: %.2f"
+msgstr "请求 %s，最接近配方色差：%.2f"
+
+msgid "Unable to create a color mix from the current physical filament colors within the selected range."
+msgstr "无法在所选范围内使用当前物理耗材丝颜色创建混色。"
+
+msgid "Local-Z breakdown: manual pattern rows do not use pair decomposition."
+msgstr "Local-Z 分解：手动图案行不使用成对分解。"
+
+msgid "Local-Z breakdown: same-layer mode does not use local-Z pair decomposition."
+msgstr "Local-Z 分解：同层模式不使用 Local-Z 成对分解。"
+
+msgid "Local-Z direct multicolor solver: %s"
+msgstr "Local-Z 直接多色求解器：%s"
+
+msgid "Local-Z direct multicolor solver: F<n> <percent>%, ..."
+msgstr "Local-Z 直接多色求解器：F<n> <percent>%，..."
+
+msgid ""
+"Carry-over error is distributed directly across all %d components instead of collapsing them into pair cadence."
+msgstr "传递误差会直接分配到全部 %d 个组件，而不是折叠为成对节奏。"
+
+msgid ""
+"Carry-over error is distributed directly across all <count> components instead of collapsing them into pair cadence."
+msgstr "传递误差会直接分配到全部 <count> 个组件，而不是折叠为成对节奏。"
+
+msgid "Effective Local-Z cap: up to %d sublayers per nominal layer."
+msgstr "有效 Local-Z 上限：每个标称层最多 %d 个子层。"
+
+msgid "Effective Local-Z cap: up to <count> sublayers per nominal layer."
+msgstr "有效 Local-Z 上限：每个标称层最多 <count> 个子层。"
+
+msgid "Local-Z layer cadence: %s."
+msgstr "Local-Z 层节奏：%s。"
+
+msgid "Local-Z layer cadence: <pair cadence summary>."
+msgstr "Local-Z 层节奏：<pair cadence summary>。"
+
+msgid "Pair splits: %s."
+msgstr "成对拆分：%s。"
+
+msgid "Pair splits: <pair split summary>."
+msgstr "成对拆分：<pair split summary>。"
+
+msgid "Saved row limit will apply when Local-Z dithering mode is enabled in print settings."
+msgstr "保存的行限制会在打印设置中启用 Local-Z 抖动模式时生效。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers."
+msgstr "有效 Local-Z 堆叠：%d 个子层覆盖 %d 个成对层。"
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers."
+msgstr "有效 Local-Z 堆叠：<count> 个子层覆盖 <count> 个成对层。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers (uncapped %d)."
+msgstr "有效 Local-Z 堆叠：%d 个子层覆盖 %d 个成对层（未限制为 %d）。"
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers (uncapped <count>)."
+msgstr "有效 Local-Z 堆叠：<count> 个子层覆盖 <count> 个成对层（未限制为 <count>）。"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d."
+msgstr "Local-Z 成对拆分：请求 F%u/F%u %d/%d。"
+
+msgid "Local-Z pair split: requested F<a>/F<b> <percent>/<percent>."
+msgstr "Local-Z 成对拆分：请求 F<a>/F<b> <percent>/<percent>。"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d, effective %d/%d over %d sublayers."
+msgstr "Local-Z 成对拆分：请求 F%u/F%u %d/%d，有效值 %d/%d，覆盖 %d 个子层。"
+
+msgid ""
+"Local-Z pair split: requested F<a>/F<b> <percent>/<percent>, effective <percent>/<percent> over <count> sublayers."
+msgstr "Local-Z 成对拆分：请求 F<a>/F<b> <percent>/<percent>，有效值 <percent>/<percent>，覆盖 <count> 个子层。"
+
+msgid "Local-Z breakdown: unavailable."
+msgstr "Local-Z 分解：不可用。"
+
+msgid "Click to choose a physical filament color"
+msgstr "点击选择物理耗材丝颜色"
+
+msgid "Append filament %d to pattern"
+msgstr "将耗材丝 %d 追加到图案"
+
+msgid "Bias"
+msgstr "偏置"
+
+msgid "Limit Local-Z"
+msgstr "限制 Local-Z"
+
+msgid "Max sublayers"
+msgstr "最大子层数"
+
+msgid ""
+"No other consumables of the same type are available for mixing. Please add consumables of the same type."
+msgstr "没有其他同类型耗材可用于混色。请添加类型相同的耗材。"
+
+msgid "Consumable types are inconsistent. Please add consumables of the same type."
+msgstr "耗材类型不一致。请添加类型相同的耗材。"
+
+msgid "%d-color layer cycle"
+msgstr "%d 色层循环"
+
+msgid "%d%%/%d%%"
+msgstr "%d%%/%d%%"
+
+msgid "Simple %d%%/%d%%"
+msgstr "简单 %d%%/%d%%"
+
+msgid "None (Selected)"
+msgstr "无（已选择）"
+
+msgid "F%d (Selected)"
+msgstr "F%d（已选择）"
+
+msgid "F<n> (Selected)"
+msgstr "F<n>（已选择）"
+
+msgid "Click to edit"
+msgstr "点击编辑"
+
+msgid "Gradient Mix Weights"
+msgstr "渐变混合权重"
+
+msgid "Mixed Filaments"
+msgstr "混色耗材丝"
+
+msgid "Add Pattern"
+msgstr "添加图案"
+
+msgid "Remove last mixed filament"
+msgstr "移除最后一个混色耗材丝"
+
+msgid "Add mixed filament"
+msgstr "添加混色耗材丝"
+
+msgid "Confirm merge"
+msgstr "确认合并"
+
+msgid "No mixed filaments yet. Use Add to create one."
+msgstr "还没有混色耗材丝。使用“添加”创建一个。"
+
+msgid "(Pattern)"
+msgstr "（图案）"
+
+msgid "Drag to reorder mixed filaments in this panel."
+msgstr "拖动可在此面板中重新排序混色耗材丝。"
+
+msgid "Edit mixed filament"
+msgstr "编辑混色耗材丝"
+
+msgid ""
+"Number of purge lines reserved for each runtime Local-Z wipe tower toolchange. Higher values improve cleanup but increase tower depth. Only used when Local-Z dithering and the prime tower are enabled."
+msgstr "为运行时 Local-Z 擦拭塔每次换料预留的清理线数量。较大的值可改善清理效果，但会增加塔深。仅在启用 Local-Z 抖动和主塔时使用。"
+
+msgid "Using variable layer height together with Local-Z dithering may result in poor color mixing quality."
+msgstr "同时使用可变层高和 Local-Z 抖动可能导致颜色混合质量较差。"
+
+msgid ""
+"Pick from the current filament gamut. The dialog previews the closest 2-color, 3-color, or 4-color FilamentMixer recipe before it is added."
+msgstr "从当前耗材丝色域中选择。添加前，此对话框会预览最接近的 2 色、3 色或 4 色 FilamentMixer 配方。"
+
+msgid "Enter a hex color like #00FF88. The picker will snap to the closest supported FilamentMixer color."
+msgstr "输入类似 #00FF88 的十六进制颜色。选择器会吸附到最接近的受支持 FilamentMixer 颜色。"
+
+msgid "Classic color picker. The result will snap to the closest supported FilamentMixer color."
+msgstr "经典颜色选择器。结果会吸附到最接近的受支持 FilamentMixer 颜色。"
+
+msgid "Minimum percent for each participating color. Higher values block highly skewed mixes."
+msgstr "每种参与颜色的最小百分比。较高的值会阻止比例高度偏斜的混合。"
+
+msgid "Consumable types in the current mixing scheme are inconsistent. Please select another mixing scheme."
+msgstr "当前混合方案中的耗材类型不一致。请选择其他混合方案。"
+
+msgid ""
+"Manual repeating pattern. Use physical filament IDs 1..9. Use commas to define deeper perimeter patterns, for example 12,21. Example: 1/1/1/1/2/2/2/2, 12,21, or 1/2/3/4."
+msgstr "手动重复图案。使用物理耗材丝 ID 1..9。使用逗号定义更深层的外墙图案，例如 12,21。示例：1/1/1/1/2/2/2/2、12,21 或 1/2/3/4。"
+
+msgid ""
+"Positive bias recesses the second filament in the pair; negative bias recesses the first filament.\n"
+"\n"
+"The color chip shows which filament the current value affects.\n"
+"\n"
+"Grouped wall patterns and Local-Z dithering ignore it."
+msgstr ""
+"正偏置会使成对中的第二种耗材丝内缩；负偏置会使第一种耗材丝内缩。\n"
+"\n"
+"颜色块显示当前值影响哪一种耗材丝。\n"
+"\n"
+"分组墙图案和 Local-Z 抖动会忽略此设置。"
+
+msgid ""
+"Store a per-color Local-Z cadence cap. It applies when Local-Z dithering mode is enabled in print settings."
+msgstr "保存每种颜色的 Local-Z 节奏上限。它会在打印设置中启用 Local-Z 抖动模式时生效。"
+
+msgid "Maximum number of Local-Z sublayers this color may use before its cadence repeats."
+msgstr "此颜色在节奏重复前可使用的最大 Local-Z 子层数。"
+
+msgid "Pick a point in the gradient map to control multi-filament mix."
+msgstr "在渐变图中选择一个点来控制多耗材丝混合。"
+
+msgid "Unable to create a color match from the current physical filament colors."
+msgstr "无法使用当前物理耗材丝颜色创建颜色匹配。"
+
+msgid "Merging will remove this physical filament and may invalidate the mixed filament. Continue?"
+msgstr "合并会移除此物理耗材丝，并可能使混色耗材丝失效。是否继续？"
+
+msgid "(Filament %u + Filament %u)"
+msgstr "（耗材丝 %u + 耗材丝 %u）"
+
+msgid "(Filament <a> + Filament <b>)"
+msgstr "（耗材丝 <a> + 耗材丝 <b>）"
+
+msgid "(F%u + F%u)"
+msgstr "（F%u + F%u）"
+
+msgid "(F<a> + F<b>)"
+msgstr "（F<a> + F<b>）"
+
+msgid "Expert settings"
+msgstr "专家设置"
+
+msgid "Simple settings"
+msgstr "简单设置"
+
+msgid "Cycle settings visibility"
+msgstr "切换设置可见性"
+
+msgid "C5 or C5P Not Connected"
+msgstr "暂未连接C5或C5P"
+
+msgid "Smart Remapping"
+msgstr "智能匹配"
+
+msgid "Hardware Mapping"
+msgstr "物理覆盖"
+
+msgid "Filament Info Synced Successfully"
+msgstr "耗材信息同步成功"
+
+msgid "Filament Info Sync Failed"
+msgstr "耗材信息同步失败"
+
+msgid "Issue Feedback"
+msgstr "问题反馈"
+
+msgid "Feature Request"
+msgstr "需求反馈"
+
+msgid "The feedback has been received and will be processed as soon as possible."
+msgstr "反馈已收到，会尽快处理。"
+
+msgid "The feedback has been received."
+msgstr "反馈已收到。"
+
+msgid "This will prevent data from being transmitted to cloud services. Users who only utilize local network functionality can safely enable this option."
+msgstr "这将阻止数据向云服务传输。仅使用局域网功能的用户可以安全地启用此选项。"
+
+msgid "Repairing polygon soup"
+msgstr "正在修复多边形数据"
+
+msgid "Orienting polygon soup"
+msgstr "正在调整多边形方向"
+
+msgid "Converting to mesh"
+msgstr "正在转换为网格"
+
+msgid "Repairing mesh boundaries"
+msgstr "正在修复网格边界"
+
+msgid "Finalizing repaired mesh"
+msgstr "正在完成网格修复"
+
+msgid "Remapping repaired mesh colors"
+msgstr "正在重新映射修复后的网格颜色"
+
+#, c-format
+msgid "%lld minutes"
+msgstr "%lld分钟"
+
+#, c-format
+msgid "%lld hours %lld minutes"
+msgstr "%lld小时%lld分钟"
+
+msgid "The multicolor filament limit has been reached. Reopen the project and try again."
+msgstr "多色耗材已达到上限。请重新打开项目后再试。"
+
+msgid ""
+"Do you want to synchronize your personal presets with FlashForge Cloud?\n"
+"It contains the following information:\n"
+"1. The Process presets\n"
+"2. The Filament presets\n"
+"3. The Printer presets"
+msgstr ""
+"是否要将您的个人预设与 FlashForge 云端同步？\n"
+"其中包含以下信息：\n"
+"1. 工艺预设\n"
+"2. 耗材预设\n"
+"3. 打印机预设"
+
+msgid "To help us identify and resolve your issue more quickly, we recommend uploading your device and app logs. The logs are used solely for troubleshooting and will not collect any of your personal information."
+msgstr "为帮助我们更快定位并解决您的问题，建议上传设备及应用日志。日志仅用于问题分析，不会收集您的个人隐私信息。"
+
+msgid "orca software Logs"
+msgstr "切片日志"
+
+msgid "orca software Operation Logs"
+msgstr "切片软件操作日志"
+
+msgid "App Logs"
+msgstr "App日志"
+
+msgid "App Operation Logs"
+msgstr "App操作日志"
+
+msgid "Device Logs"
+msgstr "设备日志"
+
+msgid "Device Operation Logs"
+msgstr "设备操作日志"
+
+msgid "Select a Device"
+msgstr "选择设备"
+
+msgid "{device} device is currently offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "{device}设备处于离线状态，暂时无法获取设备日志。您仍可提交反馈，设备恢复在线后，可再次提交反馈或前往设置>上传固件日志。"
+
+msgid "Slice Log"
+msgstr "切片日志"
+
+msgid "App Log"
+msgstr "App日志"
+
+msgid "Device Log"
+msgstr "设备日志"
+
+msgid "The current device is offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "当前设备处于离线状态，暂时无法获取设备日志。您仍可提交反馈，设备恢复在线后，可再次提交反馈或前往Settings > Upload Firmware Log上传设备日志。"
+
+msgid "Slicing software operation log"
+msgstr "切片软件操作日志"
+
+msgid "App operation log"
+msgstr "App操作日志"
+
+msgid "Device operation log"
+msgstr "设备操作日志"
+
+msgid "Add Device"
+msgstr "添加设备"
+
+msgid "Select Device"
+msgstr "选择设备"

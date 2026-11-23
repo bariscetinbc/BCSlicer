@@ -1,0 +1,125 @@
+name: Build BCSlicer downloads
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: ${{ matrix.name }}
+    runs-on: ${{ matrix.runner }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Linux-x64
+            runner: ubuntu-24.04
+            file: BCSlicer-Linux-x64.AppImage
+          - name: Windows-x64
+            runner: windows-2022
+            file: BCSlicer-Windows-x64.zip
+          - name: macOS-Apple-Silicon
+            runner: macos-15
+            file: BCSlicer-macOS-Apple-Silicon.dmg
+          - name: macOS-Intel
+            runner: macos-15-intel
+            file: BCSlicer-macOS-Intel.dmg
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Linux AppImage
+        if: runner.os == 'Linux'
+        env:
+          OUTPUT_FILE: ${{ matrix.file }}
+        run: |
+          sudo ./build_linux.sh -ur
+          ./build_linux.sh -dsi -rlL -j 2
+          shopt -s nullglob
+          images=(build/Flash\ Studio_*_V*.AppImage)
+          test "${#images[@]}" -eq 1
+          mv "${images[0]}" "$OUTPUT_FILE"
+
+      - uses: microsoft/setup-msbuild@v2
+        if: runner.os == 'Windows'
+
+      - name: Build Windows portable ZIP
+        if: runner.os == 'Windows'
+        shell: pwsh
+        env:
+          CMAKE_POLICY_VERSION_MINIMUM: '3.5'
+          OUTPUT_FILE: ${{ matrix.file }}
+        run: |
+          cmake -S deps -B deps/build -G "Visual Studio 17 2022" -A x64
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake --build deps/build --config Release --target deps -- /m:2
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake -S . -B build -G "Visual Studio 17 2022" -A x64 -DCMAKE_BUILD_TYPE=Release "-DCMAKE_INSTALL_PREFIX=$PWD/portable"
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake --build build --config Release -- /m:2
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmd /c scripts\run_gettext.bat
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake --install build --config Release
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          if (!(Test-Path 'portable/flash studio.exe') -or !(Test-Path 'portable/tools/uv/uv.exe')) {
+            throw 'The Windows package is missing its launcher or uv runtime.'
+          }
+          7z a -tzip $env:OUTPUT_FILE ./portable
+          exit $LASTEXITCODE
+
+      - name: Build macOS disk image
+        if: runner.os == 'macOS'
+        env:
+          OUTPUT_FILE: ${{ matrix.file }}
+        run: |
+          brew install gettext libtool
+          arch="$(uname -m)"
+          ./build_release_macos.sh -a "$arch" -x -1 -n
+          mkdir mac-package
+          ditto "build/$arch/Orca-Flashforge/Orca-Flashforge.app" "mac-package/Flash Studio.app"
+          test -x "mac-package/Flash Studio.app/Contents/MacOS/Flash Studio"
+          test -x "mac-package/Flash Studio.app/Contents/MacOS/tools/uv/uv"
+          codesign --force --deep --sign - "mac-package/Flash Studio.app"
+          codesign --verify --deep --strict "mac-package/Flash Studio.app"
+          ln -s /Applications mac-package/Applications
+          hdiutil create -volname BCSlicer -srcfolder mac-package -format UDZO "$OUTPUT_FILE"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: BCSlicer-${{ matrix.name }}
+          path: ${{ matrix.file }}
+          if-no-files-found: error
+          compression-level: 0
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: BCSlicer-*
+          path: downloads
+          merge-multiple: true
+      - name: Attach downloads to a draft release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          test -f downloads/BCSlicer-Linux-x64.AppImage
+          test -f downloads/BCSlicer-Windows-x64.zip
+          test -f downloads/BCSlicer-macOS-Apple-Silicon.dmg
+          test -f downloads/BCSlicer-macOS-Intel.dmg
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" downloads/*
+          else
+            gh release create "$RELEASE_TAG" --verify-tag --draft --title "BCSlicer $RELEASE_TAG" downloads/*
+          fi

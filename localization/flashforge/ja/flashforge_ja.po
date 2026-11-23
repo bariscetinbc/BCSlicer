@@ -1,0 +1,1648 @@
+msgid "Based on BambuStudio and PrusaSlicer"
+msgstr "BambuStudioとPrusaSlicerをベース"
+
+msgid "The Flash Studio needs an upgrade"
+msgstr "Flashforge Studioをアップグレードする必要があります"
+
+msgid "Unable to connect to the Internet!"
+msgstr "インターネットに接続できません。"
+
+msgid ""
+"Flash Studio is based on OrcaSlicer by Softfever, and OrcaSlicer is based "
+"on BambuStudio by Bambulab, which is from PrusaSlicer by Prusa Research.  "
+"PrusaSlicer is from Slic3r by Alessandro Ranellucci and the RepRap community"
+msgstr ""
+"Flashforge StudioはSoftfeverが提供するOrcaSlicerをベースにしています。OrcaSlicerは、Bambulabが提供するBam"
+"buStudio（Prusa ResearchのPrusaSlicerが元）をベースにしています。  PrusaSlicerは、Alessandro Rane"
+"llucciとRepRapコミュニティが提供するSlic3rをベースにしています"
+
+msgid "Flash Studio is based on OrcaSlicer by SoftFever."
+msgstr "Flashforge StudioはSoftFeverが提供するOrcaSlicerをベースにしています。"
+
+msgid ""
+"Another virtual camera is running.\n"
+"Flash Studio supports only a single virtual camera.\n"
+"Do you want to stop this virtual camera?"
+msgstr ""
+"別のバーチャルカメラが動作しています。 Flashforge Studioがサポートするバーチャルカメラの台数は、1台です。 このバーチャルカメラを停止しますか？"
+
+msgid ""
+"The .gcode.3mf file contains no G-code data.Please slice it with "
+"Flash Studio and export a new .gcode.3mf file."
+msgstr ""
+".gcode.3mfファイルにはGコードデータが存在しません。Flashforge Studioでスライスして、新しい.gcode.3mfファイルをエクスポートし"
+"てください。"
+
+msgctxt "Flashforge"
+msgid "Device Status"
+msgstr "デバイスのステータス"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .3mf files"
+msgstr "有効にすると、.3mfファイルをデフォルトで開くアプリケーションにFlashforge Studioを指定します。"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .stl files"
+msgstr "有効にすると、.stlファイルをデフォルトで開くアプリケーションにFlashforge Studioを指定します。"
+
+msgid ""
+"If enabled, sets Flash Studio as default application to open .step files"
+msgstr "有効にすると、.stepファイルをデフォルトで開くアプリケーションにFlashforge Studioを指定します。"
+
+msgid "Please login first."
+msgstr "まずログインしてください。"
+
+msgid "Are you sure to unbind this device?"
+msgstr "このデバイスのバインドを解除しますか？"
+
+msgid "Question"
+msgstr "質問"
+
+msgid "No printer connected, please connect printer first!"
+msgstr "プリンターが接続されていません。まず、プリンターを接続してください。"
+
+msgid ""
+"Step 1, please confirm Flash Studio and your printer are in the same LAN."
+msgstr "ステップ1：Flashforge Studioとプリンターが同じLANに存在するようにしてください。"
+
+msgid "Get Code"
+msgstr "コード取得"
+
+msgid "Phone Login/ Register"
+msgstr "ログイン/登録してください"
+
+msgid "Password Login"
+msgstr "ログイン用パスワード"
+
+msgid "Please enter your account"
+msgstr "アカウント情報を入力してください"
+
+msgid "Mobile phone number error"
+msgstr "携帯電話の番号が誤っています"
+
+msgid "Phone Number / email"
+msgstr "電話番号/メールアドレス"
+
+msgid "Verify code is incorrect"
+msgstr "検証コードが不正確です"
+
+msgid "Read and Agree to Accept"
+msgstr "読んだ後に同意して受領"
+
+msgid "《Term "
+msgstr "《サービス "
+
+msgid "of "
+msgstr "利用 "
+
+msgid "Service》"
+msgstr "規約》"
+
+msgid "《Term of Service》"
+msgstr "《サービス利用規約》"
+
+msgid "《Privacy Policy》"
+msgstr "《プライバシー方針》"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Forget Password"
+msgstr "パスワードを忘れた場合"
+
+msgid "Account/verification code empty. Please enter."
+msgstr "アカウント/認証コードが空白です。入力してください。"
+
+msgid "Please check the agreement first."
+msgstr "まず規約に同意してください。"
+
+msgid "User not registered"
+msgstr "ユーザーが登録されていません"
+
+msgid "Account/password empty. Please enter."
+msgstr "アカウント/パスワードが空白です。入力してください。"
+
+msgid "Email Address Error"
+msgstr "メールアドレスのエラー"
+
+msgid "Password is incorrect"
+msgstr "パスワードが不正確です"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "Phone Number"
+msgstr "電話番号"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Machine Type"
+msgstr "デバイスのタイプ"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Login out"
+msgstr "ログイン/ログアウト"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "confirm"
+msgstr "確認"
+
+msgid ""
+"The current device has \n"
+"no printing projects"
+msgstr "現在のデバイスには印刷 \n"
+"プロジェクトがありません"
+
+msgid "Material Station"
+msgstr "素材ステーション"
+
+msgid "Start Filtering"
+msgstr "フィルタリングを開始する"
+
+msgid "Internal Circulate"
+msgstr "内部循環"
+
+msgid "External Circulate"
+msgstr "外部循環"
+
+msgid "file name:"
+msgstr "ファイル名："
+
+msgid "Device offline"
+msgstr "デバイスのオフライン"
+
+msgid "clear"
+msgstr "クリア"
+
+msgid "Info and Control"
+msgstr "情報と操作"
+
+msgid "file: "
+msgstr "ファイル： "
+
+msgid "h "
+msgstr "時間 "
+
+msgid "min "
+msgstr "分 "
+
+msgid "Remaining Time"
+msgstr "残り時間"
+
+msgid "pause print"
+msgstr "印刷を一時停止する"
+
+msgid "cancel print"
+msgstr "印刷をキャンセルする"
+
+msgid "Whether Cancel Printing"
+msgstr "印刷をキャンセルしますか？"
+
+msgid "yes"
+msgstr "はい"
+
+msgid "no"
+msgstr "いいえ"
+
+msgid "Local File List"
+msgstr "ローカルファイル一覧"
+
+msgid "print"
+msgstr "印刷"
+
+msgid "idle"
+msgstr "アイドル"
+
+msgid "completed"
+msgstr "完了済"
+
+msgid "Print completed,clean platform!"
+msgstr "印刷完了。プラットフォームを清掃ください。"
+
+msgid "Total Time"
+msgstr "合計時間"
+
+msgid "busy"
+msgstr "ビジー"
+
+msgid "Print cancelled,in cache command"
+msgstr "印刷がキャンセルされました。コマンドがキャッシュ内に存在します"
+
+msgid "pause"
+msgstr "一時停止"
+
+msgid "continue print"
+msgstr "印刷を継続する"
+
+msgid "pausing"
+msgstr "一時停止しています"
+
+msgid "heating"
+msgstr "加熱しています"
+
+msgid "printing"
+msgstr "印刷しています"
+
+msgid "The maximum temperature cannot exceed"
+msgstr "最高温度を超えることはできません"
+
+msgid "Spray Nozzle"
+msgstr "噴霧ノズル"
+
+msgid "Print Size"
+msgstr "印刷サイズ"
+
+msgid "Firmware Version"
+msgstr "ファームウェアバージョン"
+
+msgid "Serial Number"
+msgstr "シリアル番号"
+
+msgid "Private Material Statistics"
+msgstr "プライベート素材統計"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "The printer move out of range.Please go home again!"
+msgstr "プリンターが移動範囲を超えました。ホームへ戻ってください。"
+
+msgid "Lost communication with MCU eboard"
+msgstr "MCU eボードとの通信が途絶えました"
+
+msgid "TMC reports error:GSTAT"
+msgstr "TMCがエラー：GSTATを報告しています"
+
+msgid "Unable to read tmc"
+msgstr "TMCを読み取れません"
+
+msgid "MCU eboard: Unable to connect"
+msgstr "MCU eボード：接続できません"
+
+msgid "Nozzle temperature error."
+msgstr "ノズル温度がエラーを起こしています。"
+
+msgid "Extruder not heating at expected.Please check extruder."
+msgstr "押出機が期待された温度まで加熱されていません。押出機を検査してください。"
+
+msgid "Platform not heating at expected.Please check platform."
+msgstr "プラットフォームが期待された温度まで加熱されていません。プラットフォームを検査してください。"
+
+msgid "Chamber not heating at expected.Please check chamber."
+msgstr "チャンバーが期待された温度まで加熱されていません。チャンバーを検査してください。"
+
+msgid "Host error, please restart !"
+msgstr "ホストがエラーを起こしています。再起動してください。"
+
+msgid "Z-Axis go home error."
+msgstr "Z軸がホームへの移動でエラーを起こしています。"
+
+msgid "Y-Axis go home error."
+msgstr "Y軸がホームへの移動でエラーを起こしています。"
+
+msgid "X-Axis go home error."
+msgstr "X軸がホームへの移動でエラーを起こしています。"
+
+msgid "Extruder temperature error !"
+msgstr "押出機の温度がエラーを起こしています。"
+
+msgid "Platform temperature error !"
+msgstr "プラットフォーム温度がエラーを起こしています。"
+
+msgid "Move queue overflow"
+msgstr "移動キューがオーバーフローを起こしています"
+
+msgid "No filament"
+msgstr "フィラメントが存在しません"
+
+msgid "Select a slot, and click the \"Load\" or \n\"Unload\" button to load or unload \nfilament."
+msgstr "スロットを選択し、「ロード」または\n「アンロード」ボタンをクリックしてフ\nィラメントをロードまたはアンロード\nします。"
+
+msgctxt "filament"
+msgid "Load"
+msgstr "ロード"
+
+msgctxt "filament"
+msgid "Unload"
+msgstr "アンロード"
+
+msgid "Heat up"
+msgstr "加熱"
+
+msgid "Cut off filament"
+msgstr "フィラメントを切る"
+
+msgid "Retract filament"
+msgstr "フィラメントを引き戻す"
+
+msgid "Complete"
+msgstr "完了"
+
+msgid "Push filament"
+msgstr "フィラメントを押し出す"
+
+msgctxt "Flashforge"
+msgid "Purge old filament"
+msgstr "古いフィラメントをパージする"
+
+msgctxt "filament"
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Color Library"
+msgstr "カラ―ライブラリ"
+
+msgid "Print File"
+msgstr "プリントファイル"
+
+msgid "Material in the material station"
+msgstr "マテリアルステーション内の材料"
+
+msgid "Only support selecting materials of the same type"
+msgstr "同じタイプの材料のみ選択可能です。"
+
+msgid "Filament type and color set in the slicer"
+msgstr ""
+"スライサーで設定されたフィラメントの\n"
+"種類と色"
+
+msgid "Slot number and the color of the\n"
+"filament in the current slot"
+msgstr ""
+"スロット番号と現在のスロットの\n"
+"フィラメントの色"
+
+msgid "Printing Time"
+msgstr "印刷時間"
+
+msgid "IP-Address"
+msgstr "IPアドレス"
+
+msgid "Non-Flashforge build plate detected. Print quality may not be guaranteed."
+msgstr "Flashforge以外のビルドプレートが検出されました。印刷品質は保証されない場合があります。"
+
+msgid "Continue printing"
+msgstr "印刷の続行"
+
+msgid "Stop printing (replace the build plate)"
+msgstr "印刷の中止（ビルドプレートの交換）"
+
+msgid "Lidar detected first-layer defects. Please check and decide whether to continue printing."
+msgstr "Lidarは第一レイヤーの欠陥を検出しました。確認して、印刷を続行するか決定してください。"
+
+msgid "Continue printing (defects acceptable)"
+msgstr "印刷の続行（欠陥は許容範囲）"
+
+msgid "Stop printing"
+msgstr "印刷の中止"
+
+msgctxt "Flashforge"
+msgid "Flow Calibration"
+msgstr "フローの校正"
+
+msgctxt "Flashforge"
+msgid "First Layer Inspection"
+msgstr "第一レイヤーの検査"
+
+msgctxt "Flashforge"
+msgid "Downloading"
+msgstr "ダウンロードしています"
+
+msgid "Unable to download some videos. Please try again later!"
+msgstr "一部のビデオはダウンロードできませんでした。後に再度お試しください。"
+
+msgid "Failed videos:"
+msgstr "ダウンロードできなかったビデオ："
+
+msgid "Delete selected file(s)?"
+msgstr "選択したファイルを削除しますか？"
+
+msgid "Download complete."
+msgstr "ダウンロード完了。"
+
+msgid "Download failed. Please try again later!"
+msgstr "ダウンロードに失敗しました。しばらくしてからもう一度お試しください。"
+
+msgid "The network is unstable. Please try again."
+msgstr "ネットワークが不安定です。もう一度お試しください。"
+
+msgid "Lidar focus failure detected. Please check the Lidar."
+msgstr "Lidarのフォーカス不良が検出されました。Lidarを確認してください。"
+
+msgid "For an improved experience, please restart Flash Studio to load resources."
+msgstr "より良い体験のために、Flashforge Studioを再起動してリソースを読み込んでください。"
+
+msgid "Printer out of range. Please home again!"
+msgstr "プリンター範囲外です。再度ホームしてください！"
+
+msgid "Communication with MCU interrupted!"
+msgstr "MCUとの通信が途切れました！"
+
+msgid "X/Y/Z/E TMC error: GSTAT!"
+msgstr "X/Y/Z/E TMCエラー：GSTAT！"
+
+msgid "X/Y/Z/E motor TMC chip communication error!"
+msgstr "X/Y/Z/E TMCを読み取れません！"
+
+msgid "MCU: Unable to connect!"
+msgstr "MCU：接続できません！"
+
+msgid "Nozzle temperature below minimum temperature!"
+msgstr "ノズル温度が最小温度を下回っています！"
+
+msgid "Extruder T0 not heating as expected!"
+msgstr "エクストルーダー T0 が期待通りに加熱されていません！"
+
+msgid "Extruder T1 not heating as expected!"
+msgstr "エクストルーダー T1 が期待通りに加熱されていません！"
+
+msgid "Heated bed not heating as expected!"
+msgstr "加熱ベッドが期待通りに加熱されていません！"
+
+msgid "Chamber not heating as expected!"
+msgstr "チャンバーが期待通りに加熱されていません！"
+
+msgid "Host error. Please restart!"
+msgstr "ホストエラーです。再起動してください！"
+
+msgid "X-axis homing error. X-axis sensor not triggered!"
+msgstr "X軸ホームエラー。X軸センサーが作動していません！"
+
+msgid "Y-axis homing error. Y-axis sensor not triggered!"
+msgstr "Y軸ホームエラー。Y軸センサーが作動していません！"
+
+msgid "Z-axis homing error. Z-axis sensor not triggered!"
+msgstr "Z軸ホームエラー。Z軸センサーが作動していません！"
+
+msgid "Extruder temperature < -10!"
+msgstr "エクストルーダー温度 < -10！"
+
+msgid "Heated bed temperature < -10!"
+msgstr "加熱ベッド温度 < -10！"
+
+msgid "Command exceeds queue limit!"
+msgstr "コマンドがキューの上限を超えています！"
+
+msgid "Language initialization failed. Please retry!"
+msgstr "言語の初期化に失敗しました。再試行してください！"
+
+msgid "USB flash drive read error!"
+msgstr "USBフラッシュドライブ読み取りエラー！"
+
+msgid "Real-time video service failure!"
+msgstr "リアルタイムビデオサービスに失敗しました！"
+
+msgid "Failed to enable the camera. Please check!"
+msgstr "カメラの有効化に失敗しました。確認してください！"
+
+msgid "Insufficient storage space!"
+msgstr "ストレージ容量不足！"
+
+msgid "File copy error!"
+msgstr "ファイルコピーエラー！"
+
+msgid "Model download failed!"
+msgstr "モデルのダウンロードに失敗しました！"
+
+msgid "Leveling sensor data cannot be cleared. Please check!"
+msgstr "レベリングセンサーデータをクリアできません。確認してください！"
+
+msgid "Leveling sensor not triggered. Please check!"
+msgstr "レベリングセンサーが作動していません。確認してください！"
+
+msgid "Leveling sensor triggered early. Please check!"
+msgstr "レベリングセンサーが早期に作動しました。確認してください！"
+
+msgid "Heated bed temperature control error!"
+msgstr "加熱ベッド温度制御エラー！"
+
+msgid "Heated bed heating timeout!"
+msgstr "加熱ベッド加熱タイムアウト！"
+
+msgid "Extruder temperature control error!"
+msgstr "エクストルーダー温度制御エラー！"
+
+msgid "Nozzle too low!"
+msgstr "ノズルが低すぎます！"
+
+msgid "Nozzle too high!"
+msgstr "ノズルが高すぎます！"
+
+msgid "Chamber heating timeout!"
+msgstr "チャンバー加熱タイムアウト！"
+
+msgid "Chamber heating failed. Left heating fan speed too low!"
+msgstr "チャンバー加熱失敗。左側加熱ファンスピードが低すぎます！"
+
+msgid "Chamber heating failed. Right heating fan speed too low!"
+msgstr "チャンバー加熱失敗。右側加熱ファンスピードが低すぎます！"
+
+msgid ""
+"Abnormal chamber temperature. Air outlet temperature sensor may be damaged!"
+msgstr "チャンバー温度異常。排気温度センサーが損傷している可能性があります！"
+
+msgid "Air filter fan speed too low or stopped!"
+msgstr "エアフィルターファンスピードが低すぎるか停止しています！"
+
+msgid "Channel 1 feeding timeout!"
+msgstr "チャンネル1給フィラメントタイムアウト！"
+
+msgid "Channel 2 feeding timeout!"
+msgstr "チャンネル2給フィラメントタイムアウト！"
+
+msgid "Channel 3 feeding timeout!"
+msgstr "チャンネル3給フィラメントタイムアウト！"
+
+msgid "Channel 4 feeding timeout!"
+msgstr "チャンネル4給フィラメントタイムアウト！"
+
+msgid "Channel 1 retracting timeout!"
+msgstr "チャンネル1リトラクションタイムアウト！"
+
+msgid "Channel 2 retracting timeout!"
+msgstr "チャンネル2リトラクションタイムアウト！"
+
+msgid "Channel 3 retracting timeout!"
+msgstr "チャンネル3リトラクションタイムアウト！"
+
+msgid "Channel 4 retracting timeout!"
+msgstr "チャンネル4リトラクションタイムアウト！"
+
+msgid "Failed to feed filament to the extruder!"
+msgstr "フィラメントをエクストルーダーに供給できません！"
+
+msgid "IFS odometer roller 1/2/3/4 not moving!"
+msgstr "IFSオドメーターローラー1/2/3/4が動いていません！"
+
+msgid "Filament type mismatch!"
+msgstr "フィラメントタイプ不一致！"
+
+msgid "Abnormal leveling data!"
+msgstr "レベリングデータ異常！"
+
+msgid "Z-axis print height exceeded"
+msgstr "Z軸の印刷高さを超えました"
+
+msgid "Extruder filament sensor error"
+msgstr "エクストルーダーフィラメントセンサーエラー"
+
+msgid "IFS homing error"
+msgstr "IFS ホーミングエラー"
+
+msgid "Exception in priming_handler, please copy the logs!"
+msgstr "priming_handler で例外発生、ログをコピーしてください！"
+
+msgid "Exception in flush_handler, please copy the logs!"
+msgstr "flush_handler で例外発生、ログをコピーしてください！"
+
+msgid "Internal error on command, please copy the logs!"
+msgstr "コマンドの内部エラー、ログをコピーしてください！"
+
+msgid "Timing error, please copy the logs!"
+msgstr "タイミングエラー、ログをコピーしてください！"
+
+msgid "System restarted, please copy the logs!"
+msgstr "システムが再起動しました。ログをコピーしてください。"
+
+msgid "The \"spi_transfer_response\" cannot be obtained.!"
+msgstr "spi_transfer_response の応答を取得できません。"
+
+msgid "Extruder temperature error!"
+msgstr "エクストルーダーの温度エラーです。"
+
+msgid "platform temperature error!"
+msgstr "ヒートベッドの温度エラーです。"
+
+msgctxt "Flashforge"
+msgid "View Guide"
+msgstr "ガイドを表示"
+
+msgctxt "Flashforge"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "Flashforge"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "GuideWeb"
+msgid "Loading..."
+msgstr "読み込み中…"
+
+msgid "Loading failed. Please try again."
+msgstr "読み込みに失敗しました。もう一度お試しください。"
+
+msgctxt "Flashforge"
+msgid "Refer & Earn"
+msgstr "紹介して獲得"
+
+msgid "Copy Referral Link"
+msgstr "紹介リンクをコピー"
+
+msgid "Insufficient points"
+msgstr "ポイント不足"
+
+msgid "Generating, please wait..."
+msgstr "生成中です。お待ちください…"
+
+msgid "Generation successful!"
+msgstr "生成成功！"
+
+msgid "You can specify the number of colors for the model."
+msgstr "モデルの色数を指定できます。"
+
+msgid "AI 3D Model Generator"
+msgstr "AI 3Dモデルジェネレーター"
+
+msgid "Points consumed"
+msgstr "消費ポイント"
+
+msgid "Start generating"
+msgstr "生成開始"
+
+msgid "This generation is free"
+msgstr "この生成は無料です"
+
+msgid "Remaining points"
+msgstr "残りポイント"
+
+msgid "Image Upload Tips"
+msgstr "画像アップロードのヒント"
+
+msgid "It supports PNG, JPG, JPEG. Images should be no larger than 6MB with a minimum resolution of 128*128."
+msgstr "PNG、JPG、JPEGに対応しています。画像サイズは6MB以下、解像度は128*128以上である必要があります。"
+
+msgid "Simple background (preferably solid color)"
+msgstr "シンプルな背景（できれば単色）"
+
+msgid "No text included"
+msgstr "テキストなし"
+
+msgid "Single model"
+msgstr "単一モデル"
+
+msgid "The model should not be too small."
+msgstr "モデルはあまり小さくないこと"
+
+msgid "We're currently experiencing high demand. Please wait..."
+msgstr "現在、多くのご利用が集中しています。お待ちください…"
+
+msgid "Current queue"
+msgstr "現在の待ち行列"
+
+msgid "Maximum image resolution: 5000*5000"
+msgstr "最大画像解像度：5000*5000"
+
+msgid "Minimum image resolution: 128*128"
+msgstr "最小画像解像度：128*128"
+
+msgid "Maximum image size: "
+msgstr "最大画像サイズ："
+
+msgid "Failed to load image"
+msgstr "画像の読み込みに失敗しました"
+
+msgid "A model is currently being generated. Please wait."
+msgstr "モデルを生成中です。しばらくお待ちください。"
+
+msgid "Network Error"
+msgstr "ネットワークエラー"
+
+msgid "AI Model Generation Failed"
+msgstr "AIモデルの生成に失敗しました"
+
+msgid "Importing..."
+msgstr "インポート中..."
+
+msgid "Not enough points. Please earn more points."
+msgstr "ポイントが不足しています。ポイントを取得してください。"
+
+msgid "Get Now"
+msgstr "今すぐ入手"
+
+msgid "Please upload the image."
+msgstr "画像をアップロードしてください。"
+
+msgid "Failed to cancel the task"
+msgstr "タスクのキャンセルに失敗しました"
+
+msgid "Export log"
+msgstr "ログをエクスポート"
+
+msgid "Exporting, please wait"
+msgstr "エクスポート中です。お待ちください"
+
+msgctxt "Flashforge"
+msgid "Export successful"
+msgstr "エクスポート成功"
+
+msgid "Export failed, please try again"
+msgstr "エクスポートに失敗しました。再試行してください"
+
+msgid "Text to 3D Model"
+msgstr "テキストから3Dモデル"
+
+msgid "Image to 3D Model"
+msgstr "画像から3Dモデル"
+
+msgid "Please enter the content you want to generate. We recommend focusing on a single subject. For example: A brown cat sculpture with a curled tail, in a cartoon style"
+msgstr "生成したい内容を入力してください。単一の対象に絞ることをおすすめします。例：巻き尾の茶色い猫の彫刻、カートゥーンスタイル"
+
+msgid "Image preprocessing"
+msgstr "画像の前処理"
+
+msgid "Processing image, please wait"
+msgstr "画像を処理中です。しばらくお待ちください"
+
+msgid "We will preprocess the image to ensure the best AI model generation results"
+msgstr "最適なAIモデル生成結果を得るために、画像を前処理します"
+
+msgid "Please confirm if the image meets your expectations"
+msgstr "画像が期待通りかどうか確認してください"
+
+msgid "Regenerate"
+msgstr "再生成"
+
+msgid "This will cost you %d points. Are you sure you want to regenerate?"
+msgstr "これには %d ポイントが必要です。再生成してもよろしいですか？"
+
+msgid "What we will do?"
+msgstr "実施内容？"
+
+msgid "We will preprocess the image, including but not limited to removing the background, reducing complexity, and enhancing colors, to ensure higher-quality model generation results"
+msgstr "背景の削除、複雑さの軽減、色の強化などを含め（これらに限定されません）、より高品質なモデル生成結果を得るために画像を前処理します"
+
+msgid "Generate without preprocessing"
+msgstr "前処理なしで生成"
+
+msgid "Generate model"
+msgstr "モデルを生成"
+
+msgid "Based on our tests, the generation results are excellent. We highly recommend enabling this feature!"
+msgstr "テスト結果によると、生成結果は非常に優れています。この機能の有効化を強くおすすめします！"
+
+msgid "Not Now"
+msgstr "今はしない"
+
+msgid "Point Consumption Rules"
+msgstr "ポイント消費ルール"
+
+msgid "Generating a model image based on your text, please wait"
+msgstr "入力テキストに基づいてモデル画像を生成中です。しばらくお待ちください"
+
+msgid "Please select an image to generate a 3D model"
+msgstr "3Dモデルを生成する画像を選択してください"
+
+msgid "Text optimization"
+msgstr "テキスト最適化"
+
+msgid "Generate image"
+msgstr "画像を生成"
+
+msgid "Points have been consumed. Are you sure you want to stop this generation?"
+msgstr "ポイントが消費されました。この生成を停止してもよろしいですか？"
+
+msgid "Points"
+msgstr "ポイント"
+
+msgid "Uploaded images must be square (same width and height)."
+msgstr "アップロードする画像は正方形である必要があります（幅と高さが同じ）。"
+
+msgid "Cannot regenerate. Insufficient points for image or model generation."
+msgstr "再生成できません。画像またはモデル生成のポイントが不足しています。"
+
+msgid "Please upload your text"
+msgstr "テキストをアップロードしてください"
+
+msgid "You have %d regenerations left for this model generation. Regenerate?"
+msgstr "このモデル生成では、あと %d 回 再生成できます。再生成しますか？"
+
+msgid "Not enough regenerations. Cannot regenerate."
+msgstr "再生成回数が足りません。再生成できません。"
+
+msgid "You've used your free generation. Stop this generation?"
+msgstr "無料生成を使用しました。この生成を停止しますか？"
+
+msgid "No copyright"
+msgstr "著作権なし"
+
+msgid "Generation failed"
+msgstr "生成に失敗しました"
+
+msgid "It's expected to take 1-2 minutes."
+msgstr "1-2分ほどかかる見込みです。"
+
+msgid "It's expected to take less than 1 minute."
+msgstr "1分未満ほどかかる見込みです。"
+
+msgid "Print Inspection"
+msgstr "印刷検査"
+
+msgid "Extruder & Filament"
+msgstr "エクストルーダーとフィラメント"
+
+msgid "Edit or load filament after selecting an extruder"
+msgstr "エクストルーダーを選択後、フィラメントの編集またはロードを行います"
+
+msgid "Temperature & Control"
+msgstr "温度と制御"
+
+msgid "Free Regenerations Left: %d"
+msgstr "残りの無料再生成回数：%d"
+
+msgid "This will use 1 free regeneration. Continue?"
+msgstr "この操作で無料再生成を1回使用します。続行しますか？"
+
+msgid "Device Info"
+msgstr "デバイス情報"
+
+msgctxt "Flashforge"
+msgid "Submit"
+msgstr "送信"
+
+msgid "View Now"
+msgstr "今すぐ見る"
+
+msgid "Removed from print list"
+msgstr "印刷リストから削除しました"
+
+msgid "Report submitted"
+msgstr "レポートの送信"
+
+msgid "The equipment needs to be updated. Please update the printer versions. The following printer versions require updating to ensure proper operation:"
+msgstr "デバイスの更新が必要です。プリンターのバージョンを更新してください。正常にご利用いただくためには、以下のプリンターのバージョンを更新してください："
+
+msgid "Please also upgrade the mobile app to the latest version to ensure its normal use."
+msgstr "また、モバイルアプリも最新バージョンにアップグレードし、正常な動作を確保してください。"
+
+msgid "Full Power! Create Now!"
+msgstr "全開パワーで、今すぐ創作を！"
+
+msgid "Select an extruder to edit"
+msgstr "編集するエクストルーダーを選択"
+
+msgid "Silent Mode (50%)"
+msgstr "サイレントモード (50%)"
+
+msgid "Standard Mode (100%)"
+msgstr "標準モード (100%)"
+
+msgid "Motion Mode (140%)"
+msgstr "モーションモード (140%)"
+
+msgid "Save tmp zip file"
+msgstr "一時 ZIP ファイルを保存"
+
+msgid "Generating local device id"
+msgstr "ローカルデバイス ID を生成中"
+
+msgid "Upload Complete"
+msgstr "アップロード完了"
+
+msgid "Upload Successful"
+msgstr "アップロード成功"
+
+msgid "Upload failed"
+msgstr "アップロード失敗"
+
+msgid "Email Address"
+msgstr "メールアドレス"
+
+msgid "Email cannot be empty."
+msgstr "メールアドレスは空にできません。"
+
+msgid "%s devices require an update. Please upgrade %s to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "%sデバイスの更新が必要です。%sを%s以降にアップグレードした後、再度%s以降にアップグレードしてください。%s未満のバージョンのデバイスは正常に接続できません。"
+
+msgid "%s devices require an update. Please upgrade %s, and the remaining %d devices to %s or later, then upgrade again to %s or later. Devices with versions below %s will not be able to connect properly."
+msgstr "%sデバイスの更新が必要です。%s、および残りの%d台のデバイスを%s以降にアップグレードした後、再度%s以降にアップグレードしてください。%s未満のバージョンのデバイスは正常に接続できません。"
+
+msgid "If you cannot detect the new version, you can actively download it via the following link:"
+msgstr "新しいバージョンが検出できない場合は、以下のリンクから手動でダウンロードできます："
+
+msgid "The printer is not idle"
+msgstr "プリンターがアイドル状態ではありません"
+
+msgid "Extracting files, please wait..."
+msgstr "ファイルを解凍中です。お待ちください..."
+
+msgid "Downloading cloud task..."
+msgstr "クラウドタスクをダウンロード中..."
+
+msgid "Sending task..."
+msgstr "タスク送信中..."
+
+msgid "Cancel slicing?"
+msgstr "切片を取消しますか？"
+
+msgid "Cancel Slicing"
+msgstr "切片取消"
+
+msgid "Cloud task is slicing..."
+msgstr "クラウドタスクを切片中..."
+
+msgid "Reprint"
+msgstr "再印刷"
+
+msgid "Failed. Please try printing again."
+msgstr "失敗しました。もう一度印刷してください。"
+
+msgid "Cancel queue?"
+msgstr "待機を取消しますか？"
+
+msgid "Cancel Queue"
+msgstr "待機取消"
+
+msgid "Starts slicing and printing once the queue clears."
+msgstr "待機終了後、自動で切片・印刷します。"
+
+msgid "Receiving task..."
+msgstr "タスク受信中..."
+
+msgid "Cloud slicing queued..."
+msgstr "クラウド切片待機中..."
+
+msgid "Jobs ahead"
+msgstr "前方待機数"
+
+msgctxt "Flashforge"
+msgid "Mapping"
+msgstr "マッピング"
+
+msgctxt "Flashforge"
+msgid "After Mapping"
+msgstr "マッピング後"
+
+msgctxt "Flashforge"
+msgid "Plate"
+msgstr "プレート"
+
+msgctxt "Flashforge"
+msgid "Original"
+msgstr "オリジナル"
+
+#: resources/data/hints.ini: [hint:Chamber temperature]
+msgid ""
+"Chamber temperature\n"
+"Did you know that Flash Studio supports chamber temperature?"
+msgstr "チャンバー温度 Flashforge Studioがチャンバー温度をサポートしていることをご存じですか？"
+
+#: resources/data/hints.ini: [hint:Calibration]
+msgid ""
+"Calibration\n"
+"Did you know that calibrating your printer can do wonders? Check out our "
+"beloved calibration solution in Flash Studio."
+msgstr ""
+"校正 プリンターを校正すれば素晴らしい成果が得られることをご存じですか？当社が誇るFlashforge Studioの校正ソリューションをご覧ください。"
+
+#: resources/data/hints.ini: [hint:Auxiliary fan]
+msgid ""
+"Auxiliary fan\n"
+"Did you know that Flash Studio supports Auxiliary part cooling fan?"
+msgstr "補助ファン Flashforge Studioは補助冷却ファンに対応していることをご存じですか？"
+
+#: resources/data/hints.ini: [hint:Air filtration]
+msgid ""
+"Air filtration/Exhaust Fan\n"
+"Did you know that Flash Studio can support Air filtration/Exhaust Fan?"
+msgstr "空気循環/換気ファン Flashforge Studioは空気循環/換気ファンに対応していることをご存じですか？"
+
+#: resources/data/hints.ini: [hint:How to use keyboard shortcuts]
+msgid ""
+"How to use keyboard shortcuts\n"
+"Did you know that Flash Studio offers a wide range of keyboard shortcuts "
+"and 3D scene operations."
+msgstr ""
+"キーボードのショートカットの使用方法 Flashforge Studioは多彩なキーボードのショートカットと3Dシーン操作の機能を備えていることをご存じですか？"
+
+msgid "Dithering cadence height A"
+msgstr "ディザリング周期高さ A"
+
+msgid ""
+"Layer height contribution of component A for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"ディザリング仮想フィラメントでコンポーネント A が占めるレイヤー高さです。0 に設定すると、通常の 1 レイヤー A / 1 レイヤー B の交互動作を使用します。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Dithering cadence height B"
+msgstr "ディザリング周期高さ B"
+
+msgid ""
+"Layer height contribution of component B for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"ディザリング仮想フィラメントでコンポーネント B が占めるレイヤー高さです。0 に設定すると、通常の 1 レイヤー A / 1 レイヤー B の交互動作を使用します。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Height-weighted cadence"
+msgstr "高さ加重周期"
+
+msgid ""
+"Enable height-weighted cadence for mixed filaments. Limitation: only one height-weighted mixed color should be present at a given Z plane, because independent per-color layer heights are not supported and the resulting layer height applies to the whole plane. When disabled, layer-cycle cadence is used.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"混合フィラメントで高さ加重周期を有効にします。制限: 色ごとの独立したレイヤー高さはサポートされず、計算されたレイヤー高さは平面全体に適用されるため、同じ Z 平面には高さ加重の混合色を 1 つだけ配置してください。無効時はレイヤーサイクル周期を使用します。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Local-Z lower height bound"
+msgstr "Local-Z 下限高さ"
+
+msgid ""
+"Lower bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Smaller values let Local-Z use thinner sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Local-Z 混合フィラメントのディザリングが色ごとのサブレイヤー高さを選択するときに使用する下限です。\n"
+"\n"
+"値を小さくすると、必要に応じて Local-Z がその色により薄いサブレイヤーを使用できます。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Local-Z upper height bound"
+msgstr "Local-Z 上限高さ"
+
+msgid ""
+"Upper bound used when Local-Z mixed-filament dithering chooses per-color sublayer heights.\n"
+"\n"
+"Larger values let Local-Z use thicker sublayers for a color when needed.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"Local-Z 混合フィラメントのディザリングが色ごとのサブレイヤー高さを選択するときに使用する上限です。\n"
+"\n"
+"値を大きくすると、必要に応じて Local-Z がその色により厚いサブレイヤーを使用できます。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Advanced dithering"
+msgstr "高度なディザリング"
+
+msgid ""
+"Distribute mixed filament layer-cycle cadence using an advanced ordered dithering pattern instead of a simple contiguous A-then-B run. This can reduce visible striping for some hues.\n"
+"\n"
+"This is an even more experimental mode and the perceived color may differ from normal dithering for the same filament pair and ratio.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"単純な連続 A-then-B の並びではなく、高度な順序付きディザリングパターンで混合フィラメントのレイヤーサイクル周期を分散します。一部の色相では目立つ縞を減らせます。\n"
+"\n"
+"これはさらに実験的なモードで、同じフィラメントペアと比率でも通常のディザリングとは見た目の色が異なる場合があります。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Enable mixed filament bias"
+msgstr "混合フィラメントバイアスを有効化"
+
+msgid ""
+"Show and apply the per-row mixed filament Bias control.\n"
+"\n"
+"When enabled, the selected filament in a mixed pair is recessed slightly so the other component becomes more visible.\n"
+"\n"
+"Bias is ignored for grouped wall patterns, same-layer pointillisme, and Local Z dithering."
+msgstr ""
+"行ごとの混合フィラメントバイアス制御を表示して適用します。\n"
+"\n"
+"有効にすると、混合ペア内の選択したフィラメントをわずかに奥へ下げ、もう一方の成分を見えやすくします。\n"
+"\n"
+"グループ化されたウォールパターン、同一レイヤー点描、Local Z ディザリングではバイアスは無視されます。"
+
+msgid "Selective Expansion contraction"
+msgstr "選択的な拡張/収縮"
+
+msgid ""
+"XY offset applied to mixed-filament painted regions before region assignment.\n"
+"\n"
+"Positive values contract the mixed zone inward. Negative values expand it outward.\n"
+"\n"
+"This applies to mixed filament usage in layer cadence, height cadence, same-layer pointillisme, and local Z dithering."
+msgstr ""
+"領域割り当ての前に、混合フィラメントで塗られた領域へ適用する XY オフセットです。\n"
+"\n"
+"正の値は混合領域を内側へ縮小し、負の値は外側へ拡張します。\n"
+"\n"
+"レイヤー周期、高さ周期、同一レイヤー点描、Local Z ディザリングでの混合フィラメント使用に適用されます。"
+
+msgid "Collapse same-color mixed regions"
+msgstr "同色の混合領域を結合"
+
+msgid ""
+"Merge ordinary mixed-filament painted regions into a single area when they resolve to the same physical filament on a layer.\n"
+"\n"
+"This improves continuity for adjacent same-color areas. Local Z dithering turns this off automatically when enabled, but you may turn it back on manually.\n"
+"\n"
+"Experimental with Local Z dithering."
+msgstr ""
+"通常の混合フィラメント塗り領域が、あるレイヤーで同じ物理フィラメントに解決される場合、それらを 1 つの領域に結合します。\n"
+"\n"
+"隣接する同色領域の連続性が向上します。Local Z ディザリングを有効にすると自動的にオフになりますが、手動で再度オンにできます。\n"
+"\n"
+"Local Z ディザリングとの組み合わせは実験的です。"
+
+msgid "Mixed filament custom definitions"
+msgstr "混合フィラメントのカスタム定義"
+
+msgid ""
+"Serialized custom mixed filament rows.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"シリアライズされたカスタム混合フィラメント行です。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Pointillisme pixel size"
+msgstr "点描ピクセルサイズ"
+
+msgid ""
+"Length of one pointillisme segment along an extrusion path for same-layer pointillisme mode. Set to 0 to use automatic nozzle-based sizing.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"同一レイヤー点描モードで、押出パスに沿った 1 つの点描セグメントの長さです。0 に設定するとノズルに基づく自動サイズを使用します。\n"
+"\n"
+"警告: 同一レイヤー点描モードは非常に実験的で、使用できない結果になる場合があります。"
+
+msgid "Pointillisme line gap"
+msgstr "点描ライン間隔"
+
+msgid ""
+"Optional non-extruded spacing between adjacent pointillisme segments. Increase carefully to improve separation and print quality.\n"
+"\n"
+"Warning: Same-layer pointillisme is extremely experimental and may produce unusable results."
+msgstr ""
+"隣接する点描セグメント間の任意の非押出間隔です。分離とプリント品質を改善する場合は慎重に増やしてください。\n"
+"\n"
+"警告: 同一レイヤー点描モードは非常に実験的で、使用できない結果になる場合があります。"
+
+msgid "Dithering Z step size"
+msgstr "ディザリング Z ステップサイズ"
+
+msgid ""
+"Layer height used in Z zones painted with dithering (mixed virtual filaments). Set to 0 to keep normal layer height in those zones.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"ディザリング（混合仮想フィラメント）で塗られた Z ゾーンで使用するレイヤー高さです。0 に設定すると、そのゾーンでは通常のレイヤー高さを維持します。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Local Z dithering mode"
+msgstr "Local Z ディザリングモード"
+
+msgid ""
+"Use Variable Layers for Color Blending\n"
+"\n"
+"Blend colors by varying layer heights instead of using a fixed ratio of equal-height layers. This only affects blended color zones; non-blended areas keep their nominal layer height and cadence when possible.\n"
+"\n"
+"This setting increases color blending smoothness by splitting each blended layer according to the blend ratio. For example, a 66/33 blend at 0.12 mm layer height will print as one 0.08 mm layer and one 0.04 mm layer. At 0.20 mm layer height, a 75/25 blend will print as one 0.15 mm layer and one 0.05 mm layer."
+msgstr ""
+"色混合に可変レイヤーを使用\n"
+"\n"
+"同じ高さのレイヤーを固定比率で使う代わりに、レイヤー高さを変化させて色を混合します。これは混合色ゾーンのみに影響し、非混合領域は可能な限り公称レイヤー高さと周期を維持します。\n"
+"\n"
+"この設定は混合比率に応じて各混合レイヤーを分割し、色混合をより滑らかにします。たとえば、0.12 mm レイヤー高さで 66/33 の混合は 0.08 mm レイヤー 1 つと 0.04 mm レイヤー 1 つとしてプリントされます。0.20 mm レイヤー高さで 75/25 の混合は 0.15 mm レイヤー 1 つと 0.05 mm レイヤー 1 つとしてプリントされます。"
+
+msgid "Apply Local-Z to whole mixed objects"
+msgstr "混合オブジェクト全体に Local-Z を適用"
+
+msgid ""
+"Experimental. Extend Local-Z dithering beyond painted mixed zones so mixed wall regions can use Local-Z across the whole object.\n"
+"\n"
+"This also lets Local-Z continue through default mixed walls around painted areas instead of limiting the effect strictly to painted masks."
+msgstr ""
+"実験的機能です。Local-Z ディザリングを塗られた混合ゾーンの外側まで拡張し、混合ウォール領域がオブジェクト全体で Local-Z を使用できるようにします。\n"
+"\n"
+"また、効果を塗りマスクだけに厳密に制限せず、塗られた領域周辺の既定の混合ウォールを通して Local-Z を継続させます。"
+
+msgid "Use direct multicolor Local-Z solver"
+msgstr "直接マルチカラー Local-Z ソルバーを使用"
+
+msgid ""
+"Experimental. For mixed rows with 3 or more physical filaments, allocate Local-Z sublayers directly across all components with carry-over error between layers instead of collapsing them into pair cadence.\n"
+"\n"
+"This can reduce visible banding in multicolor Local-Z blends at the cost of more toolchanges. It is ignored when explicit Local-Z A/B heights are set."
+msgstr ""
+"実験的機能です。3 つ以上の物理フィラメントを含む混合行では、ペア周期に折りたたむ代わりに、レイヤー間の持ち越し誤差を使って全コンポーネントへ Local-Z サブレイヤーを直接割り当てます。\n"
+"\n"
+"ツールチェンジは増えますが、マルチカラー Local-Z ブレンドの目立つバンディングを減らせます。明示的な Local-Z A/B 高さが設定されている場合は無視されます。"
+
+msgid "Use step size in painted zones only"
+msgstr "塗りゾーンのみにステップサイズを使用"
+
+msgid ""
+"When enabled, dithering Z step size is applied only where mixed filament is painted. Unpainted zones keep their original layer height.\n"
+"\n"
+"Detailed mixed filament setting explanations will be published once the project wiki is available."
+msgstr ""
+"有効にすると、ディザリング Z ステップサイズは混合フィラメントで塗られた場所にのみ適用されます。塗られていないゾーンは元のレイヤー高さを維持します。\n"
+"\n"
+"プロジェクト Wiki が利用可能になり次第、混合フィラメント設定の詳細な説明を公開します。"
+
+msgid "Local-Z mini wipe lines"
+msgstr "Local-Z ミニワイプライン"
+
+msgid "Mixed filaments are unreliable on a single-extruder printer."
+msgstr "単一押出機プリンターでは混合フィラメントの信頼性は高くありません。"
+
+msgid "Mixed Filament %d"
+msgstr "混合フィラメント %d"
+
+msgid "Add Color"
+msgstr "色を追加"
+
+msgid "Hex"
+msgstr "16 進数"
+
+msgid "Requested"
+msgstr "要求色"
+
+msgid "Creates"
+msgstr "作成結果"
+
+msgid "Exact preset mixes"
+msgstr "正確なプリセット混合"
+
+msgid "Matching closest supported mix..."
+msgstr "最も近い対応混合を照合中..."
+
+msgid "Calculating closest supported mix..."
+msgstr "最も近い対応混合を計算中..."
+
+msgid "%d%% min"
+msgstr "最小 %d%%"
+
+msgid "Use a valid hex color like #00FF88."
+msgstr "#00FF88 のような有効な 16 進カラーを使用してください。"
+
+msgid "No supported 2-color, 3-color, or 4-color recipe found."
+msgstr "対応する 2 色、3 色、または 4 色のレシピが見つかりません。"
+
+msgid "Matching %s..."
+msgstr "%s を照合中..."
+
+msgid "Requested %s, closest recipe delta: %.2f"
+msgstr "要求 %s、最も近いレシピの差: %.2f"
+
+msgid "Unable to create a color mix from the current physical filament colors within the selected range."
+msgstr "選択範囲内で現在の物理フィラメント色から色混合を作成できません。"
+
+msgid "Local-Z breakdown: manual pattern rows do not use pair decomposition."
+msgstr "Local-Z 内訳: 手動パターン行ではペア分解を使用しません。"
+
+msgid "Local-Z breakdown: same-layer mode does not use local-Z pair decomposition."
+msgstr "Local-Z 内訳: 同一レイヤーモードでは Local-Z ペア分解を使用しません。"
+
+msgid "Local-Z direct multicolor solver: %s"
+msgstr "Local-Z 直接マルチカラーソルバー: %s"
+
+msgid "Local-Z direct multicolor solver: F<n> <percent>%, ..."
+msgstr "Local-Z 直接マルチカラーソルバー: F<n> <percent>%, ..."
+
+msgid ""
+"Carry-over error is distributed directly across all %d components instead of collapsing them into pair cadence."
+msgstr "持ち越し誤差はペア周期へ折りたたまず、全 %d コンポーネントに直接分配されます。"
+
+msgid ""
+"Carry-over error is distributed directly across all <count> components instead of collapsing them into pair cadence."
+msgstr "持ち越し誤差はペア周期へ折りたたまず、全 <count> コンポーネントに直接分配されます。"
+
+msgid "Effective Local-Z cap: up to %d sublayers per nominal layer."
+msgstr "有効な Local-Z 上限: 公称レイヤーあたり最大 %d サブレイヤー。"
+
+msgid "Effective Local-Z cap: up to <count> sublayers per nominal layer."
+msgstr "有効な Local-Z 上限: 公称レイヤーあたり最大 <count> サブレイヤー。"
+
+msgid "Local-Z layer cadence: %s."
+msgstr "Local-Z レイヤー周期: %s。"
+
+msgid "Local-Z layer cadence: <pair cadence summary>."
+msgstr "Local-Z レイヤー周期: <pair cadence summary>。"
+
+msgid "Pair splits: %s."
+msgstr "ペア分割: %s。"
+
+msgid "Pair splits: <pair split summary>."
+msgstr "ペア分割: <pair split summary>。"
+
+msgid "Saved row limit will apply when Local-Z dithering mode is enabled in print settings."
+msgstr "保存された行制限は、プリント設定で Local-Z ディザリングモードを有効にしたときに適用されます。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers."
+msgstr "有効な Local-Z スタック: %d サブレイヤーを %d ペアレイヤーに配置。"
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers."
+msgstr "有効な Local-Z スタック: <count> サブレイヤーを <count> ペアレイヤーに配置。"
+
+msgid "Effective Local-Z stack: %d sublayers over %d pair layers (uncapped %d)."
+msgstr "有効な Local-Z スタック: %d サブレイヤーを %d ペアレイヤーに配置（上限なし %d）。"
+
+msgid "Effective Local-Z stack: <count> sublayers over <count> pair layers (uncapped <count>)."
+msgstr "有効な Local-Z スタック: <count> サブレイヤーを <count> ペアレイヤーに配置（上限なし <count>）。"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d."
+msgstr "Local-Z ペア分割: 要求 F%u/F%u %d/%d。"
+
+msgid "Local-Z pair split: requested F<a>/F<b> <percent>/<percent>."
+msgstr "Local-Z ペア分割: 要求 F<a>/F<b> <percent>/<percent>。"
+
+msgid "Local-Z pair split: requested F%u/F%u %d/%d, effective %d/%d over %d sublayers."
+msgstr "Local-Z ペア分割: 要求 F%u/F%u %d/%d、有効 %d/%d、%d サブレイヤー。"
+
+msgid ""
+"Local-Z pair split: requested F<a>/F<b> <percent>/<percent>, effective <percent>/<percent> over <count> sublayers."
+msgstr "Local-Z ペア分割: 要求 F<a>/F<b> <percent>/<percent>、有効 <percent>/<percent>、<count> サブレイヤー。"
+
+msgid "Local-Z breakdown: unavailable."
+msgstr "Local-Z 内訳: 使用できません。"
+
+msgid "Click to choose a physical filament color"
+msgstr "クリックして物理フィラメント色を選択"
+
+msgid "Append filament %d to pattern"
+msgstr "フィラメント %d をパターンに追加"
+
+msgid "Bias"
+msgstr "バイアス"
+
+msgid "Limit Local-Z"
+msgstr "Local-Z を制限"
+
+msgid "Max sublayers"
+msgstr "最大サブレイヤー数"
+
+msgid ""
+"No other consumables of the same type are available for mixing. Please add consumables of the same type."
+msgstr "混合に使用できる同じ種類の消耗材が他にありません。同じ種類の消耗材を追加してください。"
+
+msgid "Consumable types are inconsistent. Please add consumables of the same type."
+msgstr "消耗材の種類が一致しません。同じ種類の消耗材を追加してください。"
+
+msgid "%d-color layer cycle"
+msgstr "%d 色レイヤーサイクル"
+
+msgid "%d%%/%d%%"
+msgstr "%d%%/%d%%"
+
+msgid "Simple %d%%/%d%%"
+msgstr "シンプル %d%%/%d%%"
+
+msgid "None (Selected)"
+msgstr "なし（選択済み）"
+
+msgid "F%d (Selected)"
+msgstr "F%d（選択済み）"
+
+msgid "F<n> (Selected)"
+msgstr "F<n>（選択済み）"
+
+msgid "Click to edit"
+msgstr "クリックして編集"
+
+msgid "Gradient Mix Weights"
+msgstr "グラデーション混合ウェイト"
+
+msgid "Mixed Filaments"
+msgstr "混合フィラメント"
+
+msgid "Add Pattern"
+msgstr "パターンを追加"
+
+msgid "Remove last mixed filament"
+msgstr "最後の混合フィラメントを削除"
+
+msgid "Add mixed filament"
+msgstr "混合フィラメントを追加"
+
+msgid "Confirm merge"
+msgstr "結合を確認"
+
+msgid "No mixed filaments yet. Use Add to create one."
+msgstr "混合フィラメントはまだありません。追加で作成してください。"
+
+msgid "(Pattern)"
+msgstr "（パターン）"
+
+msgid "Drag to reorder mixed filaments in this panel."
+msgstr "このパネルで混合フィラメントを並べ替えるにはドラッグします。"
+
+msgid "Edit mixed filament"
+msgstr "混合フィラメントを編集"
+
+msgid ""
+"Number of purge lines reserved for each runtime Local-Z wipe tower toolchange. Higher values improve cleanup but increase tower depth. Only used when Local-Z dithering and the prime tower are enabled."
+msgstr ""
+"実行時の Local-Z ワイプタワーツールチェンジごとに予約するパージライン数です。値を大きくすると清掃は改善しますが、タワーの奥行きが増えます。Local-Z ディザリングとプライムタワーが有効な場合にのみ使用されます。"
+
+msgid "Using variable layer height together with Local-Z dithering may result in poor color mixing quality."
+msgstr "可変レイヤー高さと Local-Z ディザリングを併用すると、色混合品質が低下する場合があります。"
+
+msgid ""
+"Pick from the current filament gamut. The dialog previews the closest 2-color, 3-color, or 4-color FilamentMixer recipe before it is added."
+msgstr "現在のフィラメント色域から選択します。追加前に、このダイアログは最も近い 2 色、3 色、または 4 色の FilamentMixer レシピをプレビューします。"
+
+msgid "Enter a hex color like #00FF88. The picker will snap to the closest supported FilamentMixer color."
+msgstr "#00FF88 のような 16 進カラーを入力してください。ピッカーは最も近い対応 FilamentMixer 色にスナップします。"
+
+msgid "Classic color picker. The result will snap to the closest supported FilamentMixer color."
+msgstr "クラシックカラーピッカーです。結果は最も近い対応 FilamentMixer 色にスナップします。"
+
+msgid "Minimum percent for each participating color. Higher values block highly skewed mixes."
+msgstr "参加する各色の最小パーセントです。値を大きくすると極端に偏った混合を防ぎます。"
+
+msgid "Consumable types in the current mixing scheme are inconsistent. Please select another mixing scheme."
+msgstr "現在の混合方式では消耗材の種類が一致していません。別の混合方式を選択してください。"
+
+msgid ""
+"Manual repeating pattern. Use physical filament IDs 1..9. Use commas to define deeper perimeter patterns, for example 12,21. Example: 1/1/1/1/2/2/2/2, 12,21, or 1/2/3/4."
+msgstr ""
+"手動の繰り返しパターンです。物理フィラメント ID 1..9 を使用します。より深い外周パターンを定義するにはカンマを使用します（例: 12,21）。例: 1/1/1/1/2/2/2/2、12,21、または 1/2/3/4。"
+
+msgid ""
+"Positive bias recesses the second filament in the pair; negative bias recesses the first filament.\n"
+"\n"
+"The color chip shows which filament the current value affects.\n"
+"\n"
+"Grouped wall patterns and Local-Z dithering ignore it."
+msgstr ""
+"正のバイアスはペアの 2 番目のフィラメントを奥へ下げ、負のバイアスは 1 番目のフィラメントを奥へ下げます。\n"
+"\n"
+"カラーチップは現在値が影響するフィラメントを示します。\n"
+"\n"
+"グループ化されたウォールパターンと Local-Z ディザリングでは無視されます。"
+
+msgid ""
+"Store a per-color Local-Z cadence cap. It applies when Local-Z dithering mode is enabled in print settings."
+msgstr "色ごとの Local-Z 周期上限を保存します。プリント設定で Local-Z ディザリングモードを有効にすると適用されます。"
+
+msgid "Maximum number of Local-Z sublayers this color may use before its cadence repeats."
+msgstr "この色が周期を繰り返す前に使用できる Local-Z サブレイヤーの最大数です。"
+
+msgid "Pick a point in the gradient map to control multi-filament mix."
+msgstr "マルチフィラメント混合を制御するには、グラデーションマップ上の点を選択します。"
+
+msgid "Unable to create a color match from the current physical filament colors."
+msgstr "現在の物理フィラメント色から色合わせを作成できません。"
+
+msgid "Merging will remove this physical filament and may invalidate the mixed filament. Continue?"
+msgstr "結合するとこの物理フィラメントが削除され、混合フィラメントが無効になる場合があります。続行しますか？"
+
+msgid "(Filament %u + Filament %u)"
+msgstr "（フィラメント %u + フィラメント %u）"
+
+msgid "(Filament <a> + Filament <b>)"
+msgstr "（フィラメント <a> + フィラメント <b>）"
+
+msgid "(F%u + F%u)"
+msgstr "（F%u + F%u）"
+
+msgid "(F<a> + F<b>)"
+msgstr "（F<a> + F<b>）"
+
+msgid "Expert settings"
+msgstr "エキスパート設定"
+
+msgid "Simple settings"
+msgstr "シンプル設定"
+
+msgid "Cycle settings visibility"
+msgstr "設定の表示レベルを切り替え"
+
+msgid "C5 or C5P Not Connected"
+msgstr "C5またはC5Pが接続されていません"
+
+msgid "Smart Remapping"
+msgstr "スマートマッピング"
+
+msgid "Hardware Mapping"
+msgstr "ハードウェアマッピング"
+
+msgid "Filament Info Synced Successfully"
+msgstr "フィラメント情報の同期に成功しました"
+
+msgid "Filament Info Sync Failed"
+msgstr "フィラメント情報の同期に失敗しました"
+
+msgid "Issue Feedback"
+msgstr "問題のフィードバック"
+
+msgid "Feature Request"
+msgstr "機能リクエスト"
+
+msgid "The feedback has been received and will be processed as soon as possible."
+msgstr "フィードバックが受領され、できるだけ早く処理されます。"
+
+msgid "The feedback has been received."
+msgstr "フィードバックが受領されました。"
+
+msgid "This will prevent data from being transmitted to cloud services. Users who only utilize local network functionality can safely enable this option."
+msgstr "これはデータがクラウドサービスへ送信されるのを防ぎます。ローカルネットワーク機能のみを使用するユーザーは、このオプションを安全に有効化できます。"
+
+msgid "Repairing polygon soup"
+msgstr "ポリゴンデータを修復中"
+
+msgid "Orienting polygon soup"
+msgstr "ポリゴンの向きを調整中"
+
+msgid "Converting to mesh"
+msgstr "メッシュに変換中"
+
+msgid "Repairing mesh boundaries"
+msgstr "メッシュ境界を修復中"
+
+msgid "Finalizing repaired mesh"
+msgstr "修復したメッシュを仕上げ中"
+
+msgid "Remapping repaired mesh colors"
+msgstr "修復したメッシュの色を再割り当て中"
+
+#, c-format
+msgid "%lld minutes"
+msgstr "%lld分"
+
+#, c-format
+msgid "%lld hours %lld minutes"
+msgstr "%lld時間%lld分"
+
+msgid "The multicolor filament limit has been reached. Reopen the project and try again."
+msgstr "マルチカラーフィラメントの上限に達しました。プロジェクトを開き直して、もう一度お試しください。"
+
+msgid ""
+"Do you want to synchronize your personal presets with FlashForge Cloud?\n"
+"It contains the following information:\n"
+"1. The Process presets\n"
+"2. The Filament presets\n"
+"3. The Printer presets"
+msgstr ""
+"個人プリセットを FlashForge Cloud と同期しますか？\n"
+"以下の情報が含まれます：\n"
+"1. プロセスプリセット\n"
+"2. フィラメントプリセット\n"
+"3. プリンタープリセット"
+
+msgid "To help us identify and resolve your issue more quickly, we recommend uploading your device and app logs. The logs are used solely for troubleshooting and will not collect any of your personal information."
+msgstr "お客様の問題を迅速に特定し、解決するため、デバイスおよびアプリのログをアップロードすることをお勧めします。ログは問題の分析にのみ使用され、お客様の個人情報は収集されません。"
+
+msgid "orca software Logs"
+msgstr "スライスログ"
+
+msgid "orca software Operation Logs"
+msgstr "スライスソフトウェアの操作ログ"
+
+msgid "App Logs"
+msgstr "アプリログ"
+
+msgid "App Operation Logs"
+msgstr "アプリの操作ログ"
+
+msgid "Device Logs"
+msgstr "デバイスログ"
+
+msgid "Device Operation Logs"
+msgstr "デバイスの操作ログ"
+
+msgid "Select a Device"
+msgstr "機器の選択"
+
+msgid "{device} device is currently offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "{device} 現在、デバイスはオフライン状態のため、一時的にデバイスログを取得できません。引き続きフィードバックを送信することは可能です。デバイスがオンラインに戻ったら、再度フィードバックを送信するか、設定 > ファームウェアログをアップロードからデバイスログをアップロードしてください。"
+
+msgid "Slice Log"
+msgstr "スライスログ"
+
+msgid "App Log"
+msgstr "アプリログ"
+
+msgid "Device Log"
+msgstr "デバイスログ"
+
+msgid "The current device is offline, so we are unable to retrieve the device logs at this time. You can still submit feedback. Once the device is back online, you can submit feedback again or go to Settings > Upload Firmware Log to upload the device logs."
+msgstr "現在、デバイスはオフライン状態のため、一時的にデバイスログを取得できません。引き続きフィードバックを送信することは可能です。デバイスがオンラインに戻ったら、再度フィードバックを送信するか、設定 > ファームウェアログをアップロードからデバイスログをアップロードしてください。"
+
+msgid "Slicing software operation log"
+msgstr "スライスソフトウェアの操作ログ"
+
+msgid "App operation log"
+msgstr "アプリの操作ログ"
+
+msgid "Device operation log"
+msgstr "デバイスの操作ログ"
+
+msgid "Add Device"
+msgstr "デバイスを追加"
+
+msgid "Select Device"
+msgstr "デバイスを選択"
